@@ -3,7 +3,7 @@
     <title>sound.risd.edu </title>
     <link href="https://risdsound.github.io/feed.xml" rel="self" />
     <link href="https://risdsound.github.io" />
-    <updated>2018-07-18T13:19:57-04:00</updated>
+    <updated>2018-07-18T14:07:38-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://risdsound.github.io/risd-weekend.html</id>
             <category term="news"/>
 
-        <updated>2018-07-18T13:12:03-04:00</updated>
+        <updated>2018-07-18T14:06:56-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -40,12 +40,12 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-reservations.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-18T12:14:18-04:00</updated>
+        <updated>2018-07-18T14:06:53-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://risdsound.github.io/media/posts/8/wire1.png" alt="" />
-                <strong><a href="http://efs.bookedscheduler.com/Web/schedule.php?sid=13" target="_blank" rel="noopener noreferrer">CLICK HERE TO LOG IN TO RESERVATION SYSTEM</a></strong><br>
+                <strong><a href="http://efs.bookedscheduler.com/Web/schedule.php?sid=13" target="_blank" rel="noopener noreferrer">CLICK TO LOG IN</a></strong><br>
 <ul>
 <li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>
 <li>Access to studio and reservation system is granted after an introductory training.</li>
@@ -65,12 +65,12 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-help.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-18T12:14:15-04:00</updated>
+        <updated>2018-07-18T14:06:48-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://risdsound.github.io/media/posts/7/wire2.png" alt="" />
-                <strong><a href="https://goo.gl/forms/LyAt2oGCibTXr0O43" target="_blank" rel="noopener noreferrer">CLICK HERE TO SUBMIT A SUPPORT TICKET</a></strong><br>
+                <strong><a href="https://goo.gl/forms/LyAt2oGCibTXr0O43" target="_blank" rel="noopener noreferrer">CLICK TO SUBMIT TICKET</a></strong><br>
 <ul>
 <li>Consult the <em><span style="text-decoration: underline;">getting started document (TBA)</span></em> before submitting a ticket</li>
 <li>By submitting a ticket, you will alert studio management of problems encountered. These will be addressed as soon as possible. Support tickets are reviewed daily.</li>
