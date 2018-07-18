@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://risdsound.github.io/risd-weekend.html",
+            "url": "https://risdsound.github.io/risd-weekend.html",
+            "title": "RISD Weekend demonstrations",
+            "content_html": "<p>As part of the <a href=\"http://risdweekend.com\" target=\"_blank\" rel=\"noopener noreferrer\">2018 RISD Weekend events</a>, Associate Professor of Experimental &amp; Foundation Studies Shawn Greenlee will demonstrate the capabilities of RISD's new spatial audio studio.  </p>\n<p>Register for a session at the following links:</p>\n<p> </p>\nSession 1: <a href=\"http://risdweekend.com/reunion/#risd-revealed-ambisonic-sound-studio-session-1\" target=\"_blank\" rel=\"noopener noreferrer\">October 6, 11:30am: RISD Revealed | Ambisonic Sound Studio </a>\n<p>Session 2: <a href=\"http://risdweekend.com/reunion/#risd-revealed-ambisonic-sound-studio-session-2\" target=\"_blank\" rel=\"noopener noreferrer\">October 6, 1:30pm: RISD Revealed | Ambisonic Sound Studio</a></p>",
+            "image": "https://risdsound.github.io/media/posts/9/",
+            "author": {
+                "name": "shawn greenlee"
+            },
+            "tags": [
+                   "news"
+            ],
+            "date_published": "2018-07-18T13:08:58-04:00",
+            "date_modified": "2018-07-18T13:12:03-04:00"
+        },
+        {
             "id": "https://risdsound.github.io/sas-reservations.html",
             "url": "https://risdsound.github.io/sas-reservations.html",
             "title": "Reservations",

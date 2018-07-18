@@ -3,12 +3,34 @@
     <title>sound.risd.edu </title>
     <link href="https://risdsound.github.io/feed.xml" rel="self" />
     <link href="https://risdsound.github.io" />
-    <updated>2018-07-18T12:15:56-04:00</updated>
+    <updated>2018-07-18T13:19:57-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
     <id>https://risdsound.github.io</id>
 
+    <entry>
+        <title>RISD Weekend demonstrations</title>
+        <author>
+            <name>shawn greenlee</name>
+        </author>
+        <link href="https://risdsound.github.io/risd-weekend.html"/>
+        <id>https://risdsound.github.io/risd-weekend.html</id>
+            <category term="news"/>
+
+        <updated>2018-07-18T13:12:03-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://risdsound.github.io/media/posts/9/" alt="" />
+                <p>As part of the <a href="http://risdweekend.com" target="_blank" rel="noopener noreferrer">2018 RISD Weekend events</a>, Associate Professor of Experimental &amp; Foundation Studies Shawn Greenlee will demonstrate the capabilities of RISD's new spatial audio studio.  </p>
+<p>Register for a session at the following links:</p>
+<p> </p>
+Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sound-studio-session-1" target="_blank" rel="noopener noreferrer">October 6, 11:30am: RISD Revealed | Ambisonic Sound Studio </a>
+<p>Session 2: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sound-studio-session-2" target="_blank" rel="noopener noreferrer">October 6, 1:30pm: RISD Revealed | Ambisonic Sound Studio</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Reservations</title>
         <author>
