@@ -3,7 +3,7 @@
     <title>sound.risd.edu </title>
     <link href="https://risdsound.github.io/feed.xml" rel="self" />
     <link href="https://risdsound.github.io" />
-    <updated>2018-07-18T10:27:41-04:00</updated>
+    <updated>2018-07-18T11:08:19-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
@@ -18,12 +18,12 @@
         <id>https://risdsound.github.io/reservations.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-18T09:47:47-04:00</updated>
+        <updated>2018-07-18T11:06:16-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://risdsound.github.io/media/posts/8/thin.jpg" alt="" />
-                <a href="http://efs.bookedscheduler.com/Web/schedule.php?sid=13" target="_blank" rel="noopener noreferrer"><strong>LINK TO RESERVATION SYSTEM (LOGIN REQUIRED)</strong></a><br>
+                    <img src="https://risdsound.github.io/media/posts/8/speak1.png" alt="" />
+                <strong><a href="http://efs.bookedscheduler.com/Web/schedule.php?sid=13" target="_blank" rel="noopener noreferrer">CLICK HERE TO LOG IN TO RESERVATION SYSTEM</a></strong><br>
 <ul>
 <li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>
 <li>Access to studio and reservation system is granted after an introductory training.</li>
@@ -43,16 +43,15 @@
         <id>https://risdsound.github.io/Help.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-18T09:49:29-04:00</updated>
+        <updated>2018-07-18T11:06:26-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://risdsound.github.io/media/posts/7/thin.jpg" alt="" />
-                <a href="https://goo.gl/forms/LyAt2oGCibTXr0O43" target="_blank" rel="noopener noreferrer"><strong>USE THIS FORM TO SUBMIT SUPPORT TICKET</strong></a><br>
+                    <img src="https://risdsound.github.io/media/posts/7/speak2.png" alt="" />
+                <strong><a href="https://goo.gl/forms/LyAt2oGCibTXr0O43" target="_blank" rel="noopener noreferrer">CLICK HERE TO SUBMIT A SUPPORT TICKET</a></strong><br>
 <ul>
-<li>Consult the <span style="text-decoration: underline;">getting started document (TBA)</span> before submitting a ticket</li>
-<li>By submitting a ticket, you will alert studio management of problems encountered which will be addressed as soon as possible.</li>
-<li>Support tickets are reviewed daily.</li>
+<li>Consult the <em><span style="text-decoration: underline;">getting started document (TBA)</span></em> before submitting a ticket</li>
+<li>By submitting a ticket, you will alert studio management of problems encountered. These will be addressed as soon as possible. Support tickets are reviewed daily.</li>
 <li>There is no on-call support for 25.4 loudspeaker array.</li>
 </ul>
             ]]>
@@ -67,13 +66,13 @@
         <id>https://risdsound.github.io/General-rules-and-guidelines.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-18T09:49:58-04:00</updated>
+        <updated>2018-07-18T11:06:37-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://risdsound.github.io/media/posts/6/thin.jpg" alt="" />
+                    <img src="https://risdsound.github.io/media/posts/6/speak3.png" alt="" />
                 <ul>
-<li>Use of the studio must be scheduled using the <a href="#INTERNAL_LINK#/post/8">reservation system</a>.</li>
+<li>Use of the studio must be scheduled using the <a href="#INTERNAL_LINK#/post/8">reservation system</a>. If you drop-in without a reservation, you can be bumped from the studio at any time.</li>
 <li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>
 <li>Access to studio and reservation system is granted after an introductory training.</li>
 <li>After introductory training, it is assumed that users are able to troubleshoot common problems.</li>
@@ -103,11 +102,11 @@
         <id>https://risdsound.github.io/Hosted-courses.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-18T09:50:08-04:00</updated>
+        <updated>2018-07-18T11:06:48-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://risdsound.github.io/media/posts/5/thin.jpg" alt="" />
+                    <img src="https://risdsound.github.io/media/posts/5/speak4.png" alt="" />
                 <p><strong>Sonic Practices</strong><br>DM-3104: Fall 2018 / Spring 2019<br><em>Mark Cetilia, Andrea Pensado</em><br>Sonic Practices is a graduate-level research group focused on acoustic, electronic, and/or computer-based means of sound production and reception. Participants explore audio culture and technology while developing experimental approaches to composition, performance, recording, and/or listening. Areas of investigation include, but are not limited to: audio programming languages, embedded/mobile computing for sound and music, spatial audio, sound synthesis, audio electronics, sonification and auditory display, electroacoustic music composition and improvisation, field recording and soundscape studies, sound installation and performance, and sonic interaction design. Each semester, course content changes in response to a new unifying theme upon which students base individual and team-based research projects. Meetings consist of discussions, workshops, critiques, and collaborations that support students' individual inquiries, the exchange of ideas, and the exploration of research methodologies.</p>
 <p><br><strong>Of Sound and Vision</strong><br>CTC 2007: Wintersession 2019<br><em>Mark Cetilia</em><br>This intensive studio course investigates computational approaches to generating sound and image in real time. Precedents from experimental film and video, as well as sound, installation, and performance art will be examined in relationship both to human perception and the students' artistic practice. The course will include discussion of key historical works and texts, hands-on demonstrations and in-class projects, as well as critical engagement with new works by class members. Students will use programming environments such as Max and its object libraries for sound and video, MSP and Jitter, to explore the creative and expressive potentials of an intermedia production practice, culminating in the development of a larger work that incorporates knowledge gained throughout the course.</p>
 <p><br><strong>Spatial Audio</strong><br>CTC-2006: Spring 2019<br><em>Shawn Greenlee</em><br>Spatial Audio focuses on the creation of immersive 3D sound experiences. In this course, students analyze and explore how the sensation of space is activated in the listener by making works using spatial audio techniques. These methods include high-order ambisonics, vector-based amplitude panning, multichannel surround, and binaural audio, among others. Throughout the semester, a series of exercises addressing technical and theoretical issues provide students with the necessary experience to produce midterm and final projects. Coursework involves computational approaches to sound design and composition, with instruction in the audio programming language Max and digital audio workstations, i.e. Ableton Live and Reaper. Students have recurring access to a 25-channel loudspeaker array for the development of works. Readings from psychology, philosophy, the arts, and sound studies support class discussions and critiques. Students will need a laptop computer (Mac or Windows) and a Max software license (educational pricing available from cycling74.com). Previous experience with digital audio software recommended.</p>
@@ -125,12 +124,12 @@
         <id>https://risdsound.github.io/Seminar-area.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-18T09:50:18-04:00</updated>
+        <updated>2018-07-18T11:07:02-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://risdsound.github.io/media/posts/4/thin.jpg" alt="" />
-                <p>The seminar area of the studio is for flexible use and supports audio-visual presentations independent from the 25.4 array.<br><br>Equipment includes:</p>
+                    <img src="https://risdsound.github.io/media/posts/4/speak5.png" alt="" />
+                <p>The seminar area of the studio is for flexible use and supports audio-visual presentations independent from the 25.4 loudspeaker array.<br><br>Equipment includes:</p>
 <ul>
 <li>Large-format HDMI video display, wall mounted</li>
 <li><a href="https://www.genelec.com/studio-monitors/8000-series-studio-monitors/8050b-studio-monitor" target="_blank" rel="noopener noreferrer">2 Genelec 8050B studio monitors</a></li>
@@ -142,7 +141,7 @@
         </content>
     </entry>
     <entry>
-        <title>Core software, main workstation </title>
+        <title>Core software</title>
         <author>
             <name>shawn greenlee</name>
         </author>
@@ -150,12 +149,16 @@
         <id>https://risdsound.github.io/Core-software-main-workstation.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-18T09:50:25-04:00</updated>
+        <updated>2018-07-18T11:07:12-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://risdsound.github.io/media/posts/3/thin.jpg" alt="" />
-                <strong>Programming</strong><br>
+                    <img src="https://risdsound.github.io/media/posts/3/wire1.png" alt="" />
+                <blockquote>
+<p class="msg msg--info">This is a listing of the core audio software installed on the main workstation.  The rack workstation does not match this listing.</p>
+</blockquote>
+<p> </p>
+<p><strong>Programming</strong></p>
 <ul>
 <li><a href="https://cycling74.com/products/max" target="_blank" rel="noopener noreferrer">Max 7.3.5</a></li>
 <li><a href="http://msp.ucsd.edu/software.html" target="_blank" rel="noopener noreferrer">Pd 0.48-1</a></li>
@@ -196,11 +199,11 @@
         <id>https://risdsound.github.io/mezz.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-18T09:50:35-04:00</updated>
+        <updated>2018-07-18T11:07:23-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://risdsound.github.io/media/posts/2/thin.jpg" alt="" />
+                    <img src="https://risdsound.github.io/media/posts/2/wire2.png" alt="" />
                 <p>The spatial audio studio at Mezzanine, 15 West is a purpose-built, acoustically treated room featuring a 25.4 channel sound system and a flexible seminar area with additional audiovisual support. The sound system consists of an array of 25 independently-addressable, full-range speakers in a dome configuration, accompanied by 4 subwoofers. The primary way of working with the array is through audio programming languages and digital audio software. A central computer workstation joined with audio network interfaces provides connectivity throughout the room, I/O expansion, and the main interface for composition, design, and performance. A variety of spatial audio techniques are supported, including high order ambisonics, vector-based amplitude panning, multichannel surround, and 3D audio for immersive media.</p>
 <p>The studio provides an essential resource for curriculum and builds capacity for advanced sound studies and research engaging computation and audio technologies. It is used by faculty and students as a classroom, workspace, and research laboratory. Providing an ideal setting for teaching and learning in sonic arts and sound design, the studio supports a selection of courses offered by the interdisciplinary Computation, Technology, and Culture concentration (CTC) and the graduate Department of Digital + Media (D+M). As a workspace for projects, the studio can be individually reserved by students enrolled in associated courses. As a research laboratory, the studio is a site for faculty and student experimentation with outcomes aimed at peer review publication, presentation/performance at conferences and festivals, and other forms of exposition. Further, the studio hosts visiting lectures and workshops by designers, artists, and technologists; and provides a fresh context for exchanges with industry, Brown University, and cross-institutional research networks.</p>
 <blockquote>
@@ -218,11 +221,11 @@
         <id>https://risdsound.github.io/254-array.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-18T09:51:03-04:00</updated>
+        <updated>2018-07-18T11:07:34-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://risdsound.github.io/media/posts/1/thin.jpg" alt="" />
+                    <img src="https://risdsound.github.io/media/posts/1/wire3.png" alt="" />
                 <p> <br><strong>Support documents (studio specific)</strong></p>
 <ul>
 <li><a href="#INTERNAL_LINK#/post/6">Studio rules and guidelines</a></li>
