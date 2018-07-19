@@ -3,7 +3,7 @@
     <title>sound.risd.edu </title>
     <link href="https://risdsound.github.io/feed.xml" rel="self" />
     <link href="https://risdsound.github.io" />
-    <updated>2018-07-18T22:35:30-04:00</updated>
+    <updated>2018-07-19T09:10:06-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://risdsound.github.io/risd-weekend.html</id>
             <category term="news"/>
 
-        <updated>2018-07-18T22:33:10-04:00</updated>
+        <updated>2018-07-19T09:10:00-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -40,7 +40,7 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-reservations.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-18T14:06:53-04:00</updated>
+        <updated>2018-07-19T09:09:58-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -65,7 +65,7 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-help.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-18T14:06:48-04:00</updated>
+        <updated>2018-07-19T09:09:56-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -88,7 +88,7 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-rules.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-18T12:14:09-04:00</updated>
+        <updated>2018-07-19T09:09:54-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -124,7 +124,7 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-courses.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-18T11:45:43-04:00</updated>
+        <updated>2018-07-19T09:09:52-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -146,7 +146,7 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-seminar.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-18T11:45:24-04:00</updated>
+        <updated>2018-07-19T09:09:46-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -171,44 +171,122 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-software.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-18T11:45:11-04:00</updated>
+        <updated>2018-07-19T09:08:00-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://risdsound.github.io/media/posts/3/speak3.png" alt="" />
                 <blockquote>
-<p class="msg msg--info">This is a listing of the core audio software installed on the main workstation.  The rack workstation does not match this listing.</p>
+<p class="msg msg--info">This is a listing of the audio software (beyond the RISD coreware) installed on the main workstation. The rack workstation does not match this listing. </p>
 </blockquote>
 <p> </p>
 <p><strong>Programming</strong></p>
-<ul>
-<li><a href="https://cycling74.com/products/max" target="_blank" rel="noopener noreferrer">Max 7.3.5</a></li>
-<li><a href="http://msp.ucsd.edu/software.html" target="_blank" rel="noopener noreferrer">Pd 0.48-1</a></li>
-<li><a href="https://supercollider.github.io/" target="_blank" rel="noopener noreferrer">Supercollider 3.9.3</a></li>
-</ul>
+<table style="background-color: #f9f9f9;">
+<tbody>
+<tr>
+<td><code><a href="https://cycling74.com/products/max" target="_blank" rel="noopener noreferrer">Max 7.3.5</a></code></td>
+<td><code><a href="http://msp.ucsd.edu/software.html" target="_blank" rel="noopener noreferrer">Pd 0.48-1</a></code></td>
+<td><code><a href="https://supercollider.github.io" target="_blank" rel="noopener noreferrer">Supercollider 3.9.3</a></code></td>
+</tr>
+</tbody>
+</table>
 <p> </p>
 <p><strong>DAW</strong></p>
-<ul>
-<li><a href="https://www.ableton.com/" target="_blank" rel="noopener noreferrer">Ableton Live 10.0.2</a></li>
-<li><a href="http://reaper.fm/" target="_blank" rel="noopener noreferrer">Reaper 5.92</a></li>
-</ul>
+<table style="background-color: #f9f9f9;">
+<tbody>
+<tr>
+<td><code><a href="https://www.ableton.com/en/live/" target="_blank" rel="noopener noreferrer">Ableton Live 10.0.2</a></code></td>
+<td><code><a href="http://reaper.fm" target="_blank" rel="noopener noreferrer">Reaper 5.92</a></code></td>
+</tr>
+</tbody>
+</table>
 <p> </p>
 <p><strong>Spatialization libraries and plugins</strong></p>
-<ul>
-<li><a href="http://forumnet.ircam.fr/product/spat-en/" target="_blank" rel="noopener noreferrer">Max: IRCAM Spat 5.0.5</a></li>
-<li><a href="https://www.zhdk.ch/downloads-ambisonics-externals-for-maxmsp-5381" target="_blank" rel="noopener noreferrer">Max: ICST ambisonic 2.3.2</a></li>
-<li><a href="http://ico.bukvic.net/main/d4/" target="_blank" rel="noopener noreferrer">Max: D4 2.1.2</a></li>
-<li><a href="http://hoalibrary.mshparisnord.fr/en" target="_blank" rel="noopener noreferrer">Max: CICM HOA Library 2.2</a></li>
-<li><a href="http://www.zacharyseldess.com/miap/" target="_blank" rel="noopener noreferrer">Max: MIAP 1.2.2</a></li>
-<li><a href="http://www.ambisonictoolkit.net/download/supercollider/" target="_blank" rel="noopener noreferrer">Supercollider: Ambisonic Toolkit 1.0</a></li>
-<li><a href="http://www.ambisonictoolkit.net/download/reaper/" target="_blank" rel="noopener noreferrer">Reaper/JSFX: Ambisonic Toolkit 1.0 beta 10</a></li>
-<li><a href="http://www.envelop.us/software/" target="_blank" rel="noopener noreferrer">Ableton Live: Envelop (E4L)</a></li>
-<li><a href="https://www.noisemakers.fr/" target="_blank" rel="noopener noreferrer">VST/AU: Noisemakers Ambi Bundle HD 1.1</a></li>
-<li><a href="http://www.matthiaskronlachner.com/?p=2015" target="_blank" rel="noopener noreferrer">VST: ambiX ambisonic plugins 0.2.7, first and third order</a></li>
-<li><a href="https://www.brucewiggins.co.uk/?page_id=78" target="_blank" rel="noopener noreferrer">VST: Wigware plugins, first and high order</a></li>
-<li><a href="https://facebook360.fb.com/spatial-workstation/" target="_blank" rel="noopener noreferrer">VST: Facebook 360 Spatial Workstation 3.3b1</a></li>
-<li><a href="https://developers.google.com/resonance-audio/develop/vst-monitor/getting-started" target="_blank" rel="noopener noreferrer">VST: Google Resonance Audio 1.1.1</a></li>
-</ul>
+<table style="background-color: #f9f9f9;">
+<tbody>
+<tr>
+<td>
+<p><strong><code>Max</code></strong></p>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td><code><a href="http://forumnet.ircam.fr/product/spat-en/">IRCAM Spat 5.0.5</a></code></td>
+<td><code><a href="https://www.zhdk.ch/downloads-ambisonics-externals-for-maxmsp-5381" target="_blank" rel="noopener noreferrer">ICST Ambisonic 2.3.2</a> </code></td>
+<td><code><a href="http://ico.bukvic.net/main/d4/" target="_blank" rel="noopener noreferrer">D4 2.1.2</a></code></td>
+</tr>
+<tr>
+<td><code><a href="http://hoalibrary.mshparisnord.fr/en" target="_blank" rel="noopener noreferrer">CICM HOA Library 2.2</a></code></td>
+<td><code><a href="http://www.zacharyseldess.com/miap/" target="_blank" rel="noopener noreferrer">MIAP 1.2.2 </a></code></td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+<table style="background-color: #f9f9f9;">
+<tbody>
+<tr>
+<td>
+<p><strong><code>Plugins</code></strong></p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td><code><a href="https://www.noisemakers.fr" target="_blank" rel="noopener noreferrer">Noisemakers Ambi Bundle HD 1.1</a></code></td>
+<td><code><a href="https://facebook360.fb.com/spatial-workstation/" target="_blank" rel="noopener noreferrer">fb360 SpatialWorkstation 3.3b1</a></code></td>
+</tr>
+<tr>
+<td><code><a href="http://www.matthiaskronlachner.com/?p=2015" target="_blank" rel="noopener noreferrer">ambiX ambisonic 0.2.7 1st/3rd order</a></code></td>
+<td><code><a href="https://developers.google.com/resonance-audio/develop/vst-monitor/getting-started" target="_blank" rel="noopener noreferrer">Google Resonance Audio 1.1.1</a></code></td>
+</tr>
+<tr>
+<td><code><a href="https://www.brucewiggins.co.uk/?page_id=78" target="_blank" rel="noopener noreferrer">Wigware, 1st/high order</a></code></td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+<table style="background-color: #f9f9f9;">
+<tbody>
+<tr>
+<td>
+<p><code><strong>Supercollider</strong></code></p>
+</td>
+</tr>
+<tr>
+<td><code><a href="http://www.ambisonictoolkit.net/download/supercollider/" target="_blank" rel="noopener noreferrer">Ambisonic Toolkit 1.0</a></code></td>
+</tr>
+</tbody>
+</table>
+<table style="background-color: #f9f9f9;">
+<tbody>
+<tr>
+<td>
+<p><code><strong>Reaper/JSFX</strong></code></p>
+</td>
+</tr>
+<tr>
+<td><code><a href="http://www.ambisonictoolkit.net/download/reaper/" target="_blank" rel="noopener noreferrer">Ambisonic Toolkit 1.0</a></code></td>
+</tr>
+</tbody>
+</table>
+<table style="background-color: #f9f9f9;">
+<tbody>
+<tr>
+<td>
+<p><code><strong>Ableton Live</strong></code></p>
+</td>
+</tr>
+<tr>
+<td><code><a href="http://www.envelop.us/software/" target="_blank" rel="noopener noreferrer">Envelop(E4L)</a></code></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
