@@ -3,7 +3,7 @@
     <title>sound.risd.edu </title>
     <link href="https://risdsound.github.io/feed.xml" rel="self" />
     <link href="https://risdsound.github.io" />
-    <updated>2018-07-19T09:10:06-04:00</updated>
+    <updated>2018-07-19T13:39:41-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://risdsound.github.io/risd-weekend.html</id>
             <category term="news"/>
 
-        <updated>2018-07-19T09:10:00-04:00</updated>
+        <updated>2018-07-19T13:39:35-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -40,7 +40,7 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-reservations.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-19T09:09:58-04:00</updated>
+        <updated>2018-07-19T13:39:33-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -65,7 +65,7 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-help.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-19T09:09:56-04:00</updated>
+        <updated>2018-07-19T13:39:30-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -88,7 +88,7 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-rules.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-19T09:09:54-04:00</updated>
+        <updated>2018-07-19T13:39:19-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -124,7 +124,7 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-courses.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-19T09:09:52-04:00</updated>
+        <updated>2018-07-19T13:39:15-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -146,7 +146,7 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-seminar.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-19T09:09:46-04:00</updated>
+        <updated>2018-07-19T13:39:13-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -171,7 +171,7 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-software.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-19T09:08:00-04:00</updated>
+        <updated>2018-07-19T13:39:06-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -233,11 +233,11 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
 </tr>
 <tr>
 <td><code><a href="https://www.noisemakers.fr" target="_blank" rel="noopener noreferrer">Noisemakers Ambi Bundle HD 1.1</a></code></td>
-<td><code><a href="https://facebook360.fb.com/spatial-workstation/" target="_blank" rel="noopener noreferrer">fb360 SpatialWorkstation 3.3b1</a></code></td>
+<td><code><a href="https://facebook360.fb.com/spatial-workstation/" target="_blank" rel="noopener noreferrer">Spatial Workstation 3.3b1</a></code></td>
 </tr>
 <tr>
 <td><code><a href="http://www.matthiaskronlachner.com/?p=2015" target="_blank" rel="noopener noreferrer">ambiX ambisonic 0.2.7 1st/3rd order</a></code></td>
-<td><code><a href="https://developers.google.com/resonance-audio/develop/vst-monitor/getting-started" target="_blank" rel="noopener noreferrer">Google Resonance Audio 1.1.1</a></code></td>
+<td><code><a href="https://developers.google.com/resonance-audio/develop/vst-monitor/getting-started" target="_blank" rel="noopener noreferrer">Resonance Audio 1.1.1</a></code></td>
 </tr>
 <tr>
 <td><code><a href="https://www.brucewiggins.co.uk/?page_id=78" target="_blank" rel="noopener noreferrer">Wigware, 1st/high order</a></code></td>
@@ -277,7 +277,7 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
 </td>
 </tr>
 <tr>
-<td><code><a href="http://www.envelop.us/software/" target="_blank" rel="noopener noreferrer">Envelop(E4L)</a></code></td>
+<td><code><a href="http://www.envelop.us/software/" target="_blank" rel="noopener noreferrer">Envelop (E4L)</a></code></td>
 </tr>
 </tbody>
 </table>
