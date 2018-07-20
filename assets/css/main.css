@@ -1054,15 +1054,15 @@ textarea {
   overflow: hidden;
   position: relative;
   text-align: center; }
-  @media all and (min-width: 37.5em) {
+  @media all and (min-width: 30em) {
     .card {
       -ms-flex-preferred-size: 50%;
       flex-basis: 50%; } }
-  @media all and (min-width: 56.25em) {
+  @media all and (min-width: 30em) {
     .card {
       -ms-flex-preferred-size: 33.333%;
       flex-basis: 33.333%; } }
-  @media all and (min-width: 75em) {
+  @media all and (min-width: 30em) {
     .card {
       -ms-flex-preferred-size: 25%;
       flex-basis: 25%; } }

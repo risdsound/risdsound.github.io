@@ -3,7 +3,7 @@
     <title>sound.risd.edu </title>
     <link href="https://risdsound.github.io/feed.xml" rel="self" />
     <link href="https://risdsound.github.io" />
-    <updated>2018-07-20T09:29:51-04:00</updated>
+    <updated>2018-07-20T16:32:59-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://risdsound.github.io/risd-weekend.html</id>
             <category term="news"/>
 
-        <updated>2018-07-20T09:29:45-04:00</updated>
+        <updated>2018-07-20T16:31:26-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -40,12 +40,12 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-reservations.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-20T09:29:43-04:00</updated>
+        <updated>2018-07-20T16:31:24-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://risdsound.github.io/media/posts/8/04.png" alt="" />
-                <strong><a href="http://efs.bookedscheduler.com/Web/schedule.php?sid=13" target="_blank" rel="noopener noreferrer">CLICK TO LOG IN</a></strong><br>
+                <p class="msg msg--success align-center"><strong><a href="http://efs.bookedscheduler.com/Web/schedule.php?sid=13" target="_blank" rel="noopener noreferrer">CLICK TO LOG IN</a></strong></p>
 <ul>
 <li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>
 <li>Access to studio and reservation system is granted after an introductory training.</li>
@@ -65,17 +65,18 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-help.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-20T09:29:41-04:00</updated>
+        <updated>2018-07-20T16:31:22-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://risdsound.github.io/media/posts/7/03.png" alt="" />
-                <strong><a href="https://goo.gl/forms/LyAt2oGCibTXr0O43" target="_blank" rel="noopener noreferrer">CLICK TO SUBMIT TICKET</a></strong><br>
+                <p class="align-center msg--highlight msg  msg--success"><strong><a href="https://goo.gl/forms/LyAt2oGCibTXr0O43" target="_blank" rel="noopener noreferrer">CLICK TO SUBMIT TICKET</a></strong></p>
 <ul>
 <li>Consult the <em><span style="text-decoration: underline;">getting started document (TBA)</span></em> before submitting a ticket</li>
 <li>By submitting a ticket, you will alert studio management of problems encountered. These will be addressed as soon as possible. Support tickets are reviewed daily.</li>
 <li>There is no on-call support for 25.4 loudspeaker array.</li>
 </ul>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -88,7 +89,7 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-rules.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-20T09:29:38-04:00</updated>
+        <updated>2018-07-20T16:31:20-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -124,7 +125,7 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-courses.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-20T09:29:32-04:00</updated>
+        <updated>2018-07-20T16:31:18-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -146,7 +147,7 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-seminar.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-20T09:29:29-04:00</updated>
+        <updated>2018-07-20T16:31:15-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -171,7 +172,7 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-software.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-20T09:29:23-04:00</updated>
+        <updated>2018-07-20T16:31:13-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -193,7 +194,7 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
 <br>
 <p><strong>Spatialization libraries and plugins</strong></p>
 <ul>
-<li>VST/AU <a href="https://www.noisemakers.fr" target="_blank" rel="noopener noreferrer">Noisemakers Ambi Bundle HD 1.1</a></li>
+<li>VST <a href="https://www.noisemakers.fr" target="_blank" rel="noopener noreferrer">Noisemakers Ambi Bundle HD 1.1</a></li>
 <li>VST <a href="http://www.matthiaskronlachner.com/?p=2015" target="_blank" rel="noopener noreferrer">ambiX ambisonic 0.2.7 1st/3rd order</a></li>
 <li>VST <a href="https://www.brucewiggins.co.uk/?page_id=78" target="_blank" rel="noopener noreferrer">Wigware, 1st/high order</a></li>
 <li>VST <a href="https://facebook360.fb.com/spatial-workstation/" target="_blank" rel="noopener noreferrer">fb360 Spatial Workstation 3.3b1</a></li>
@@ -219,16 +220,14 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-about.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-20T09:29:18-04:00</updated>
+        <updated>2018-07-20T16:31:09-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://risdsound.github.io/media/posts/2/01.png" alt="" />
                 <p>The spatial audio studio at Mezzanine, 15 West is a purpose-built, acoustically treated room featuring a 25.4 channel sound system and a flexible seminar area with additional audiovisual support. The sound system consists of an array of 25 independently-addressable, full-range speakers in a dome configuration, accompanied by 4 subwoofers. The primary way of working with the array is through audio programming languages and digital audio software. A central computer workstation joined with audio network interfaces provides connectivity throughout the room, I/O expansion, and the main interface for composition, design, and performance. A variety of spatial audio techniques are supported, including high order ambisonics, vector-based amplitude panning, multichannel surround, and 3D audio for immersive media.</p>
 <p>The studio provides an essential resource for curriculum and builds capacity for advanced sound studies and research engaging computation and audio technologies. It is used by faculty and students as a classroom, workspace, and research laboratory. Providing an ideal setting for teaching and learning in sonic arts and sound design, the studio supports a selection of courses offered by the interdisciplinary Computation, Technology, and Culture concentration (CTC) and the graduate Department of Digital + Media (D+M). As a workspace for projects, the studio can be individually reserved by students enrolled in associated courses. As a research laboratory, the studio is a site for faculty and student experimentation with outcomes aimed at peer review publication, presentation/performance at conferences and festivals, and other forms of exposition. Further, the studio hosts visiting lectures and workshops by designers, artists, and technologists; and provides a fresh context for exchanges with industry, Brown University, and cross-institutional research networks.</p>
-<blockquote>
-<p class="msg msg--info">Please direct inquires to the faculty contact, Shawn Greenlee: sgreenle *at* risd *dot* edu</p>
-</blockquote>
+<p class="msg msg--info"><em>Please direct inquires to the faculty contact, Shawn Greenlee: sgreenle *at* risd *dot* edu</em></p>
             ]]>
         </content>
     </entry>
@@ -241,7 +240,7 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-array.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-20T09:29:20-04:00</updated>
+        <updated>2018-07-20T16:31:11-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
