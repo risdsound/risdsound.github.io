@@ -3,7 +3,7 @@
     <title>sound.risd.edu </title>
     <link href="https://risdsound.github.io/feed.xml" rel="self" />
     <link href="https://risdsound.github.io" />
-    <updated>2018-07-20T16:32:59-04:00</updated>
+    <updated>2018-07-20T17:32:56-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
@@ -18,15 +18,14 @@
         <id>https://risdsound.github.io/risd-weekend.html</id>
             <category term="news"/>
 
-        <updated>2018-07-20T16:31:26-04:00</updated>
+        <updated>2018-07-20T17:30:01-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://risdsound.github.io/media/posts/9/unnamed.png" alt="" />
                 <p>As part of the <a href="http://risdweekend.com" target="_blank" rel="noopener noreferrer">2018 RISD Weekend events</a>, Associate Professor of Experimental &amp; Foundation Studies Shawn Greenlee will demonstrate the capabilities of RISD's new spatial audio studio.  </p>
 <p>Register for a session at the following links:</p>
-<p> </p>
-Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sound-studio-session-1" target="_blank" rel="noopener noreferrer">October 6, 11:30am: RISD Revealed | Ambisonic Sound Studio </a>
+<p>Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sound-studio-session-1" target="_blank" rel="noopener noreferrer">October 6, 11:30am: RISD Revealed | Ambisonic Sound Studio </a></p>
 <p>Session 2: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sound-studio-session-2" target="_blank" rel="noopener noreferrer">October 6, 1:30pm: RISD Revealed | Ambisonic Sound Studio</a></p>
             ]]>
         </content>
@@ -40,12 +39,12 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-reservations.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-20T16:31:24-04:00</updated>
+        <updated>2018-07-20T17:28:49-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://risdsound.github.io/media/posts/8/04.png" alt="" />
-                <p class="msg msg--success align-center"><strong><a href="http://efs.bookedscheduler.com/Web/schedule.php?sid=13" target="_blank" rel="noopener noreferrer">CLICK TO LOG IN</a></strong></p>
+                <p class="msg msg--success align-center"><strong><a href="http://efs.bookedscheduler.com/Web/schedule.php?sid=13" target="_blank" rel="noopener noreferrer">click to log in</a></strong></p>
 <ul>
 <li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>
 <li>Access to studio and reservation system is granted after an introductory training.</li>
@@ -65,12 +64,12 @@ Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sou
         <id>https://risdsound.github.io/sas-help.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-20T16:31:22-04:00</updated>
+        <updated>2018-07-20T17:28:34-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://risdsound.github.io/media/posts/7/03.png" alt="" />
-                <p class="align-center msg--highlight msg  msg--success"><strong><a href="https://goo.gl/forms/LyAt2oGCibTXr0O43" target="_blank" rel="noopener noreferrer">CLICK TO SUBMIT TICKET</a></strong></p>
+                <p class="align-center msg--highlight msg  msg--success"><strong><a href="https://goo.gl/forms/LyAt2oGCibTXr0O43" target="_blank" rel="noopener noreferrer">click to submit support ticket</a></strong></p>
 <ul>
 <li>Consult the <em><span style="text-decoration: underline;">getting started document (TBA)</span></em> before submitting a ticket</li>
 <li>By submitting a ticket, you will alert studio management of problems encountered. These will be addressed as soon as possible. Support tickets are reviewed daily.</li>
