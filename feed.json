@@ -22,13 +22,13 @@
                    "news"
             ],
             "date_published": "2018-07-18T13:08:58-04:00",
-            "date_modified": "2018-07-20T17:47:33-04:00"
+            "date_modified": "2018-07-21T23:41:38-04:00"
         },
         {
             "id": "https://risdsound.github.io/sas-reservations.html",
             "url": "https://risdsound.github.io/sas-reservations.html",
             "title": "Reservations",
-            "content_html": "<p class=\"msg msg--success align-center\"><strong><a href=\"http://efs.bookedscheduler.com/Web/schedule.php?sid=13\" target=\"_blank\" rel=\"noopener noreferrer\">click to log in</a></strong></p>\n<ul>\n<li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>\n<li>Access to studio and reservation system is granted after an introductory training.</li>\n<li>After introductory training, it is assumed that users are able to troubleshoot common problems.</li>\n<li>There is no on-call support for 25.4 loudspeaker array. Submit a <a href=\"#INTERNAL_LINK#/post/7\">support ticket</a> if a problem occurs.</li>\n<li>Please review the <a href=\"#INTERNAL_LINK#/post/6\">studio rules and guidelines</a>. Failure to adhere to these policies can result in revoked access.</li>\n</ul>",
+            "content_html": "<p class=\"msg msg--success align-center\"><strong><a href=\"http://efs.bookedscheduler.com/Web/schedule.php?sid=13\" target=\"_blank\" rel=\"noopener noreferrer\">click to log in</a></strong></p>\n<ul>\n<li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>\n<li>Access to studio and reservation system is granted after an introductory lesson.</li>\n<li>As part of coursework, students must learn to troubleshoot common problems.</li>\n<li>There is no on-call support for 25.4 loudspeaker array. Submit a <a href=\"#INTERNAL_LINK#/post/7\">support ticket</a> if a problem occurs.</li>\n<li>Please review the <a href=\"#INTERNAL_LINK#/post/6\">studio rules and guidelines</a>. Failure to adhere to these policies can result in revoked access.</li>\n</ul>",
             "image": "https://risdsound.github.io/media/posts/8/04.png",
             "author": {
                 "name": "shawn greenlee"
@@ -37,7 +37,7 @@
                    "spatial audio studio"
             ],
             "date_published": "2018-07-18T08:33:24-04:00",
-            "date_modified": "2018-07-20T17:47:28-04:00"
+            "date_modified": "2018-07-21T23:41:29-04:00"
         },
         {
             "id": "https://risdsound.github.io/sas-help.html",
@@ -52,13 +52,13 @@
                    "spatial audio studio"
             ],
             "date_published": "2018-07-18T08:33:09-04:00",
-            "date_modified": "2018-07-20T17:28:34-04:00"
+            "date_modified": "2018-07-21T23:41:13-04:00"
         },
         {
             "id": "https://risdsound.github.io/sas-rules.html",
             "url": "https://risdsound.github.io/sas-rules.html",
             "title": "General rules and guidelines",
-            "content_html": "<ul>\n<li>Use of the studio must be scheduled using the <a href=\"#INTERNAL_LINK#/post/8\">reservation system</a>. Reservations can be made up until the current time. Users that drop-in without making a reservation can be bumped. </li>\n<li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>\n<li>Access to studio and reservation system is granted after an introductory training.</li>\n<li>After introductory training, it is assumed that users are able to troubleshoot common problems.</li>\n<li>There is no on-call support for 25.4 loudspeaker array. Submit a <a href=\"#INTERNAL_LINK#/post/7\">support ticket</a> if a problem occurs.</li>\n<li>The permitted types of studio work are computer-based / electronic media production.</li>\n<li>The studio is a clean space. No materials or tools that produce dust or fumes are allowed. Fabrication should be done elsewhere.</li>\n<li>Do not move or reposition the 25.4 array loudspeakers in any way. The system is calibrated to exact positions.</li>\n<li>Do not hang anything from the ceiling grid or speakers.</li>\n<li>Do not pin, tape, or mount anything in any way to the walls or acoustic panels.</li>\n<li>Do not leave or store anything in the studio. Items left will be discarded.</li>\n<li>Do not remove equipment or furniture from the studio.</li>\n<li>Do not eat in the studio. Keep drinks in seminar area, away from computers and equipment.</li>\n<li>The tables and chairs in the seminar area can be rearranged to accomodate usage needs. Please return to default state.</li>\n<li>Installations require special permission from studio management and coordination with faculty of studio courses.</li>\n<li>Work conducted in the studio may not cause or threaten physical harm to its occupants, equipment, or facilities.</li>\n<li>Failure to adhere to these policies can result in revoked access.</li>\n</ul>",
+            "content_html": "<ul>\n<li>Use of the studio must be scheduled with the <a href=\"#INTERNAL_LINK#/post/8\">reservation system</a>. Reservations can be made up until the current time. People that drop-in without making a reservation can be bumped. </li>\n<li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>\n<li>Access to studio and reservation system is granted after an introductory lesson.</li>\n<li>As part of coursework, students must learn to troubleshoot common problems.</li>\n<li>There is no on-call support for 25.4 loudspeaker array. Submit a <a href=\"#INTERNAL_LINK#/post/7\">support ticket</a> if a problem occurs.</li>\n<li>The permitted types of studio work are computer-based / electronic media production.</li>\n<li>The studio is a clean space. No materials or tools that produce dust or fumes are allowed. Fabrication should be done elsewhere.</li>\n<li>Do not move or reposition the 25.4 array loudspeakers in any way. The system is calibrated to exact positions.</li>\n<li>Do not hang anything from the ceiling grid or speakers.</li>\n<li>Do not pin, tape, or mount anything in any way to the walls or acoustic panels.</li>\n<li>Do not leave or store anything in the studio. Items left will be discarded.</li>\n<li>Do not remove equipment or furniture from the studio.</li>\n<li>Do not eat in the studio. Keep drinks in seminar area, away from computers and equipment.</li>\n<li>The tables and chairs in the seminar area can be rearranged to accomodate usage needs. Please return to default state.</li>\n<li>Installations require special permission from studio management and coordination with faculty of studio courses.</li>\n<li>Work conducted in the studio may not cause or threaten physical harm to its occupants, equipment, or facilities.</li>\n<li>Failure to adhere to these policies can result in revoked access.</li>\n</ul>",
             "image": "https://risdsound.github.io/media/posts/6/07.png",
             "author": {
                 "name": "shawn greenlee"
@@ -67,7 +67,7 @@
                    "spatial audio studio"
             ],
             "date_published": "2018-07-18T08:32:51-04:00",
-            "date_modified": "2018-07-20T16:31:20-04:00"
+            "date_modified": "2018-07-21T23:41:00-04:00"
         },
         {
             "id": "https://risdsound.github.io/sas-courses.html",

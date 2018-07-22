@@ -3,7 +3,7 @@
     <title>sound.risd.edu </title>
     <link href="https://risdsound.github.io/feed.xml" rel="self" />
     <link href="https://risdsound.github.io" />
-    <updated>2018-07-20T17:52:06-04:00</updated>
+    <updated>2018-07-21T23:42:12-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://risdsound.github.io/risd-weekend.html</id>
             <category term="news"/>
 
-        <updated>2018-07-20T17:47:33-04:00</updated>
+        <updated>2018-07-21T23:41:38-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -39,7 +39,7 @@
         <id>https://risdsound.github.io/sas-reservations.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-20T17:47:28-04:00</updated>
+        <updated>2018-07-21T23:41:29-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -47,8 +47,8 @@
                 <p class="msg msg--success align-center"><strong><a href="http://efs.bookedscheduler.com/Web/schedule.php?sid=13" target="_blank" rel="noopener noreferrer">click to log in</a></strong></p>
 <ul>
 <li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>
-<li>Access to studio and reservation system is granted after an introductory training.</li>
-<li>After introductory training, it is assumed that users are able to troubleshoot common problems.</li>
+<li>Access to studio and reservation system is granted after an introductory lesson.</li>
+<li>As part of coursework, students must learn to troubleshoot common problems.</li>
 <li>There is no on-call support for 25.4 loudspeaker array. Submit a <a href="#INTERNAL_LINK#/post/7">support ticket</a> if a problem occurs.</li>
 <li>Please review the <a href="#INTERNAL_LINK#/post/6">studio rules and guidelines</a>. Failure to adhere to these policies can result in revoked access.</li>
 </ul>
@@ -64,7 +64,7 @@
         <id>https://risdsound.github.io/sas-help.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-20T17:28:34-04:00</updated>
+        <updated>2018-07-21T23:41:13-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -88,16 +88,16 @@
         <id>https://risdsound.github.io/sas-rules.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-07-20T16:31:20-04:00</updated>
+        <updated>2018-07-21T23:41:00-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://risdsound.github.io/media/posts/6/07.png" alt="" />
                 <ul>
-<li>Use of the studio must be scheduled using the <a href="#INTERNAL_LINK#/post/8">reservation system</a>. Reservations can be made up until the current time. Users that drop-in without making a reservation can be bumped. </li>
+<li>Use of the studio must be scheduled with the <a href="#INTERNAL_LINK#/post/8">reservation system</a>. Reservations can be made up until the current time. People that drop-in without making a reservation can be bumped. </li>
 <li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>
-<li>Access to studio and reservation system is granted after an introductory training.</li>
-<li>After introductory training, it is assumed that users are able to troubleshoot common problems.</li>
+<li>Access to studio and reservation system is granted after an introductory lesson.</li>
+<li>As part of coursework, students must learn to troubleshoot common problems.</li>
 <li>There is no on-call support for 25.4 loudspeaker array. Submit a <a href="#INTERNAL_LINK#/post/7">support ticket</a> if a problem occurs.</li>
 <li>The permitted types of studio work are computer-based / electronic media production.</li>
 <li>The studio is a clean space. No materials or tools that produce dust or fumes are allowed. Fabrication should be done elsewhere.</li>
