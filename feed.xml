@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>sound.risd.edu </title>
-    <link href="http://sound.risd.edu/feed.xml" rel="self" />
-    <link href="http://sound.risd.edu" />
-    <updated>2018-07-27T14:16:25-04:00</updated>
+    <link href="https://sound.risd.edu/feed.xml" rel="self" />
+    <link href="https://sound.risd.edu" />
+    <updated>2018-07-27T14:41:51-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
-    <id>http://sound.risd.edu</id>
+    <id>https://sound.risd.edu</id>
 
     <entry>
         <title>RISD Weekend demo | October 6, 2018</title>
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="http://sound.risd.edu/risd-weekend.html"/>
-        <id>http://sound.risd.edu/risd-weekend.html</id>
+        <link href="https://sound.risd.edu/risd-weekend.html"/>
+        <id>https://sound.risd.edu/risd-weekend.html</id>
             <category term="news"/>
 
         <updated>2018-07-24T21:45:40-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://sound.risd.edu/media/posts/9/unnamed.png" alt="" />
+                    <img src="https://sound.risd.edu/media/posts/9/unnamed.png" alt="" />
                 <p>As part of the <a href="http://risdweekend.com" target="_blank" rel="noopener noreferrer">2018 RISD Weekend events</a>, Associate Professor of Experimental &amp; Foundation Studies Shawn Greenlee will demonstrate the capabilities of RISD's new spatial audio studio.  </p>
 <p>Register for a session at the following links:</p>
 <p>Session 1: <a href="http://risdweekend.com/reunion/#risd-revealed-ambisonic-sound-studio-session-1" target="_blank" rel="noopener noreferrer">October 6, 11:30am: RISD Revealed | Ambisonic Sound Studio </a></p>
@@ -35,15 +35,15 @@
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="http://sound.risd.edu/sas-reservations.html"/>
-        <id>http://sound.risd.edu/sas-reservations.html</id>
+        <link href="https://sound.risd.edu/sas-reservations.html"/>
+        <id>https://sound.risd.edu/sas-reservations.html</id>
             <category term="spatial audio studio"/>
 
         <updated>2018-07-24T21:45:38-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://sound.risd.edu/media/posts/8/04.png" alt="" />
+                    <img src="https://sound.risd.edu/media/posts/8/04.png" alt="" />
                 <p class="msg msg--success align-center"><strong><a href="http://efs.bookedscheduler.com/Web/schedule.php?sid=13" target="_blank" rel="noopener noreferrer">click to log in</a></strong></p>
 <ul>
 <li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>
@@ -60,15 +60,15 @@
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="http://sound.risd.edu/sas-help.html"/>
-        <id>http://sound.risd.edu/sas-help.html</id>
+        <link href="https://sound.risd.edu/sas-help.html"/>
+        <id>https://sound.risd.edu/sas-help.html</id>
             <category term="spatial audio studio"/>
 
         <updated>2018-07-24T21:45:36-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://sound.risd.edu/media/posts/7/03.png" alt="" />
+                    <img src="https://sound.risd.edu/media/posts/7/03.png" alt="" />
                 <p class="align-center msg--highlight msg  msg--success"><strong><a href="https://goo.gl/forms/LyAt2oGCibTXr0O43" target="_blank" rel="noopener noreferrer">click to submit support ticket</a></strong></p>
 <ul>
 <li>Consult the <em><span style="text-decoration: underline;">getting started document (TBA)</span></em> before submitting a ticket</li>
@@ -84,15 +84,15 @@
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="http://sound.risd.edu/sas-rules.html"/>
-        <id>http://sound.risd.edu/sas-rules.html</id>
+        <link href="https://sound.risd.edu/sas-rules.html"/>
+        <id>https://sound.risd.edu/sas-rules.html</id>
             <category term="spatial audio studio"/>
 
         <updated>2018-07-24T21:45:34-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://sound.risd.edu/media/posts/6/07.png" alt="" />
+                    <img src="https://sound.risd.edu/media/posts/6/07.png" alt="" />
                 <ul>
 <li>Use of the studio must be scheduled with the <a href="#INTERNAL_LINK#/post/8">reservation system</a>. Reservations can be made up until the current time. People that drop-in without making a reservation can be bumped. </li>
 <li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>
@@ -120,15 +120,15 @@
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="http://sound.risd.edu/sas-courses.html"/>
-        <id>http://sound.risd.edu/sas-courses.html</id>
+        <link href="https://sound.risd.edu/sas-courses.html"/>
+        <id>https://sound.risd.edu/sas-courses.html</id>
             <category term="spatial audio studio"/>
 
         <updated>2018-07-24T21:45:30-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://sound.risd.edu/media/posts/5/06.png" alt="" />
+                    <img src="https://sound.risd.edu/media/posts/5/06.png" alt="" />
                 <p><strong>Sonic Practices</strong><br>DM-3104: Fall 2018 / Spring 2019<br><em>Mark Cetilia, Andrea Pensado</em><br>Sonic Practices is a graduate-level research group focused on acoustic, electronic, and/or computer-based means of sound production and reception. Participants explore audio culture and technology while developing experimental approaches to composition, performance, recording, and/or listening. Areas of investigation include, but are not limited to: audio programming languages, embedded/mobile computing for sound and music, spatial audio, sound synthesis, audio electronics, sonification and auditory display, electroacoustic music composition and improvisation, field recording and soundscape studies, sound installation and performance, and sonic interaction design. Each semester, course content changes in response to a new unifying theme upon which students base individual and team-based research projects. Meetings consist of discussions, workshops, critiques, and collaborations that support students' individual inquiries, the exchange of ideas, and the exploration of research methodologies.</p>
 <p><br><strong>Of Sound and Vision</strong><br>CTC 2007: Wintersession 2019<br><em>Mark Cetilia</em><br>This intensive studio course investigates computational approaches to generating sound and image in real time. Precedents from experimental film and video, as well as sound, installation, and performance art will be examined in relationship both to human perception and the students' artistic practice. The course will include discussion of key historical works and texts, hands-on demonstrations and in-class projects, as well as critical engagement with new works by class members. Students will use programming environments such as Max and its object libraries for sound and video, MSP and Jitter, to explore the creative and expressive potentials of an intermedia production practice, culminating in the development of a larger work that incorporates knowledge gained throughout the course.</p>
 <p><br><strong>Spatial Audio</strong><br>CTC-2006: Spring 2019<br><em>Shawn Greenlee</em><br>Spatial Audio focuses on the creation of immersive 3D sound experiences. In this course, students analyze and explore how the sensation of space is activated in the listener by making works using spatial audio techniques. These methods include high-order ambisonics, vector-based amplitude panning, multichannel surround, and binaural audio, among others. Throughout the semester, a series of exercises addressing technical and theoretical issues provide students with the necessary experience to produce midterm and final projects. Coursework involves computational approaches to sound design and composition, with instruction in the audio programming language Max and digital audio workstations, i.e. Ableton Live and Reaper. Students have recurring access to a 25-channel loudspeaker array for the development of works. Readings from psychology, philosophy, the arts, and sound studies support class discussions and critiques. Students will need a laptop computer (Mac or Windows) and a Max software license (educational pricing available from cycling74.com). Previous experience with digital audio software recommended.</p>
@@ -142,15 +142,15 @@
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="http://sound.risd.edu/sas-seminar.html"/>
-        <id>http://sound.risd.edu/sas-seminar.html</id>
+        <link href="https://sound.risd.edu/sas-seminar.html"/>
+        <id>https://sound.risd.edu/sas-seminar.html</id>
             <category term="spatial audio studio"/>
 
         <updated>2018-07-24T21:45:28-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://sound.risd.edu/media/posts/4/05.png" alt="" />
+                    <img src="https://sound.risd.edu/media/posts/4/05.png" alt="" />
                 <p>The seminar area of the studio is for flexible use and supports audio-visual presentations independent from the 25.4 loudspeaker array.<br><br>Equipment includes:</p>
 <ul>
 <li>Large-format HDMI video display, wall mounted</li>
@@ -167,15 +167,15 @@
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="http://sound.risd.edu/sas-software.html"/>
-        <id>http://sound.risd.edu/sas-software.html</id>
+        <link href="https://sound.risd.edu/sas-software.html"/>
+        <id>https://sound.risd.edu/sas-software.html</id>
             <category term="spatial audio studio"/>
 
         <updated>2018-07-24T21:45:12-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://sound.risd.edu/media/posts/3/02.png" alt="" />
+                    <img src="https://sound.risd.edu/media/posts/3/02.png" alt="" />
                 <p class="msg msg--info">This is a listing of the audio software (beyond the RISD coreware) installed on the main workstation. The rack workstation does not match this listing. </p>
 <p> </p>
 <p><strong>Programming</strong></p>
@@ -215,15 +215,15 @@
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="http://sound.risd.edu/sas-about.html"/>
-        <id>http://sound.risd.edu/sas-about.html</id>
+        <link href="https://sound.risd.edu/sas-about.html"/>
+        <id>https://sound.risd.edu/sas-about.html</id>
             <category term="spatial audio studio"/>
 
         <updated>2018-07-20T16:31:09-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://sound.risd.edu/media/posts/2/01.png" alt="" />
+                    <img src="https://sound.risd.edu/media/posts/2/01.png" alt="" />
                 <p>The spatial audio studio at Mezzanine, 15 West is a purpose-built, acoustically treated room featuring a 25.4 channel sound system and a flexible seminar area with additional audiovisual support. The sound system consists of an array of 25 independently-addressable, full-range speakers in a dome configuration, accompanied by 4 subwoofers. The primary way of working with the array is through audio programming languages and digital audio software. A central computer workstation joined with audio network interfaces provides connectivity throughout the room, I/O expansion, and the main interface for composition, design, and performance. A variety of spatial audio techniques are supported, including high order ambisonics, vector-based amplitude panning, multichannel surround, and 3D audio for immersive media.</p>
 <p>The studio provides an essential resource for curriculum and builds capacity for advanced sound studies and research engaging computation and audio technologies. It is used by faculty and students as a classroom, workspace, and research laboratory. Providing an ideal setting for teaching and learning in sonic arts and sound design, the studio supports a selection of courses offered by the interdisciplinary Computation, Technology, and Culture concentration (CTC) and the graduate Department of Digital + Media (D+M). As a workspace for projects, the studio can be individually reserved by students enrolled in associated courses. As a research laboratory, the studio is a site for faculty and student experimentation with outcomes aimed at peer review publication, presentation/performance at conferences and festivals, and other forms of exposition. Further, the studio hosts visiting lectures and workshops by designers, artists, and technologists; and provides a fresh context for exchanges with industry, Brown University, and cross-institutional research networks.</p>
 <p class="msg msg--info"><em>Please direct inquires to the faculty contact, Shawn Greenlee: sgreenle *at* risd *dot* edu</em></p>
@@ -235,15 +235,15 @@
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="http://sound.risd.edu/sas-array.html"/>
-        <id>http://sound.risd.edu/sas-array.html</id>
+        <link href="https://sound.risd.edu/sas-array.html"/>
+        <id>https://sound.risd.edu/sas-array.html</id>
             <category term="spatial audio studio"/>
 
         <updated>2018-07-20T16:31:11-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://sound.risd.edu/media/posts/1/08.png" alt="" />
+                    <img src="https://sound.risd.edu/media/posts/1/08.png" alt="" />
                 <p> <br><strong>Support documents (studio specific)</strong></p>
 <ul>
 <li><a href="#INTERNAL_LINK#/post/6">Studio rules and guidelines</a></li>
