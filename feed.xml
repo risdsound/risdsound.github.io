@@ -3,7 +3,7 @@
     <title>sound.risd.edu </title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2018-09-01T14:29:40-04:00</updated>
+    <updated>2018-09-02T10:09:09-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://sound.risd.edu/risd-weekend.html</id>
             <category term="news"/>
 
-        <updated>2018-08-30T00:31:27-04:00</updated>
+        <updated>2018-09-02T10:09:01-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -39,7 +39,7 @@
         <id>https://sound.risd.edu/sas-reservations.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-08-30T00:31:25-04:00</updated>
+        <updated>2018-09-02T10:08:59-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -64,14 +64,14 @@
         <id>https://sound.risd.edu/sas-help.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-08-30T00:31:22-04:00</updated>
+        <updated>2018-09-02T10:08:55-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://sound.risd.edu/media/posts/7/03.png" alt="" />
                 <p class="align-center msg--highlight msg  msg--success"><strong><a href="https://goo.gl/forms/LyAt2oGCibTXr0O43" target="_blank" rel="noopener noreferrer">click to submit support ticket</a></strong></p>
 <ul>
-<li>Consult the <em><span style="text-decoration: underline;">getting started document (TBA)</span></em> before submitting a ticket</li>
+<li>Consult the <em><span style="text-decoration: underline;">getting started and troubleshooting document (TBA)</span></em> before submitting a ticket</li>
 <li>By submitting a ticket, you will alert studio management of problems encountered. These will be addressed as soon as possible. Support tickets are reviewed daily.</li>
 <li>There is no on-call support for 25.4 loudspeaker array.</li>
 </ul>
@@ -88,7 +88,7 @@
         <id>https://sound.risd.edu/sas-rules.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-08-30T00:30:36-04:00</updated>
+        <updated>2018-09-02T10:08:51-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -133,7 +133,7 @@
         <id>https://sound.risd.edu/sas-courses.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-08-30T00:29:53-04:00</updated>
+        <updated>2018-09-02T10:08:49-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -155,7 +155,7 @@
         <id>https://sound.risd.edu/sas-seminar.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-01T12:58:07-04:00</updated>
+        <updated>2018-09-02T10:08:46-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -186,7 +186,7 @@
         <id>https://sound.risd.edu/sas-software.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-01T14:28:54-04:00</updated>
+        <updated>2018-09-02T10:08:44-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -235,7 +235,7 @@
         <id>https://sound.risd.edu/sas-about.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-08-30T00:25:34-04:00</updated>
+        <updated>2018-09-02T10:08:38-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -255,27 +255,23 @@
         <id>https://sound.risd.edu/sas-array.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-01T14:26:29-04:00</updated>
+        <updated>2018-09-02T10:08:41-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://sound.risd.edu/media/posts/1/m11_sas1.jpg" alt="" />
-                <p> <img src="https://sound.risd.edu/media/posts/1/m11_sas1.jpg" alt="" width="1026" height="770"></p>
-<p><strong>Support documents (studio specific)</strong></p>
+                <p> <strong>Support documents (studio specific)</strong></p>
 <ul>
 <li><a href="#INTERNAL_LINK#/post/6">Studio rules and guidelines</a></li>
+<li>Getting started and troubleshooting (TBA)</li>
 <li><span style="text-decoration: underline;">Loudspeaker mappings/coordinates (TBA)</span></li>
 <li><span style="text-decoration: underline;">AVB routing (TBA)</span></li>
-<li><span style="text-decoration: underline;">Getting started (TBA)</span></li>
 </ul>
 <p> </p>
 <p><strong>Loudspeakers</strong></p>
 <ul>
 <li><a href="https://www.genelec.com/studio-monitors/8000-series-studio-monitors/8050b-studio-monitor" target="_blank" rel="noopener noreferrer">25 Genelec 8050B studio monitors</a></li>
 <li><a href="https://www.genelec.com/support-technology/previous-models/hts4b-home-theater-subwoofer" target="_blank" rel="noopener noreferrer">4 Genelec HTS4B home theater subwoofers</a></li>
-<li><a href="http://motu.com/products/avb/1248" target="_blank" rel="noopener noreferrer">MOTU 1248 AVB audio interface</a> (in rack)</li>
-<li><a href="http://motu.com/products/avb/24ai-24ao" target="_blank" rel="noopener noreferrer">MOTU 24Ao AVB audio interface</a> (in rack)</li>
-<li><a href="http://motu.com/products/avb/avb-switch" target="_blank" rel="noopener noreferrer">2 MOTU AVB switches</a> (in rack)</li>
 </ul>
 <p> </p>
 <p><strong>Main workstation</strong></p>
@@ -289,10 +285,13 @@
 <li><a href="https://pro.sony/en_BA/products/medium-displays/fw-55BZ35F" target="_blank" rel="noopener noreferrer">55" Sony Bravia 4K TV display</a> FW-55BZ35F, cart mounted</li>
 </ul>
 <p> </p>
-<p><strong>Rack workstation</strong></p>
+<p><strong>Rack</strong></p>
 <ul>
-<li><a href="https://www.apple.com/imac/" target="_blank" rel="noopener noreferrer">iMac 27"</a></li>
-<li><a href="http://motu.com/products/avb/8m" target="_blank" rel="noopener noreferrer">MOTU 8M AVB interface</a></li>
+<li><a href="https://www.apple.com/imac/" target="_blank" rel="noopener noreferrer">iMac 27"</a> (desk)</li>
+<li><a href="http://motu.com/products/avb/8m" target="_blank" rel="noopener noreferrer">MOTU 8M AVB interface</a> (desk)</li>
+<li><a href="http://motu.com/products/avb/1248" target="_blank" rel="noopener noreferrer">MOTU 1248 AVB audio interface</a> </li>
+<li><a href="http://motu.com/products/avb/24ai-24ao" target="_blank" rel="noopener noreferrer">MOTU 24Ao AVB audio interface</a> </li>
+<li><a href="http://motu.com/products/avb/avb-switch" target="_blank" rel="noopener noreferrer">2 MOTU AVB switches</a></li>
 </ul>
             ]]>
         </content>
