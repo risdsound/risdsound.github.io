@@ -3,12 +3,31 @@
     <title>sound.risd.edu </title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2018-09-08T12:39:00-04:00</updated>
+    <updated>2018-09-09T13:55:53-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
     <id>https://sound.risd.edu</id>
 
+    <entry>
+        <title>Sensel interview</title>
+        <author>
+            <name>shawn greenlee</name>
+        </author>
+        <link href="https://sound.risd.edu/sensel-interview.html"/>
+        <id>https://sound.risd.edu/sensel-interview.html</id>
+            <category term="news"/>
+
+        <updated>2018-09-09T13:55:31-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sound.risd.edu/media/posts/10/d6dbd3870b1ff536ebf010805a15e50a_original.jpg" alt="" />
+                <p><a href="https://sensel.com" target="_blank" rel="noopener noreferrer">Sensel</a> (a company specializing in high-resolution, pressure-sensitive, touch technology) recently conducted an interview with Shawn Greenlee (Associate Professor, EFS).  RISD's new spatial audio studio is discussed. </p>
+<p>Read here: <a href="https://sensel.com/blogs/news/interview-shawn-greenlee" target="_blank" rel="noopener noreferrer">https://sensel.com/blogs/news/interview-shawn-greenlee</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>RISD Weekend demo | October 6, 2018</title>
         <author>
@@ -18,7 +37,7 @@
         <id>https://sound.risd.edu/risd-weekend.html</id>
             <category term="news"/>
 
-        <updated>2018-09-08T12:38:48-04:00</updated>
+        <updated>2018-09-09T13:55:32-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -39,7 +58,7 @@
         <id>https://sound.risd.edu/sas-reservations.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-08T12:38:45-04:00</updated>
+        <updated>2018-09-09T13:55:28-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -64,7 +83,7 @@
         <id>https://sound.risd.edu/sas-help.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-08T12:38:42-04:00</updated>
+        <updated>2018-09-09T13:55:25-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -88,7 +107,7 @@
         <id>https://sound.risd.edu/sas-rules.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-08T12:38:39-04:00</updated>
+        <updated>2018-09-09T13:55:23-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -133,7 +152,7 @@
         <id>https://sound.risd.edu/sas-courses.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-08T12:38:37-04:00</updated>
+        <updated>2018-09-09T13:55:21-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -155,7 +174,7 @@
         <id>https://sound.risd.edu/sas-seminar.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-08T12:38:35-04:00</updated>
+        <updated>2018-09-09T13:55:18-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -169,7 +188,7 @@
 <li><a href="https://www.allen-heath.com/ahproducts/zedi-10fx/" target="_blank" rel="noopener noreferrer">Allen&amp;Heath ZEDi 10FX USB 4x4 mixer</a></li>
 <li>Video inputs, rack: HDMI, VGA</li>
 <li>Audio inputs, rack: HDMI, 3.5mm, balanced XLR (line-level)</li>
-<li>Video outputs, rack: HDMI, Assitive Listening System </li>
+<li>AV outputs, rack: HDMI, Assitive Listening System </li>
 <li>Dry-erase, magnetic presentation boards </li>
 <li><a href="https://www.hermanmiller.com/products/workspaces/collaborative-furniture/everywhere-tables/" target="_blank" rel="noopener noreferrer">8 HermanMiller Flip-Top tables</a></li>
 <li><a href="https://www.hermanmiller.com/products/seating/stacking-chairs/caper-stacking-chair/" target="_blank" rel="noopener noreferrer">18 HermanMiller Caper chairs</a></li>
@@ -186,7 +205,7 @@
         <id>https://sound.risd.edu/sas-software.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-08T12:38:31-04:00</updated>
+        <updated>2018-09-09T13:55:14-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -235,7 +254,7 @@
         <id>https://sound.risd.edu/sas-about.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-08T12:38:22-04:00</updated>
+        <updated>2018-09-09T13:55:08-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -255,7 +274,7 @@
         <id>https://sound.risd.edu/sas-array.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-08T12:38:28-04:00</updated>
+        <updated>2018-09-09T13:55:11-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -263,7 +282,7 @@
                 <p> <strong>Support documents (studio specific)</strong></p>
 <ul>
 <li><a href="#INTERNAL_LINK#/post/6">Studio rules and guidelines</a></li>
-<li>Getting started and troubleshooting (TBA)</li>
+<li><span style="text-decoration: underline;">Getting started and troubleshooting (TBA)</span></li>
 <li><span style="text-decoration: underline;">Loudspeaker mappings/coordinates (TBA)</span></li>
 <li><span style="text-decoration: underline;">AVB routing (TBA)</span></li>
 </ul>
