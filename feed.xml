@@ -3,7 +3,7 @@
     <title>sound.risd.edu </title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2018-09-09T13:55:53-04:00</updated>
+    <updated>2018-09-09T21:13:29-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://sound.risd.edu/sensel-interview.html</id>
             <category term="news"/>
 
-        <updated>2018-09-09T13:55:31-04:00</updated>
+        <updated>2018-09-09T21:13:23-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -37,7 +37,7 @@
         <id>https://sound.risd.edu/risd-weekend.html</id>
             <category term="news"/>
 
-        <updated>2018-09-09T13:55:32-04:00</updated>
+        <updated>2018-09-09T21:13:25-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -58,7 +58,7 @@
         <id>https://sound.risd.edu/sas-reservations.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-09T13:55:28-04:00</updated>
+        <updated>2018-09-09T21:13:20-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -83,7 +83,7 @@
         <id>https://sound.risd.edu/sas-help.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-09T13:55:25-04:00</updated>
+        <updated>2018-09-09T21:13:17-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -107,7 +107,7 @@
         <id>https://sound.risd.edu/sas-rules.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-09T13:55:23-04:00</updated>
+        <updated>2018-09-09T21:13:15-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -152,7 +152,7 @@
         <id>https://sound.risd.edu/sas-courses.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-09T13:55:21-04:00</updated>
+        <updated>2018-09-09T21:13:12-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -174,7 +174,7 @@
         <id>https://sound.risd.edu/sas-seminar.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-09T13:55:18-04:00</updated>
+        <updated>2018-09-09T21:13:10-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -205,7 +205,7 @@
         <id>https://sound.risd.edu/sas-software.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-09T13:55:14-04:00</updated>
+        <updated>2018-09-09T21:13:06-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -254,7 +254,7 @@
         <id>https://sound.risd.edu/sas-about.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-09T13:55:08-04:00</updated>
+        <updated>2018-09-09T21:12:58-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -274,7 +274,7 @@
         <id>https://sound.risd.edu/sas-array.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-09T13:55:11-04:00</updated>
+        <updated>2018-09-09T21:13:02-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -282,9 +282,10 @@
                 <p> <strong>Support documents (studio specific)</strong></p>
 <ul>
 <li><a href="#INTERNAL_LINK#/post/6">Studio rules and guidelines</a></li>
-<li><span style="text-decoration: underline;">Getting started and troubleshooting (TBA)</span></li>
-<li><span style="text-decoration: underline;">Loudspeaker mappings/coordinates (TBA)</span></li>
-<li><span style="text-decoration: underline;">AVB routing (TBA)</span></li>
+<li><span style="text-decoration: underline;">Getting started and troubleshooting (in progress)</span></li>
+<li><a href="media/files/m11_speakerNumbering.pdf" target="_blank" rel="noopener noreferrer">Loudspeaker numbering</a></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1OcgXRTtTGmD_vEQxK_zaynicAR4NSGUk112rdJy8I0o/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Loudspeaker coordinates</a> (in progress)</li>
+<li><span style="text-decoration: underline;">AVB routing (in progess)</span></li>
 </ul>
 <p> </p>
 <p><strong>Loudspeakers</strong></p>
