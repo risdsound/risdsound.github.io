@@ -3,7 +3,7 @@
     <title>sound.risd.edu </title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2018-09-09T21:13:29-04:00</updated>
+    <updated>2018-09-11T23:37:13-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://sound.risd.edu/sensel-interview.html</id>
             <category term="news"/>
 
-        <updated>2018-09-09T21:13:23-04:00</updated>
+        <updated>2018-09-11T23:37:02-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -37,7 +37,7 @@
         <id>https://sound.risd.edu/risd-weekend.html</id>
             <category term="news"/>
 
-        <updated>2018-09-09T21:13:25-04:00</updated>
+        <updated>2018-09-11T23:37:04-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -58,7 +58,7 @@
         <id>https://sound.risd.edu/sas-reservations.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-09T21:13:20-04:00</updated>
+        <updated>2018-09-11T23:36:59-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -83,14 +83,14 @@
         <id>https://sound.risd.edu/sas-help.html</id>
             <category term="spatial audio studio"/>
 
-        <updated>2018-09-09T21:13:17-04:00</updated>
+        <updated>2018-09-11T23:36:55-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://sound.risd.edu/media/posts/7/03.png" alt="" />
                 <p class="align-center msg--highlight msg  msg--success"><strong><a href="https://goo.gl/forms/LyAt2oGCibTXr0O43" target="_blank" rel="noopener noreferrer">click to submit support ticket</a></strong></p>
 <ul>
-<li>Consult the <em><span style="text-decoration: underline;">getting started and troubleshooting document (TBA)</span></em> before submitting a ticket</li>
+<li>As part of coursework, students must learn to troubleshoot common problems.</li>
 <li>By submitting a ticket, you will alert studio management of problems encountered. These will be addressed as soon as possible. Support tickets are reviewed daily.</li>
 <li>There is no on-call support for 25.4 loudspeaker array.</li>
 </ul>
