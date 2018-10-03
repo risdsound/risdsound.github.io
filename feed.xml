@@ -3,7 +3,7 @@
     <title>sound.risd.edu </title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2018-10-03T00:12:28-04:00</updated>
+    <updated>2018-10-03T00:19:06-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
@@ -204,7 +204,7 @@
         <id>https://sound.risd.edu/sas-seminar.html</id>
             <category term="Spatial audio studio"/>
 
-        <updated>2018-10-01T23:53:07-04:00</updated>
+        <updated>2018-10-03T00:16:36-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sound.risd.edu/media/posts/4/" alt="" />
@@ -226,6 +226,7 @@
 <li><a href="https://www.genelec.com/studio-monitors/8000-series-studio-monitors/8050b-studio-monitor" target="_blank" rel="noopener noreferrer">2 Genelec 8050B studio monitors</a></li>
 <li><a href="https://www.crestron.com/Products/Video/All-In-One-Solutions/DigitalMedia-Presentation-Switchers/DMPS3-4K-150-C" target="_blank" rel="noopener noreferrer">Crestron 4K DigitalMedia Presentation System DMPS3-4K-150-C </a></li>
 <li><a href="https://www.extron.com/product/dmp44lc" target="_blank" rel="noopener noreferrer">Extron DMP 44LC, 4x4 digital matrix processor</a></li>
+<li><a href="https://proav.roland.com/global/products/vr-50hd/" target="_blank" rel="noopener noreferrer">Roland VR-50HD, multi-format AV mixer </a></li>
 <li><a href="https://www.allen-heath.com/ahproducts/zedi-10fx/" target="_blank" rel="noopener noreferrer">Allen&amp;Heath ZEDi 10FX USB 4x4 mixer</a></li>
 <li>Video inputs, rack: HDMI, VGA</li>
 <li>Audio inputs, rack: HDMI, 3.5mm, balanced XLR (line-level)</li>
