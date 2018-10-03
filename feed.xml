@@ -3,7 +3,7 @@
     <title>sound.risd.edu </title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2018-10-02T00:45:35-04:00</updated>
+    <updated>2018-10-03T00:12:28-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
@@ -246,7 +246,7 @@
         <id>https://sound.risd.edu/sas-software.html</id>
             <category term="Spatial audio studio"/>
 
-        <updated>2018-10-02T00:06:38-04:00</updated>
+        <updated>2018-10-03T00:10:34-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sound.risd.edu/media/posts/3/" alt="" />
@@ -256,7 +256,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://sound.risd.edu/media/posts/3/" alt="" />
-                <p>This is a listing of the audio software (beyond the RISD coreware) installed on the main workstation. The rack workstation does not match this listing.</p>
+                <p>This is a listing of the audio software (beyond the RISD coreware) installed on the main workstation.<br> The rack workstation does not match this listing.</p>
 <p> </p>
 <p><strong>Programming</strong></p>
 <ul>
