@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://sound.risd.edu/stephen-vitiello-lecture-or-october-11-2018.html",
+            "url": "https://sound.risd.edu/stephen-vitiello-lecture-or-october-11-2018.html",
+            "title": "Stephen Vitiello lecture | October 11, 2018",
+            "summary": " October 11th, 1-2pm RISD Museum Chace Center Auditorium Stephen Vitiello is an electronic musician and media artist. CD releases&hellip;",
+            "content_html": "<p><img class=\"post__image--wide\" src=\"https://sound.risd.edu/media/posts/12/stephen2.png\" width=\"2750\" height=\"2680\"></p>\n<p> </p>\n<p>October 11th, 1-2pm RISD Museum Chace Center Auditorium<br><br>Stephen Vitiello is an electronic musician and media artist. CD releases have been published by New Albion Records, Sub Rosa, 12k and Room 40. His sound installations and multi-channel works are in the permanent collections of the Museum of Modern Art, the Whitney Museum and the Museum of Contemporary Art, Lyon. Exhibitions include a site-specific work for NYC’s High Line, “Soundings: A Contemporary Score,” at the Museum of Modern Art; the 2002 Whitney Biennial; and the 2006 Biennial of Sydney. Over the last 25 years, Vitiello has collaborated with such artists and musicians as Pauline Oliveros, Ryuichi Sakamoto, Taylor Deupree, Joan Jonas, Julie Mehretu and Steve Roden. Vitiello has been awarded a Guggenheim Fellowship for “Fine Arts,” a Creative Capital grant for “Emerging Fields” and an Alpert/Ucross Award for Music. In 2012, Australian Television produced the documentary, Stephen Vitiello: Listening With Intent. Originally from New York, Vitiello is now based in Richmond, VA where he is a professor, and interim chair in the department of Kinetic Imaging at Virginia Commonwealth University. <br><br><a href=\"http://www.stephenvitiello.com/\" rel=\"noopener noreferrer\" target=\"_blank\">http://www.stephenvitiello.com</a></p>",
+            "image": "https://sound.risd.edu/media/posts/12/vit2.png",
+            "author": {
+                "name": "shawn greenlee"
+            },
+            "tags": [
+                   "News"
+            ],
+            "date_published": "2018-10-08T17:37:04-04:00",
+            "date_modified": "2018-10-08T17:45:10-04:00"
+        },
+        {
             "id": "https://sound.risd.edu/sensel-interview.html",
             "url": "https://sound.risd.edu/sensel-interview.html",
             "title": "Sensel interview",
