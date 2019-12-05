@@ -3,12 +3,34 @@
     <title>sound.risd.edu </title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2019-05-29T17:37:11-04:00</updated>
+    <updated>2019-12-04T23:04:40-05:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
     <id>https://sound.risd.edu</id>
 
+    <entry>
+        <title>Spatial Audio Studio article on risd.edu | September 2019</title>
+        <author>
+            <name>shawn greenlee</name>
+        </author>
+        <link href="https://sound.risd.edu/risdedu-feature.html"/>
+        <id>https://sound.risd.edu/risdedu-feature.html</id>
+
+        <updated>2019-12-04T23:04:29-05:00</updated>
+            <summary>
+                <![CDATA[
+                     Article on the first year of the Spatial Audio Studio: Sonic Practice on the Cutting Edge. Since opening last fall, the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img class="post__image" src="https://sound.risd.edu/media/posts/16/1561576413243_Spatial-audio-studio-for-sense-of-scale.jpg" alt="" width="4832" height="3222"></p>
+<p>Article on the first year of the Spatial Audio Studio: <em>Sonic Practice on the Cutting Edge. </em>Since opening last fall, the spatial audio studio above the library has helped advance sound studies at RISD...</p>
+<p> <a href="https://www.risd.edu/news/stories/spatial-audio-studio-inspires-sonic-innovation/" target="_blank" rel="noopener noreferrer">https://www.risd.edu/news/stories/spatial-audio-studio-inspires-sonic-innovation/</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Yasunao Tone - performance and lecture | April 3-4, 2019</title>
         <author>
