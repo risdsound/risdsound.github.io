@@ -3,7 +3,7 @@
     <title>Spatial Audio Studio</title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2021-08-13T14:08:04-04:00</updated>
+    <updated>2021-08-13T14:38:20-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
@@ -40,11 +40,11 @@
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="https://sound.risd.edu/sas-reservations.html"/>
-        <id>https://sound.risd.edu/sas-reservations.html</id>
+        <link href="https://sound.risd.edu/reservations.html"/>
+        <id>https://sound.risd.edu/reservations.html</id>
             <category term="Use"/>
 
-        <updated>2021-08-13T12:40:32-04:00</updated>
+        <updated>2021-08-13T14:32:26-04:00</updated>
             <summary>
                 <![CDATA[
                     click to log in Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff. Access to studio&hellip;
@@ -57,8 +57,8 @@
 <li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>
 <li>Access to studio and reservation system is granted after an introductory lesson.</li>
 <li>As part of coursework, students must learn to troubleshoot common problems.</li>
-<li>There is no on-call support for 25.4 loudspeaker array. Submit a <a href="https://sound.risd.edu/sas-help.html">support ticket</a> if a problem occurs.</li>
-<li>Please review the <a href="https://sound.risd.edu/sas-rules.html">studio rules and guidelines</a>. Failure to adhere to these policies can result in revoked access.</li>
+<li>There is no on-call support for 25.4 loudspeaker array. Submit a <a href="https://sound.risd.edu/help.html">support ticket</a> if a problem occurs.</li>
+<li>Please review the <a href="https://sound.risd.edu/rules.html">studio rules and guidelines</a>. Failure to adhere to these policies can result in revoked access.</li>
 </ul>
             ]]>
         </content>
@@ -68,11 +68,11 @@
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="https://sound.risd.edu/sas-array.html"/>
-        <id>https://sound.risd.edu/sas-array.html</id>
+        <link href="https://sound.risd.edu/array.html"/>
+        <id>https://sound.risd.edu/array.html</id>
             <category term="Resources"/>
 
-        <updated>2021-08-13T13:57:17-04:00</updated>
+        <updated>2021-08-13T14:38:20-04:00</updated>
             <summary>
                 <![CDATA[
                     The Spatial Audio Studio has a sound system featuring an array of 25 independently-addressable, full-range speakers in a hemisphere configuration, accompanied by 4 subwoofers. A&hellip;
@@ -88,7 +88,7 @@
 </div></div>
 <h2><strong>Support docs</strong></h2>
 <ul>
-<li><a href="https://sound.risd.edu/sas-rules.html">Studio rules and guidelines</a></li>
+<li><a href="https://sound.risd.edu/rules.html">Studio rules and guidelines</a></li>
 <li><a href="media/files/m11_speakerNumbering.pdf" target="_blank" rel="noopener noreferrer">Loudspeaker numbering</a></li>
 <li>Additional documents (coordinates, AVB routing) on request</li>
 </ul>
@@ -119,11 +119,11 @@
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="https://sound.risd.edu/sas-rules.html"/>
-        <id>https://sound.risd.edu/sas-rules.html</id>
+        <link href="https://sound.risd.edu/rules.html"/>
+        <id>https://sound.risd.edu/rules.html</id>
             <category term="Use"/>
 
-        <updated>2021-08-13T13:02:45-04:00</updated>
+        <updated>2021-08-13T14:32:08-04:00</updated>
             <summary>
                 <![CDATA[
                     Usage Follow all COVID protocols (e.g. social distancing, face masks, hand sanitizing) Do not move or reposition the 25.4 array loudspeakers in any way. The&hellip;
@@ -149,13 +149,13 @@
 </ul>
 <h2><strong>Access</strong></h2>
 <ul>
-<li>Use of the studio must be scheduled with the <a href="https://sound.risd.edu/sas-reservations.html">reservation system</a>. Reservations can be made up until the current time. People that drop-in without making a reservation can be bumped. </li>
+<li>Use of the studio must be scheduled with the <a href="https://sound.risd.edu/reservations.html">reservation system</a>. Reservations can be made up until the current time. People that drop-in without making a reservation can be bumped. </li>
 <li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>
 <li>Access to studio and reservation system is granted after an introductory lesson.</li>
 </ul>
 <h2><strong>Support</strong></h2>
 <ul>
-<li>There is no on-call support for 25.4 loudspeaker array. Submit a <a href="https://sound.risd.edu/sas-help.html">support ticket</a> if a problem occurs.</li>
+<li>There is no on-call support for 25.4 loudspeaker array. Submit a <a href="https://sound.risd.edu/help.html">support ticket</a> if a problem occurs.</li>
 <li>As part of coursework, students must learn to troubleshoot common problems.</li>
 </ul>
             ]]>
@@ -166,11 +166,11 @@
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="https://sound.risd.edu/sas-software.html"/>
-        <id>https://sound.risd.edu/sas-software.html</id>
+        <link href="https://sound.risd.edu/software.html"/>
+        <id>https://sound.risd.edu/software.html</id>
             <category term="Resources"/>
 
-        <updated>2021-08-13T12:59:45-04:00</updated>
+        <updated>2021-08-13T14:31:35-04:00</updated>
             <summary>
                 <![CDATA[
                     This is a listing of the audio software (beyond the RISD coreware) installed on the main workstation. The rack workstation does not match this listing.
@@ -214,11 +214,11 @@
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="https://sound.risd.edu/sas-help.html"/>
-        <id>https://sound.risd.edu/sas-help.html</id>
+        <link href="https://sound.risd.edu/help.html"/>
+        <id>https://sound.risd.edu/help.html</id>
             <category term="Use"/>
 
-        <updated>2021-08-13T12:15:45-04:00</updated>
+        <updated>2021-08-13T14:32:16-04:00</updated>
             <summary>
                 <![CDATA[
                     click to submit support ticket 
@@ -262,11 +262,10 @@
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="https://sound.risd.edu/sas-about.html"/>
-        <id>https://sound.risd.edu/sas-about.html</id>
-            <category term="Spatial audio studio"/>
+        <link href="https://sound.risd.edu/about.html"/>
+        <id>https://sound.risd.edu/about.html</id>
 
-        <updated>2021-08-13T13:05:59-04:00</updated>
+        <updated>2021-08-13T14:35:06-04:00</updated>
             <summary>
                 <![CDATA[
                     The RISD Spatial Audio Studio (M11, 15 West Mezzanine) is a purpose-built, acoustically treated room featuring a 25.4 channel sound system and a flexible seminar&hellip;
@@ -287,11 +286,11 @@
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="https://sound.risd.edu/sas-courses.html"/>
-        <id>https://sound.risd.edu/sas-courses.html</id>
+        <link href="https://sound.risd.edu/courses.html"/>
+        <id>https://sound.risd.edu/courses.html</id>
             <category term="Spatial audio studio"/>
 
-        <updated>2021-08-13T14:08:04-04:00</updated>
+        <updated>2021-08-13T14:31:55-04:00</updated>
             <summary>
                 <![CDATA[
                     Spatial Audio CTC/DM-2006: Fall 2021 Shawn Greenlee Spatial Audio focuses on the creation of immersive 3D sound experiences. In this course, students analyze and explore&hellip;
@@ -322,11 +321,11 @@
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="https://sound.risd.edu/sas-seminar.html"/>
-        <id>https://sound.risd.edu/sas-seminar.html</id>
+        <link href="https://sound.risd.edu/classroom.html"/>
+        <id>https://sound.risd.edu/classroom.html</id>
             <category term="Resources"/>
 
-        <updated>2021-08-13T13:00:04-04:00</updated>
+        <updated>2021-08-13T14:31:47-04:00</updated>
             <summary>
                 <![CDATA[
                     The Spatial Audio Studio has a dedicated seminar area which can be flexibly configured and supports audio-visual presentations independent from the 25.4 loudspeaker array. Equipment&hellip;

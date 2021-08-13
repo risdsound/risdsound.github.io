@@ -2,12 +2,27 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "05516273e445994948015b01812d35cd"
+        "md5": "4caf452675d9ae1f74cb18dd0cb93109"
+    },
+    {
+        "path": "about.html",
+        "type": "file",
+        "md5": "be7b7a9c17ee26fd4c904ccae5f4c2f7"
     },
     {
         "path": "amp",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/amp/about.html",
+        "type": "file",
+        "md5": "345e135f0fe4ff6affa2b73209b01695"
+    },
+    {
+        "path": "/amp/array.html",
+        "type": "file",
+        "md5": "4cb2887182da29768354191d4eb1dca0"
     },
     {
         "path": "amp/authors",
@@ -22,7 +37,7 @@
     {
         "path": "/amp/authors/shawn-greenlee/index.html",
         "type": "file",
-        "md5": "40f5863ac611ae0fad47d9b4f11f6fc6"
+        "md5": "22a33742c85dfe3655fe7b3d198ced77"
     },
     {
         "path": "amp/authors/shawn-greenlee/page",
@@ -37,7 +52,17 @@
     {
         "path": "/amp/authors/shawn-greenlee/page/2/index.html",
         "type": "file",
-        "md5": "053176e4840cdb6124a2fe637228cef8"
+        "md5": "0c2284fafb19dc6d3c2505fc8a14844d"
+    },
+    {
+        "path": "/amp/classroom.html",
+        "type": "file",
+        "md5": "2bb33a1af5183133c7a16b3a76af8044"
+    },
+    {
+        "path": "/amp/courses.html",
+        "type": "file",
+        "md5": "724a6d1e30c4cdda0f4821bfa11ff213"
     },
     {
         "path": "/amp/derek-holzer-vector-synthesis-workshop.html",
@@ -45,9 +70,14 @@
         "md5": "95f23c10259099c985c815065fb52f73"
     },
     {
+        "path": "/amp/help.html",
+        "type": "file",
+        "md5": "7fbb1a75bbe6d89894fb7d3b56c362e7"
+    },
+    {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "63627b0a43ecaf47264e0c8b508716c9"
+        "md5": "f6a2bb0690e932ffdbd0f36a6cb208b1"
     },
     {
         "path": "/amp/olivia-block-performance-and-lecture.html",
@@ -67,12 +97,17 @@
     {
         "path": "/amp/page/2/index.html",
         "type": "file",
-        "md5": "fdd53e85d9ac3f0980ad580872baec3a"
+        "md5": "75f2fe495a96492bc57b254e59826ade"
     },
     {
         "path": "/amp/research.html",
         "type": "file",
         "md5": "b686c09ba2a98bdee4e4bc78d59080ff"
+    },
+    {
+        "path": "/amp/reservations.html",
+        "type": "file",
+        "md5": "232690c8edb436cfad2fe272f0ac2703"
     },
     {
         "path": "amp/resources",
@@ -82,7 +117,7 @@
     {
         "path": "/amp/resources/index.html",
         "type": "file",
-        "md5": "a40e1a02239a6d166fc99fb8b275df6e"
+        "md5": "3a35e86a664de6b39a04b10731b38bbc"
     },
     {
         "path": "/amp/risdedu-feature.html",
@@ -90,49 +125,19 @@
         "md5": "27cc7fd057565baefbd91a4472b48bc8"
     },
     {
-        "path": "/amp/sas-about.html",
+        "path": "/amp/rules.html",
         "type": "file",
-        "md5": "bf5e688c79bdf832be638132f913f5f1"
-    },
-    {
-        "path": "/amp/sas-array.html",
-        "type": "file",
-        "md5": "6dc24bcc1060643326031296007ff44e"
-    },
-    {
-        "path": "/amp/sas-courses.html",
-        "type": "file",
-        "md5": "7d89fab869cd7f9b8324d25be0ef4ccf"
-    },
-    {
-        "path": "/amp/sas-help.html",
-        "type": "file",
-        "md5": "652c6346467b66078a5b5b59e2576520"
-    },
-    {
-        "path": "/amp/sas-reservations.html",
-        "type": "file",
-        "md5": "e9a466bb2a790fa4fd3ff1c996100f61"
-    },
-    {
-        "path": "/amp/sas-rules.html",
-        "type": "file",
-        "md5": "e081b68b4adfb73781360edbe496570e"
-    },
-    {
-        "path": "/amp/sas-seminar.html",
-        "type": "file",
-        "md5": "8407515b0b1b9689db7efba81ed2f3e2"
-    },
-    {
-        "path": "/amp/sas-software.html",
-        "type": "file",
-        "md5": "d4b1ea33bccb36ebcdcb5a0aa6d999f0"
+        "md5": "b7bfe6a42ddaf1a10394b4136464b94b"
     },
     {
         "path": "/amp/serge-modular-synth.html",
         "type": "file",
         "md5": "2ab5e00f697492cba5cf7060ab63e86f"
+    },
+    {
+        "path": "/amp/software.html",
+        "type": "file",
+        "md5": "ba60316879b08ff980e30945a5a04e21"
     },
     {
         "path": "amp/spatial-audio-studio",
@@ -142,7 +147,7 @@
     {
         "path": "/amp/spatial-audio-studio/index.html",
         "type": "file",
-        "md5": "84e97393e762f1aa1650afad1124d808"
+        "md5": "7778d76b591c99c1b4cbc0777ffe6f05"
     },
     {
         "path": "/amp/stephen-vitiello-lecture-or-october-11-2018.html",
@@ -157,12 +162,17 @@
     {
         "path": "/amp/use/index.html",
         "type": "file",
-        "md5": "d8818fcec9040acf6a8c09023b79779a"
+        "md5": "633f29d595e55404605e0e4ac580b36f"
     },
     {
         "path": "/amp/yasunao-tone-performance-and-lecture-or-april-3-4-2019.html",
         "type": "file",
         "md5": "c7afa1f3aa269422c5fd6eedae09ce81"
+    },
+    {
+        "path": "array.html",
+        "type": "file",
+        "md5": "28b5d77bb212beb5b1829036364cfb2f"
     },
     {
         "path": "assets",
@@ -327,7 +337,7 @@
     {
         "path": "/authors/shawn-greenlee/index.html",
         "type": "file",
-        "md5": "a76e1329fdf029b2ba833d99076d0275"
+        "md5": "94c70715d260dfe1e19f4b5dcde7f542"
     },
     {
         "path": "authors/shawn-greenlee/page",
@@ -342,27 +352,42 @@
     {
         "path": "/authors/shawn-greenlee/page/2/index.html",
         "type": "file",
-        "md5": "7d7ff690b557d769c5fe09fc6fb99ba0"
+        "md5": "682159f5108f61ab8a95d7f4ffb8118b"
+    },
+    {
+        "path": "classroom.html",
+        "type": "file",
+        "md5": "3fbb49a0136ba0edd052fc2b6a228e96"
+    },
+    {
+        "path": "courses.html",
+        "type": "file",
+        "md5": "1a2fe77be26102c0b8965be21f41c14f"
     },
     {
         "path": "derek-holzer-vector-synthesis-workshop.html",
         "type": "file",
-        "md5": "ad436825922e02f3a036a32e5941bc4a"
+        "md5": "bc126e7ecd8b0a74db6d1b7d8b309373"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "8b5893ddbdb25a147038f4364be7c4a9"
+        "md5": "71a3a578dd6d3febc23529ac72e25f45"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "cb46933a765a28693805e24ec325497d"
+        "md5": "baac1456a52d6b654cf1d704ba33b8c4"
+    },
+    {
+        "path": "help.html",
+        "type": "file",
+        "md5": "3e3b228ff97472ff136f2739238711f4"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "0c7fc6255e22b93aaf9d398c335708c2"
+        "md5": "c9f856b547c6f7a7ccd595e3af895a49"
     },
     {
         "path": "media",
@@ -832,7 +857,7 @@
     {
         "path": "olivia-block-performance-and-lecture.html",
         "type": "file",
-        "md5": "06fb46adbbece934a77bba12086112a6"
+        "md5": "7db74414c16164a8c66ce03749bc73a0"
     },
     {
         "path": "page",
@@ -847,12 +872,17 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "b8577a9842e3613ea192ffb44022e862"
+        "md5": "d1c051d8f8c54e54b7fedeec2f8317f9"
     },
     {
         "path": "research.html",
         "type": "file",
-        "md5": "ae3527c5325a768229abf1dfa8bb4276"
+        "md5": "cedd6daecd4d9757cad10b4535443432"
+    },
+    {
+        "path": "reservations.html",
+        "type": "file",
+        "md5": "eea6811a6e63d01db0e055b4087a6984"
     },
     {
         "path": "resources",
@@ -862,12 +892,12 @@
     {
         "path": "/resources/index.html",
         "type": "file",
-        "md5": "268f3bb449f39dd4e75244baf4c9f3df"
+        "md5": "9bbf26352b754cb03477278c8b82682c"
     },
     {
         "path": "risdedu-feature.html",
         "type": "file",
-        "md5": "7daf61c9fa6af5bfb73865d1e9d7eeba"
+        "md5": "e7c17425ad3dfa18160ebc2aff36dd41"
     },
     {
         "path": "robots.txt",
@@ -875,64 +905,34 @@
         "md5": "3c5438a03364e77e0b7523f6ee2cab96"
     },
     {
-        "path": "sas-about.html",
+        "path": "rules.html",
         "type": "file",
-        "md5": "6506a9b2b5fd7b6049c4eb067bae5a79"
-    },
-    {
-        "path": "sas-array.html",
-        "type": "file",
-        "md5": "534e5bd0ea55a288d7d8db3752aa6fd3"
-    },
-    {
-        "path": "sas-courses.html",
-        "type": "file",
-        "md5": "386183b8bd754882171a98038a25995b"
-    },
-    {
-        "path": "sas-help.html",
-        "type": "file",
-        "md5": "67da1bba64c8acc931965c7f6cc85cbe"
-    },
-    {
-        "path": "sas-reservations.html",
-        "type": "file",
-        "md5": "aaa208cf41175a8fa9a9d76dcda43437"
-    },
-    {
-        "path": "sas-rules.html",
-        "type": "file",
-        "md5": "a9f2b2045532b91711d12605f00d970a"
-    },
-    {
-        "path": "sas-seminar.html",
-        "type": "file",
-        "md5": "bcc9d2bfd2754cf160acee950703e6ed"
-    },
-    {
-        "path": "sas-software.html",
-        "type": "file",
-        "md5": "740c180e2c18bd87b8e6ce1afff75d40"
+        "md5": "eba92f0aa8f03e3a7776fdf5f8d28f9e"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "4cfec34d6e5bf4a8e91231ebb9246f8d"
+        "md5": "9734cbc260eea3432996e5973df6088f"
     },
     {
         "path": "serge-modular-synth.html",
         "type": "file",
-        "md5": "ca1db1345dd64ed37c7f9b9923287b00"
+        "md5": "ffe2080af88c4c8d1ac36a46c45132af"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "afe2e9c9e4852bf34969eef7381fe939"
+        "md5": "3470e53b018ce45193fdb03103be15ef"
     },
     {
         "path": "sitemap.xsl",
         "type": "file",
         "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "software.html",
+        "type": "file",
+        "md5": "ad1fac413ea245edfa14577318c55ef8"
     },
     {
         "path": "spatial-audio-studio",
@@ -942,12 +942,12 @@
     {
         "path": "/spatial-audio-studio/index.html",
         "type": "file",
-        "md5": "4b07373a3c6829c91f4968957e1526cd"
+        "md5": "523235a8a2f7ce409bd496e06d5bf62f"
     },
     {
         "path": "stephen-vitiello-lecture-or-october-11-2018.html",
         "type": "file",
-        "md5": "dd80ca0a5bc79b3851ca4661a38c8a7f"
+        "md5": "99ca3044828ad8f024809bba344c03fb"
     },
     {
         "path": "use",
@@ -957,11 +957,11 @@
     {
         "path": "/use/index.html",
         "type": "file",
-        "md5": "bd3841d2b8012afb6f3898d10bf6a468"
+        "md5": "fdaf91aa03694e38fd7c9fa1be66b818"
     },
     {
         "path": "yasunao-tone-performance-and-lecture-or-april-3-4-2019.html",
         "type": "file",
-        "md5": "90e69e9df2dbf324756b5522096673f9"
+        "md5": "6bc5f99e27d2b4748f6716584f7520f1"
     }
 ]
