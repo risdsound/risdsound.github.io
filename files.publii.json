@@ -102,7 +102,7 @@
     {
         "path": "/amp/sas-courses.html",
         "type": "file",
-        "md5": "46fb09dd3aecd5e70e3a5209dc8436d7"
+        "md5": "7d89fab869cd7f9b8324d25be0ef4ccf"
     },
     {
         "path": "/amp/sas-help.html",
@@ -352,12 +352,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "858d1fedb5c270212b4a07a20e14252f"
+        "md5": "8b5893ddbdb25a147038f4364be7c4a9"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "a8d3c09fe2c5f0e7afd53a9fa0f2a8e9"
+        "md5": "cb46933a765a28693805e24ec325497d"
     },
     {
         "path": "index.html",
@@ -887,7 +887,7 @@
     {
         "path": "sas-courses.html",
         "type": "file",
-        "md5": "99fca202d2156deadb180badc0a49b19"
+        "md5": "386183b8bd754882171a98038a25995b"
     },
     {
         "path": "sas-help.html",
@@ -927,7 +927,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "9a3d7f4ddb20d9b14f7d6ecef4743cc5"
+        "md5": "afe2e9c9e4852bf34969eef7381fe939"
     },
     {
         "path": "sitemap.xsl",
