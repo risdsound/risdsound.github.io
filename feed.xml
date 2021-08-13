@@ -1,143 +1,362 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>sound.risd.edu </title>
+    <title>Spatial Audio Studio</title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2020-09-14T11:59:17-04:00</updated>
+    <updated>2021-08-13T13:57:17-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
     <id>https://sound.risd.edu</id>
 
     <entry>
-        <title>Spatial Audio Studio article on risd.edu | September 2019</title>
+        <title>Research</title>
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="https://sound.risd.edu/risdedu-feature.html"/>
-        <id>https://sound.risd.edu/risdedu-feature.html</id>
+        <link href="https://sound.risd.edu/research.html"/>
+        <id>https://sound.risd.edu/research.html</id>
+            <category term="Spatial audio studio"/>
 
-        <updated>2019-12-05T08:57:24-05:00</updated>
+        <updated>2021-08-13T13:04:48-04:00</updated>
             <summary>
                 <![CDATA[
-                     Article on the first year of the Spatial Audio Studio: Sonic Practice on the Cutting Edge. Since opening last fall, the&hellip;
+                    Sound Field Performance Toolkit (2021) National Endowment for the Arts, Media Arts Grant Info. coming soon RISD-Hyundai Research Partnership Info. coming soon
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><img class="post__image" src="https://sound.risd.edu/media/posts/16/1561576413243_Spatial-audio-studio-for-sense-of-scale.jpg" alt="" width="4832" height="3222"></p>
-<p>Article on the first year of the Spatial Audio Studio: <em>Sonic Practice on the Cutting Edge. </em>Since opening last fall, the spatial audio studio above the library has helped advance sound studies at RISD...</p>
-<p> <a href="https://www.risd.edu/news/stories/spatial-audio-studio-inspires-sonic-innovation/" target="_blank" rel="noopener noreferrer">https://www.risd.edu/news/stories/spatial-audio-studio-inspires-sonic-innovation/</a></p>
+                <h2>Sound Field Performance Toolkit (2021)</h2>
+<p><em>National Endowment for the Arts, Media Arts Grant</em></p>
+<p>Info. coming soon</p>
+<h2>Sound Design for (the Future of) Mobility (2020)</h2>
+<p><em>RISD-Hyundai Research Partnership</em></p>
+<p>Info. coming soon</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Yasunao Tone - performance and lecture | April 3-4, 2019</title>
+        <title>Reservations</title>
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="https://sound.risd.edu/yasunao-tone-performance-and-lecture-or-april-3-4-2019.html"/>
-        <id>https://sound.risd.edu/yasunao-tone-performance-and-lecture-or-april-3-4-2019.html</id>
+        <link href="https://sound.risd.edu/sas-reservations.html"/>
+        <id>https://sound.risd.edu/sas-reservations.html</id>
+            <category term="Use"/>
 
-        <updated>2019-03-12T22:56:48-04:00</updated>
+        <updated>2021-08-13T12:40:32-04:00</updated>
             <summary>
                 <![CDATA[
-                    Performance: April 3, 7pm. Prov Wash Auditorium, 20 Washington PlaceLecture: April 4, 1pm. Spatial Audio Studio, 15 Westminster St., Mezzanine&hellip;
+                    click to log in Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff. Access to studio&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div><hr></div>
-<img class="post__image" src="https://sound.risd.edu/media/posts/15/tone.png" alt="" width="1279" height="1279">
+                <p class="msg msg--success align-left"><strong><a href="http://efs.bookedscheduler.com/Web/schedule.php?sid=13" target="_blank" rel="noopener noreferrer">click to log in</a></strong></p>
 <ul>
-<li>Performance: April 3, 7pm. Prov Wash Auditorium, 20 Washington Place</li>
-<li>Lecture: April 4, 1pm. Spatial Audio Studio, 15 Westminster St., Mezzanine floor, room M11</li>
+<li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>
+<li>Access to studio and reservation system is granted after an introductory lesson.</li>
+<li>As part of coursework, students must learn to troubleshoot common problems.</li>
+<li>There is no on-call support for 25.4 loudspeaker array. Submit a <a href="https://sound.risd.edu/sas-help.html">support ticket</a> if a problem occurs.</li>
+<li>Please review the <a href="https://sound.risd.edu/sas-rules.html">studio rules and guidelines</a>. Failure to adhere to these policies can result in revoked access.</li>
 </ul>
-<p> <em>Sponsored by the Computation, Technology, and Culture concentration and the Digital+Media Department</em></p>
-<p>Yasunao Tone (born 1935) is a Japanese-American artist, writer, theorist, and composer. According to critic Alan Cummings, he is “part of a whole generation of post-war iconoclasts who followed in the wake of John Cage's discovery of indeterminacy, determined to shake music and art out of their enslavement to the high art, romanticist ideals of the 19th century.” He co-founded Group Ongaku (Music group) in the early 1960s, has been active in the Fluxus movement since 1962, and has also been an organizer and participant in many important music and performance scenes including New York’s Downtown improvisors, and the European electronica experimentalists. An outstanding experimentalist, Yasunao coined the term "paramedia art" to describe his work, and his artistic inventions include prepared CD, interventions with an MP3 system and AI programm. Primarily a composer, Tone has worked in many media, creating pieces for electronics, computer systems, film, radio and television, as well as environmental art. His work is distinguished by conversion of text into music via images with analog and digital means, and with critique of medium in use (Music for 2CD Players, Solo for Wounded CD). Tone has presented concerts at the Kitchen, MoMA, the Guggenheim, Museum of Contemporary Art Barcelona, the Ars Electronica Festival, Centre George Pompidou, Sonic Lights in Amsterdam, ATP festivals and Lovebytes festivals, among many others. Select exhibitions include the Venice Biennale, numerous FLUXUS shows, "The Japanese Avant-garde since 1945" at the Guggenheim Museum, "Bitstreams" at the Whitney Museum, the Yokohama Triennale. Honors include the Ars Electronica Golden Nica award and the Foundation for Contemporary Arts award in music.</p>
-<p id="mcetoc_1d5qfl6720" class="taFHO sc-jqCOkK jbhBLB">Video: <a href="https://vimeo.com/175305422" target="_blank" rel="noopener noreferrer">Yasunao Tone: AI Deviation at ISSUE Project Room June 9th, 2016</a></p>
-<p> </p>
-<p> </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Derek Holzer - vector synthesis workshop and performance | March 19-21, 2019</title>
+        <title>25.4 loudspeaker array</title>
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="https://sound.risd.edu/derek-holzer-vector-synthesis-workshop.html"/>
-        <id>https://sound.risd.edu/derek-holzer-vector-synthesis-workshop.html</id>
+        <link href="https://sound.risd.edu/sas-array.html"/>
+        <id>https://sound.risd.edu/sas-array.html</id>
+            <category term="Resources"/>
 
-        <updated>2019-03-12T22:55:37-04:00</updated>
+        <updated>2021-08-13T13:57:17-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sound.risd.edu/media/posts/14/kvant-green-1024x1024.png" alt="" />
-                    On the evenings of March 19 and 20, Derek Holzer will lead a Vector Synthesis Workshop at RISD’s Spatial Audio Studio,&hellip;
+                    The Spatial Audio Studio has a sound system featuring an array of 25 independently-addressable, full-range speakers in a hemisphere configuration, accompanied by 4 subwoofers. A&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://sound.risd.edu/media/posts/14/kvant-green-1024x1024.png" alt="" />
-                <hr>
-<p>On the evenings of March 19 and 20, <a href="http://macumbista.net/" target="_blank" rel="noopener noreferrer">Derek Holzer</a> will lead a Vector Synthesis Workshop at RISD’s Spatial Audio Studio, sponsored by the <a href="https://ctc.risd.edu" target="_blank" rel="noopener noreferrer">Computation, Technology, and Culture</a> concentration.  <br><br>Basic experience with the programming languages <a href="https://cycling74.com/" target="_blank" rel="noopener noreferrer">Max</a> or <a href="https://puredata.info/" target="_blank" rel="noopener noreferrer">Pd</a> is required. <br><br>When: March 19 at 7:00pm and March 20 at 6:30pm<br><br>Where: Spatial Audio Studio, 15 Westminster St., Mezzanine floor, room M11<br><br>Capacity is limited, please sign up here: <a href="https://goo.gl/forms/4aSlJC4OE7f5bHWz1" target="_blank" rel="noopener noreferrer">https://goo.gl/forms/4aSlJC4OE7f5bHWz1</a><br><br>An e-mail will be sent to you by March 17 to confirm your spot.  Attendance on both evenings is recommended.<br><br>-----<br><br>DEREK HOLZER is a sound + light artist based in Helsinki &amp; Berlin, whose current interests include DIY electronics, audiovisual instrument building, the relationship between sound and space, media archaeology, and participatory art forms. He has performed live, taught workshops and created scores of unique instruments and installations since 2002 across Europe, North and South America, and New Zealand. <br><br><a href="http://macumbista.net/">http://macumbista.net/</a><br><a href="https://www.instagram.com/macumbista/" target="_blank" rel="noopener noreferrer">https://www.instagram.com/macumbista/</a><br><br><br>-----<br><br>On <strong>Tuesday March 19</strong>, the workshop will start at 7pm and feature a lecture: A Media Archaeology of Vector Graphics. The development of any kind of media technology combines utopian and dystopian tendencies, and nowhere is that more true than in the development of computer vector graphics. Taking the activation of the AN/FSQ-7 computers at the heart of the SAGE (Semi-Automatic Ground Environment) defense stations in the United States in 1958 as its starting point, this talk explores the military/scientific legacy at the heart of modern computing and attempts by artists of the 50’s, 60’s, and 70’s to decouple these tools from their destructive origins.<br><br>-----<br><br>On <strong>Wednesday March 20</strong>, the workshop will start at 6:30pm.  The focus will be on Holzer's Vector Synthesis library, which uses the Pure Data programming environment to investigate the direct relationship between sound+image. With it, you can draw Lissajous figures, render simple two- and three-dimensional shapes, and process photographs and video into vector artwork which can be displayed on oscilloscopes using audio signals. These shapes can also be further modified in real time using external audio sources such as voice, amplified instruments, or electronic synthesizers. This talk will introduce the basic concepts and capabilities of this publicly-available, free and open source audio+visual library. <a href="https://github.com/macumbista/vectorsynthesis" target="_blank" rel="noopener noreferrer">https://github.com/macumbista/vectorsynthesis</a><br><br>-----<br><br>On <strong>Thursday night March 21</strong>, Derek Holzer will perform at <a href="http://www.machineswithmagnets.com/" target="_blank" rel="noopener noreferrer">Machines with Magnets</a> in Pawtucket, RI.  Further details can be found at the FB event page here: <a href="https://www.facebook.com/events/254381318802981/" target="_blank" rel="noopener noreferrer">https://www.facebook.com/events/254381318802981/</a><br><br><img class="post__image" src="https://sound.risd.edu/media/posts/14/03_19_poster-web-2.png" alt="" width="1100" height="1500"></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Olivia Block - performance and lecture | February 20-21, 2019</title>
-        <author>
-            <name>shawn greenlee</name>
-        </author>
-        <link href="https://sound.risd.edu/olivia-block-performance-and-lecture.html"/>
-        <id>https://sound.risd.edu/olivia-block-performance-and-lecture.html</id>
-
-        <updated>2019-03-12T22:55:29-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sound.risd.edu/media/posts/13/olivia1.png" alt="" />
-                     Sponsored by the Computation, Technology, and Culture concentration and the Digital+Media Department Olivia Block is a composer and media&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://sound.risd.edu/media/posts/13/olivia1.png" alt="" />
-                <hr>
-<p><img class="post__image" src="https://sound.risd.edu/media/posts/13/olivia2.png" alt="" width="2750" height="3750"></p>
+                <p>The Spatial Audio Studio has a sound system featuring an array of 25 independently-addressable, full-range speakers in a hemisphere configuration, accompanied by 4 subwoofers.  A variety of spatial audio techniques are supported, including high order ambisonics, vector-based amplitude panning, multichannel surround, and 3D audio for immersive media.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://sound.risd.edu/media/posts/1/gallery/m11_array1.jpg" data-size="1922x1281"><img loading="lazy" src="https://sound.risd.edu/media/posts/1/gallery/m11_array1-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://sound.risd.edu/media/posts/1/gallery/m11_array2.jpg" data-size="1920x1282"><img loading="lazy" src="https://sound.risd.edu/media/posts/1/gallery/m11_array2-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://sound.risd.edu/media/posts/1/gallery/m11_array3.jpg" data-size="1920x1282"><img loading="lazy" src="https://sound.risd.edu/media/posts/1/gallery/m11_array3-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div></div>
+<h2><strong>Support docs</strong></h2>
 <ul>
-<li>Performance, February 20, 7pm. RISD Chace Center, Metcalf Auditorium</li>
-<li>Lecture, February 21, 1pm. RISD D+M Department, CIT 4th floor</li>
+<li><a href="https://sound.risd.edu/sas-rules.html">Studio rules and guidelines</a></li>
+<li><a href="media/files/m11_speakerNumbering.pdf" target="_blank" rel="noopener noreferrer">Loudspeaker numbering</a></li>
+<li>Additional documents (coordinates, AVB routing) on request</li>
 </ul>
-<p><em>Sponsored by the Computation, Technology, and Culture concentration and the Digital+Media Department</em></p>
-<p>Olivia Block is a composer and media artist based in Chicago. Her recorded compositions combine field recordings, chamber instruments and electronic textures<em>,</em> and others. Block creates multimedia installations and performances utilizing field recordings, found sounds from micro cassette tapes, video, and curated 35mm slides. Block’s current work reflects her interests in site specificity, ethnographic sound, architecture, and found/archival materials from the 1950’s-1990’s. Block often performs her own solo pieces, utilizing electronically processed amplified objects, found recordings on tapes, and various techniques inside grand pianos. Her studio based compositions are published on And/Oar, Cut, Erstwhile, Glistening Examples, NNA, and Sedimental, among other labels. She has created site specific multi-speaker installations for The Sanitorium in Sokolowsko, Poland, The Jay Pritzker Pavilion in Millennium Park, Chicago, and the Olympics in Turin Italy, among others. She has performed and premiered pieces in festivals throughout America, Europe, Scandinavia, and Japan. Block has been interviewed on NPR’s Morning Edition, Wire Magazine, Musicworks Magazine, Blow Up, Chicago Reader, and many additional podcasts, publications and radio programs.</p>
-<p><a href="https://www.oliviablock.net/" target="_blank" rel="noopener noreferrer">https://www.oliviablock.net/</a></p>
+<h2><strong>Loudspeakers and audio network</strong></h2>
+<ul>
+<li><a href="https://www.genelec.com/studio-monitors/8000-series-studio-monitors/8050b-studio-monitor" target="_blank" rel="noopener noreferrer">25 Genelec 8050B studio monitors</a></li>
+<li><a href="https://www.genelec.com/support-technology/previous-models/hts4b-home-theater-subwoofer" target="_blank" rel="noopener noreferrer">4 Genelec HTS4B home theater subwoofers</a></li>
+<li><a href="http://motu.com/products/avb/8m" target="_blank" rel="noopener noreferrer">MOTU 8M AVB interface</a> (workstation)</li>
+<li><a href="http://motu.com/products/avb/1248" target="_blank" rel="noopener noreferrer">MOTU 1248 AVB audio interface</a> (rack)</li>
+<li><a href="http://motu.com/products/avb/24ai-24ao" target="_blank" rel="noopener noreferrer">MOTU 24Ao AVB audio interface</a> (rack)</li>
+<li><a href="http://motu.com/products/avb/avb-switch" target="_blank" rel="noopener noreferrer">2 MOTU AVB switches</a> (rack)</li>
+</ul>
+<h2><strong>Workstation</strong></h2>
+<ul>
+<li><a href="https://www.apple.com/imac-pro/" target="_blank" rel="noopener noreferrer">iMac Pro 27" 3.0 GHz 10-core Intel Xeon, 128GB RAM, 2TB SSD</a></li>
+<li><a href="https://www.ableton.com/en/push/" target="_blank" rel="noopener noreferrer">Ableton Push 2 controller</a></li>
+<li><a href="https://sensel.com/pages/morph" target="_blank" rel="noopener noreferrer">Sensel Morph controller w/ overlays</a></li>
+<li><a href="http://lividinstruments.com/products/alias8/" target="_blank" rel="noopener noreferrer">Livid Instruments Alias8 MIDI controller</a></li>
+<li><a href="http://www.networksound.com/index.php/products/pbays/xlr" target="_blank" rel="noopener noreferrer">Network Sound patchbay</a> (for MOTU 8m I/O)</li>
+<li><a href="https://www.azstudioworkstations.com/" target="_blank" rel="noopener noreferrer">Desk, custom AZ Studio Workstations</a></li>
+<li><a href="https://www.apple.com/imac/" target="_blank" rel="noopener noreferrer">iMac 27"</a> (desk adjacent to rack)</li>
+</ul>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Stephen Vitiello - lecture | October 11, 2018</title>
+        <title>Rules</title>
         <author>
             <name>shawn greenlee</name>
         </author>
-        <link href="https://sound.risd.edu/stephen-vitiello-lecture-or-october-11-2018.html"/>
-        <id>https://sound.risd.edu/stephen-vitiello-lecture-or-october-11-2018.html</id>
+        <link href="https://sound.risd.edu/sas-rules.html"/>
+        <id>https://sound.risd.edu/sas-rules.html</id>
+            <category term="Use"/>
 
-        <updated>2019-03-12T22:03:36-04:00</updated>
+        <updated>2021-08-13T13:02:45-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sound.risd.edu/media/posts/12/vit2.png" alt="" />
-                     October 11, 1pm. RISD Chace Center, Metcalf Auditorium Sponsored by the Computation, Technology, and Culture concentration and the Digital+Media&hellip;
+                    Usage Follow all COVID protocols (e.g. social distancing, face masks, hand sanitizing) Do not move or reposition the 25.4 array loudspeakers in any way. The&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://sound.risd.edu/media/posts/12/vit2.png" alt="" />
-                <hr>
-<p><img class="post__image--wide" src="https://sound.risd.edu/media/posts/12/stephen2.png" width="2750" height="2680"></p>
+                <h2><strong>Usage</strong></h2>
+<ul>
+<li>Follow all COVID protocols (e.g. social distancing, face masks, hand sanitizing)</li>
+<li>Do not move or reposition the 25.4 array loudspeakers in any way. The system is calibrated to exact positions.  </li>
+<li><strong>No food</strong> in the studio. Drinks should be in container with lid and kept away from computers and equipment. Please clean up. Take trash to bins outside of studio.</li>
+<li>The permitted types of studio work are computer-based / electronic media production.</li>
+<li>The studio is a clean space. No materials or tools that produce dust or fumes are allowed. Fabrication should be done elsewhere.</li>
+<li>Do not hang anything from the ceiling grid or speakers.</li>
+<li>Do not pin, tape, or mount anything in any way to the walls or acoustic panels.</li>
+<li>Do not leave or store anything in the studio. Items left will be discarded.</li>
+<li>Do not remove equipment or furniture from the studio.</li>
+<li>The tables and chairs in the seminar area can be rearranged to accommodate usage needs. Please return to default state.</li>
+<li>Installations require special permission from studio management and coordination with faculty of studio courses.</li>
+<li>Work conducted in the studio may not cause or threaten physical harm to its occupants, equipment, or facilities.</li>
+<li>Failure to adhere to these policies can result in revoked access.</li>
+</ul>
+<h2><strong>Access</strong></h2>
+<ul>
+<li>Use of the studio must be scheduled with the <a href="https://sound.risd.edu/sas-reservations.html">reservation system</a>. Reservations can be made up until the current time. People that drop-in without making a reservation can be bumped. </li>
+<li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>
+<li>Access to studio and reservation system is granted after an introductory lesson.</li>
+</ul>
+<h2><strong>Support</strong></h2>
+<ul>
+<li>There is no on-call support for 25.4 loudspeaker array. Submit a <a href="https://sound.risd.edu/sas-help.html">support ticket</a> if a problem occurs.</li>
+<li>As part of coursework, students must learn to troubleshoot common problems.</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Software</title>
+        <author>
+            <name>shawn greenlee</name>
+        </author>
+        <link href="https://sound.risd.edu/sas-software.html"/>
+        <id>https://sound.risd.edu/sas-software.html</id>
+            <category term="Resources"/>
+
+        <updated>2021-08-13T12:59:45-04:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a listing of the audio software (beyond the RISD coreware) installed on the main workstation. The rack workstation does not match this listing.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a listing of the audio software (beyond the RISD coreware) installed on the main workstation. The rack workstation does not match this listing.</p>
+<h2><strong>Programming</strong></h2>
+<ul>
+<li><a href="https://cycling74.com/products/max" target="_blank" rel="nofollow noopener noreferrer">Max 8</a></li>
+<li><a href="https://supercollider.github.io" target="_blank" rel="nofollow noopener noreferrer">Supercollider 3</a></li>
+<li><a href="http://msp.ucsd.edu/software.html" target="_blank" rel="nofollow noopener noreferrer">Pd 0.51-2</a></li>
+</ul>
+<h2><strong>DAW</strong></h2>
+<ul>
+<li><a href="http://reaper.fm" target="_blank" rel="nofollow noopener noreferrer">Reaper 6</a></li>
+<li><a href="https://www.ableton.com/en/live/" target="_blank" rel="nofollow noopener noreferrer">Ableton Live 10</a></li>
+</ul>
+<h2><strong>Libraries and plugins</strong></h2>
+<ul>
+<li>VST<a href="https://plugins.iem.at/" target="_blank" rel="noopener noreferrer"> IEM</a></li>
+<li>VST <a href="http://research.spa.aalto.fi/projects/sparta_vsts/" target="_blank" rel="noopener noreferrer">Sparta</a></li>
+<li>VST <a href="http://www.matthiaskronlachner.com/?p=2015" target="_blank" rel="nofollow noopener noreferrer">Kronlachner ambiX</a></li>
+<li>VST <a href="https://www.brucewiggins.co.uk/?page_id=78" target="_blank" rel="nofollow noopener noreferrer">Wigware </a></li>
+<li>VST/AU <a href="https://www.noisemakers.fr" target="_blank" rel="nofollow noopener noreferrer">Noisemakers Ambi Bundle HD</a></li>
+<li>VST/AU <a href="https://harpex.net/" target="_blank" rel="noopener noreferrer">Harpex</a></li>
+<li>Reaper/JSFX <a href="http://www.ambisonictoolkit.net/download/reaper/" target="_blank" rel="nofollow noopener noreferrer">Ambisonic Toolkit</a></li>
+<li>Ableton Live <a href="http://www.envelop.us/software/" target="_blank" rel="nofollow noopener noreferrer">Envelop (E4L)</a></li>
+<li>Supercollider <a href="http://www.ambisonictoolkit.net/download/supercollider/" target="_blank" rel="nofollow noopener noreferrer">Ambisonic Toolkit</a></li>
+<li>Max <a href="http://forumnet.ircam.fr/product/spat-en/" target="_blank" rel="nofollow noopener noreferrer">IRCAM Spat 5</a></li>
+<li>Max <a href="https://www.zhdk.ch/downloads-ambisonics-externals-for-maxmsp-5381" target="_blank" rel="nofollow noopener noreferrer">ICST library</a></li>
+<li>Max <a href="http://ico.bukvic.net/main/d4/" target="_blank" rel="nofollow noopener noreferrer">D4</a></li>
+<li>Max &amp; Pd <a href="http://www.zacharyseldess.com/miap/" target="_blank" rel="nofollow noopener noreferrer">MIAP </a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Help </title>
+        <author>
+            <name>shawn greenlee</name>
+        </author>
+        <link href="https://sound.risd.edu/sas-help.html"/>
+        <id>https://sound.risd.edu/sas-help.html</id>
+            <category term="Use"/>
+
+        <updated>2021-08-13T12:15:45-04:00</updated>
+            <summary>
+                <![CDATA[
+                    click to submit support ticket 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg--highlight msg  msg--success align-left"><strong><a href="https://goo.gl/forms/LyAt2oGCibTXr0O43" target="_blank" rel="noopener noreferrer">click to submit support ticket</a></strong></p>
+<ul>
+<li>As part of coursework, students must learn to troubleshoot common problems.</li>
+<li>By submitting a ticket, you will alert studio management of problems encountered. These will be addressed as soon as possible. Support tickets are reviewed daily.</li>
+<li>There is no on-call support for 25.4 loudspeaker array.</li>
+</ul>
 <p> </p>
-<p>October 11, 1pm. RISD Chace Center, Metcalf Auditorium</p>
-<p><em>Sponsored by the Computation, Technology, and Culture concentration and the Digital+Media Department</em></p>
-<p>Stephen Vitiello is an electronic musician and media artist. CD releases have been published by New Albion Records, Sub Rosa, 12k and Room 40. His sound installations and multi-channel works are in the permanent collections of the Museum of Modern Art, the Whitney Museum and the Museum of Contemporary Art, Lyon. Exhibitions include a site-specific work for NYC’s High Line, “Soundings: A Contemporary Score,” at the Museum of Modern Art; the 2002 Whitney Biennial; and the 2006 Biennial of Sydney. Over the last 25 years, Vitiello has collaborated with such artists and musicians as Pauline Oliveros, Ryuichi Sakamoto, Taylor Deupree, Joan Jonas, Julie Mehretu and Steve Roden. Vitiello has been awarded a Guggenheim Fellowship for “Fine Arts,” a Creative Capital grant for “Emerging Fields” and an Alpert/Ucross Award for Music. In 2012, Australian Television produced the documentary, Stephen Vitiello: Listening With Intent. Originally from New York, Vitiello is now based in Richmond, VA where he is a professor, and interim chair in the department of Kinetic Imaging at Virginia Commonwealth University. <br><br><a href="http://www.stephenvitiello.com/" rel="noopener noreferrer" target="_blank">http://www.stephenvitiello.com</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Serge modular synth</title>
+        <author>
+            <name>shawn greenlee</name>
+        </author>
+        <link href="https://sound.risd.edu/serge-modular-synth.html"/>
+        <id>https://sound.risd.edu/serge-modular-synth.html</id>
+            <category term="Resources"/>
+
+        <updated>2021-08-13T12:22:42-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Coming soon, information on the Random*Source Serge modular synth 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><em>Coming soon, information on the Random*Source Serge modular synth </em></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About</title>
+        <author>
+            <name>shawn greenlee</name>
+        </author>
+        <link href="https://sound.risd.edu/sas-about.html"/>
+        <id>https://sound.risd.edu/sas-about.html</id>
+            <category term="Spatial audio studio"/>
+
+        <updated>2021-08-13T13:05:59-04:00</updated>
+            <summary>
+                <![CDATA[
+                    The RISD Spatial Audio Studio (M11, 15 West Mezzanine) is a purpose-built, acoustically treated room featuring a 25.4 channel sound system and a flexible seminar&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The RISD Spatial Audio Studio (M11, 15 West Mezzanine) is a purpose-built, acoustically treated room featuring a 25.4 channel sound system and a flexible seminar area with additional audiovisual support. The sound system consists of an array of 25 independently-addressable, full-range speakers in a hemisphere configuration, accompanied by 4 subwoofers. The primary way of working with the array is through audio programming languages and digital audio software. A central computer workstation joined with audio network interfaces provides connectivity throughout the room, I/O expansion, and the main interface for composition, design, and performance. A variety of spatial audio techniques are supported, including high order ambisonics, vector-based amplitude panning, multichannel surround, and 3D audio for immersive media.</p>
+<p>The studio provides an essential resource for curriculum and builds capacity for advanced sound studies and research engaging computation and audio technologies. Providing an ideal setting for teaching and learning in sonic arts and sound design, the studio supports a selection of courses offered by the interdisciplinary Computation, Technology, and Culture concentration (CTC) and the graduate Department of Digital + Media (D+M). As a workspace for projects, the studio can be individually reserved by students enrolled in associated courses. As a site for research, the studio provides a hub for faculty and student experimentation with outcomes aimed at peer review publication, presentation/performance at conferences and festivals, and other forms of exposition. Further, the studio hosts visiting lectures and workshops by designers, artists, and technologists; and provides a fresh context for exchanges with industry, Brown University, and cross-institutional research networks.<br><br><em>Please direct inquires to the faculty lead, Shawn Greenlee: sgreenle *at* risd *dot* edu</em></p>
+<p> </p>
+<div class="post__iframe"><iframe loading="lazy" width="100%" height="640" style="width: 100%; height: 640px; border: none; max-width: 100%;" frameborder="0" allow="vr,gyroscope,accelerometer,fullscreen" scrolling="no" allowfullscreen="allowfullscreen" src="https://kuula.co/share/7PR50?fs=1&amp;vr=0&amp;thumbs=1&amp;chromeless=0&amp;logo=0" data-mce-src="https://kuula.co/share/7PR50?fs=1&amp;vr=0&amp;thumbs=1&amp;chromeless=0&amp;logo=0" data-mce-fragment="1"></iframe></div>
+<p><br><br></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Courses</title>
+        <author>
+            <name>shawn greenlee</name>
+        </author>
+        <link href="https://sound.risd.edu/sas-courses.html"/>
+        <id>https://sound.risd.edu/sas-courses.html</id>
+            <category term="Spatial audio studio"/>
+
+        <updated>2021-08-13T13:01:21-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Spatial Audio CTC/DM-2006: Fall 2021 Shawn Greenlee Spatial Audio focuses on the creation of immersive 3D sound experiences. In this course, students analyze and explore&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2><strong>Spatial Audio</strong></h2>
+<p>CTC/DM-2006: Fall 2021<br>Shawn Greenlee</p>
+<pre>Spatial Audio focuses on the creation of immersive 3D sound experiences. In this course, students analyze and explore how the sensation of space is activated in the listener by making works using spatial audio techniques. These methods include high-order ambisonics, vector-based amplitude panning, multichannel surround, and binaural audio, among others. Throughout the semester, a series of exercises addressing technical and theoretical issues provide students with the necessary experience to produce midterm and final projects. Coursework involves computational approaches to sound design and composition, with instruction in the audio programming language Max and digital audio workstations, i.e. Ableton Live and Reaper. Students have recurring access to a 25-channel loudspeaker array for the development of works. Readings from psychology, philosophy, the arts, and sound studies support class discussions and critiques. Students will need a laptop computer (Mac or Windows) and a Max software license (educational pricing available from cycling74.com). Previous experience with digital audio software recommended.</pre>
+<h2>Sonic Practices </h2>
+<p>DM-3104: Fall 2021 &amp; Spring 2022<br>Shawn Greenlee</p>
+<pre>Sonic Practices is a graduate-level research group focused on acoustic, electronic, and/or computer-based means of sound production and reception. Participants explore audio culture and technology while developing experimental approaches to composition, performance, recording, and/or listening. Areas of investigation include, but are not limited to: audio programming languages, embedded/mobile computing for sound and music, spatial audio, sound synthesis, audio electronics, sonification and auditory display, electroacoustic music composition and improvisation, field recording and soundscape studies, sound installation and performance, and sonic interaction design. Each semester, course content changes in response to a new unifying theme upon which students base individual and team-based research projects. Meetings consist of discussions, workshops, critiques, and collaborations that support students' individual inquiries, the exchange of ideas, and the exploration of research methodologies.</pre>
+<h2><strong>Of Sound and Vision</strong></h2>
+<p>CTC/DM-2007: Wintersession 2022<br>Mark Cetilia</p>
+<pre>This intensive studio course investigates computational approaches to generating sound and image in real time. Precedents from experimental film and video, as well as sound, installation, and performance art will be examined in relationship both to human perception and the students' artistic practice. The course will include discussion of key historical works and texts, hands-on demonstrations and in-class projects, as well as critical engagement with new works by class members. Students will use programming environments such as Max and its object libraries for sound and video, MSP and Jitter, to explore the creative and expressive potentials of an intermedia production practice, culminating in the development of a larger work that incorporates knowledge gained throughout the course.</pre>
+<h2><strong>Programming Sound: Performance Systems</strong></h2>
+<p>CTC/DM-2001: Spring 2022<br>Shawn Greenlee</p>
+<pre>Programming Sound: Performance Systems focuses on programming and designing computer-based systems for sound art and music performance. Centered on the dataflow programming language, Pure Data (Pd), the course will be of substantial benefit to students who desire a rigorous and fast-moving foundation in algorithmic approaches to sound design. The course simultaneously facilitates explorations in sound synthesis, audio signal processing, electronics, mobile platforms, gesture-based human computer interaction, and instrument building with microcontrollers and sensors. Coursework involves weekly homework in the form of online lectures and exercises with class sessions reserved for demonstrations, workshops, and project assistance. The course emphasizes modularity and reuse of code. Students will present their work in a public concert during the last week of the semester. Additional notes: In order to conduct work in this course, students will need a laptop computer running a recent OS: Mac, Windows, or Linux. Previous programming experience is recommended, but not required. </pre>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Classroom support</title>
+        <author>
+            <name>shawn greenlee</name>
+        </author>
+        <link href="https://sound.risd.edu/sas-seminar.html"/>
+        <id>https://sound.risd.edu/sas-seminar.html</id>
+            <category term="Resources"/>
+
+        <updated>2021-08-13T13:00:04-04:00</updated>
+            <summary>
+                <![CDATA[
+                    The Spatial Audio Studio has a dedicated seminar area which can be flexibly configured and supports audio-visual presentations independent from the 25.4 loudspeaker array. Equipment&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The Spatial Audio Studio has a dedicated seminar area which can be flexibly configured and supports audio-visual presentations independent from the 25.4 loudspeaker array.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://sound.risd.edu/media/posts/4/gallery/m11_seminar1.jpg" data-size="1920x1080"><img loading="lazy" src="https://sound.risd.edu/media/posts/4/gallery/m11_seminar1-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://sound.risd.edu/media/posts/4/gallery/m11_seminar2.jpg" data-size="1920x1080"><img loading="lazy" src="https://sound.risd.edu/media/posts/4/gallery/m11_seminar2-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://sound.risd.edu/media/posts/4/gallery/m11_seminar3.jpg" data-size="1920x1080"><img loading="lazy" src="https://sound.risd.edu/media/posts/4/gallery/m11_seminar3-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div></div>
+<h2>Equipment</h2>
+<ul>
+<li><a href="https://pro.sony/en_BA/products/medium-displays/fw-65bz35f" target="_blank" rel="noopener noreferrer">65" Sony Bravia 4K TV display</a> FW-65BZ35F, wall mounted</li>
+<li><a href="https://pro.sony/en_BA/products/medium-displays/fw-55BZ35F" target="_blank" rel="noopener noreferrer">55" Sony Bravia 4K TV display</a> FW-55BZ35F, cart mounted</li>
+<li><a href="https://www.genelec.com/studio-monitors/8000-series-studio-monitors/8050b-studio-monitor" target="_blank" rel="noopener noreferrer">2 Genelec 8050B studio monitors</a>, wall mounted</li>
+<li><a href="https://www.crestron.com/Products/Video/All-In-One-Solutions/DigitalMedia-Presentation-Switchers/DMPS3-4K-150-C" target="_blank" rel="noopener noreferrer">Crestron 4K DigitalMedia Presentation System DMPS3-4K-150-C </a></li>
+<li><a href="https://www.extron.com/product/dmp44lc" target="_blank" rel="noopener noreferrer">Extron DMP 44LC, 4x4 digital matrix processor</a></li>
+<li>Mackie 1202VLZ4 12 channel mixer</li>
+<li>Video inputs, rack: HDMI, VGA</li>
+<li>Audio inputs, rack: HDMI, 3.5mm, balanced XLR (line-level)</li>
+<li>AV outputs, rack: HDMI, Assitive Listening System </li>
+</ul>
+<h2>Furniture</h2>
+<ul>
+<li>Dry-erase, magnetic presentation boards </li>
+<li><a href="https://www.hermanmiller.com/products/workspaces/collaborative-furniture/everywhere-tables/" target="_blank" rel="noopener noreferrer">8 HermanMiller Flip-Top tables</a></li>
+<li><a href="https://www.hermanmiller.com/products/seating/stacking-chairs/caper-stacking-chair/" target="_blank" rel="noopener noreferrer">18 HermanMiller Caper chairs</a></li>
+<li>14 Samson LTS50 laptop stands </li>
+<li>20 stools</li>
+</ul>
             ]]>
         </content>
     </entry>

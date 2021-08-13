@@ -1,0 +1,967 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "05516273e445994948015b01812d35cd"
+    },
+    {
+        "path": "amp",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/authors/shawn-greenlee",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/authors/shawn-greenlee/index.html",
+        "type": "file",
+        "md5": "40f5863ac611ae0fad47d9b4f11f6fc6"
+    },
+    {
+        "path": "amp/authors/shawn-greenlee/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/authors/shawn-greenlee/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/authors/shawn-greenlee/page/2/index.html",
+        "type": "file",
+        "md5": "053176e4840cdb6124a2fe637228cef8"
+    },
+    {
+        "path": "/amp/derek-holzer-vector-synthesis-workshop.html",
+        "type": "file",
+        "md5": "95f23c10259099c985c815065fb52f73"
+    },
+    {
+        "path": "/amp/index.html",
+        "type": "file",
+        "md5": "63627b0a43ecaf47264e0c8b508716c9"
+    },
+    {
+        "path": "/amp/olivia-block-performance-and-lecture.html",
+        "type": "file",
+        "md5": "148d6b114269c9708d565b86da2a4851"
+    },
+    {
+        "path": "amp/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/page/2/index.html",
+        "type": "file",
+        "md5": "fdd53e85d9ac3f0980ad580872baec3a"
+    },
+    {
+        "path": "/amp/research.html",
+        "type": "file",
+        "md5": "b686c09ba2a98bdee4e4bc78d59080ff"
+    },
+    {
+        "path": "amp/resources",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/resources/index.html",
+        "type": "file",
+        "md5": "a40e1a02239a6d166fc99fb8b275df6e"
+    },
+    {
+        "path": "/amp/risdedu-feature.html",
+        "type": "file",
+        "md5": "27cc7fd057565baefbd91a4472b48bc8"
+    },
+    {
+        "path": "/amp/sas-about.html",
+        "type": "file",
+        "md5": "bf5e688c79bdf832be638132f913f5f1"
+    },
+    {
+        "path": "/amp/sas-array.html",
+        "type": "file",
+        "md5": "6dc24bcc1060643326031296007ff44e"
+    },
+    {
+        "path": "/amp/sas-courses.html",
+        "type": "file",
+        "md5": "46fb09dd3aecd5e70e3a5209dc8436d7"
+    },
+    {
+        "path": "/amp/sas-help.html",
+        "type": "file",
+        "md5": "652c6346467b66078a5b5b59e2576520"
+    },
+    {
+        "path": "/amp/sas-reservations.html",
+        "type": "file",
+        "md5": "e9a466bb2a790fa4fd3ff1c996100f61"
+    },
+    {
+        "path": "/amp/sas-rules.html",
+        "type": "file",
+        "md5": "e081b68b4adfb73781360edbe496570e"
+    },
+    {
+        "path": "/amp/sas-seminar.html",
+        "type": "file",
+        "md5": "8407515b0b1b9689db7efba81ed2f3e2"
+    },
+    {
+        "path": "/amp/sas-software.html",
+        "type": "file",
+        "md5": "d4b1ea33bccb36ebcdcb5a0aa6d999f0"
+    },
+    {
+        "path": "/amp/serge-modular-synth.html",
+        "type": "file",
+        "md5": "2ab5e00f697492cba5cf7060ab63e86f"
+    },
+    {
+        "path": "amp/spatial-audio-studio",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/spatial-audio-studio/index.html",
+        "type": "file",
+        "md5": "84e97393e762f1aa1650afad1124d808"
+    },
+    {
+        "path": "/amp/stephen-vitiello-lecture-or-october-11-2018.html",
+        "type": "file",
+        "md5": "e8aae6cee4972e3e9af7502421d2182e"
+    },
+    {
+        "path": "amp/use",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/use/index.html",
+        "type": "file",
+        "md5": "d8818fcec9040acf6a8c09023b79779a"
+    },
+    {
+        "path": "/amp/yasunao-tone-performance-and-lecture-or-april-3-4-2019.html",
+        "type": "file",
+        "md5": "c7afa1f3aa269422c5fd6eedae09ce81"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/docsearch.css",
+        "type": "file",
+        "md5": "b3db77fb5744375a94f66dbb17d67579"
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "767b319828e5783ce6a2090f7de205bb"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "2d3aa42e1f79bf1323c16cd692a15892"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "16dc73b926c33763cc3ba89eac832f4b"
+    },
+    {
+        "path": "/assets/css/prism-beige.css",
+        "type": "file",
+        "md5": "6f6dd787b55a8e7e4ea1524ba57fb9c3"
+    },
+    {
+        "path": "/assets/css/prism-dark.css",
+        "type": "file",
+        "md5": "4cc85e12ca94c0614c9359a37eb69a0c"
+    },
+    {
+        "path": "/assets/css/prism-gray.css",
+        "type": "file",
+        "md5": "9a47a4736763dbf7fea7c2cd362b62ea"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "9115e3e21f5368c1e5d655f794a8f682"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/docsearch.min.js",
+        "type": "file",
+        "md5": "9db7c9eaa8e736ce16840e5bbc02047b"
+    },
+    {
+        "path": "/assets/js/html-contents.js",
+        "type": "file",
+        "md5": "65e696bc3422a9d96e4809d6461f18d2"
+    },
+    {
+        "path": "/assets/js/html-contents.min.js",
+        "type": "file",
+        "md5": "169077c370ab8ca62b029845f80f7fd5"
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/prism-copy-to-clipboard.js",
+        "type": "file",
+        "md5": "69e2c08c49b38c1da02e0bfec16e121a"
+    },
+    {
+        "path": "/assets/js/prism-copy-to-clipboard.min.js",
+        "type": "file",
+        "md5": "fabfc3fd9af83cda5208ba2e9f9ed238"
+    },
+    {
+        "path": "/assets/js/prism-line-numbers.js",
+        "type": "file",
+        "md5": "53c0c9d229876ce895a66b69512fb91a"
+    },
+    {
+        "path": "/assets/js/prism-line-numbers.min.js",
+        "type": "file",
+        "md5": "13275d3ac10d7028cf6a6f5da276f68c"
+    },
+    {
+        "path": "/assets/js/prism.js",
+        "type": "file",
+        "md5": "277309e26a038bf312a7e8aa239cfbd8"
+    },
+    {
+        "path": "/assets/js/quicklink.umd.js",
+        "type": "file",
+        "md5": "61daff262ce6be0813e6b1b0341274d4"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "3f7a15b57c34341bc98fc555c05827ba"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "2e5cce97094c516b8f7e6af7e7cd3e09"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "48fda5482817ec84b160d31e8fd29616"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "452594838e74a3df91ad4a20cf53c831"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "c90675e8bad28274c93144244abdd584"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/shawn-greenlee",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/shawn-greenlee/index.html",
+        "type": "file",
+        "md5": "a76e1329fdf029b2ba833d99076d0275"
+    },
+    {
+        "path": "authors/shawn-greenlee/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/shawn-greenlee/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/shawn-greenlee/page/2/index.html",
+        "type": "file",
+        "md5": "7d7ff690b557d769c5fe09fc6fb99ba0"
+    },
+    {
+        "path": "derek-holzer-vector-synthesis-workshop.html",
+        "type": "file",
+        "md5": "ad436825922e02f3a036a32e5941bc4a"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "858d1fedb5c270212b4a07a20e14252f"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "a8d3c09fe2c5f0e7afd53a9fa0f2a8e9"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "0c7fc6255e22b93aaf9d398c335708c2"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/files/01.png",
+        "type": "file",
+        "md5": "e47c4aa43ecc7ed79b4d0d2276a981b3"
+    },
+    {
+        "path": "/media/files/02.png",
+        "type": "file",
+        "md5": "5cd06a7bcd9c195f7d981e690ddaaffd"
+    },
+    {
+        "path": "/media/files/03.png",
+        "type": "file",
+        "md5": "0c051fa2519a6ff40626db5977b32b94"
+    },
+    {
+        "path": "/media/files/03_19_poster-web-2.png",
+        "type": "file",
+        "md5": "e94c6bc3121e82e5acc7f553dd088a28"
+    },
+    {
+        "path": "/media/files/04.png",
+        "type": "file",
+        "md5": "5542372c60d8db652de6bccac4fba8a3"
+    },
+    {
+        "path": "/media/files/05.png",
+        "type": "file",
+        "md5": "6c34ff50d98cd09456977a2051841c1d"
+    },
+    {
+        "path": "/media/files/06.png",
+        "type": "file",
+        "md5": "adbbd4523512b3d18d22c62273c1cf4e"
+    },
+    {
+        "path": "/media/files/07.png",
+        "type": "file",
+        "md5": "8125e657ee09d23e0688bc00a5ed60f3"
+    },
+    {
+        "path": "/media/files/08.png",
+        "type": "file",
+        "md5": "77db6a5a1cb009928cce3c498ee8265d"
+    },
+    {
+        "path": "/media/files/8zollhinten.jpg",
+        "type": "file",
+        "md5": "4313b60d53b637bba4be89f571745a77"
+    },
+    {
+        "path": "/media/files/kvant-green-1024x1024.png",
+        "type": "file",
+        "md5": "0d79ac73baf74bf1933699d7232f945d"
+    },
+    {
+        "path": "/media/files/m11_speakerNumbering.pdf",
+        "type": "file",
+        "md5": "0e984472d251afa5b26190f9358e4505"
+    },
+    {
+        "path": "/media/files/mix1.png",
+        "type": "file",
+        "md5": "81296a44cb3bc05843135bc156a149bf"
+    },
+    {
+        "path": "/media/files/mix2.png",
+        "type": "file",
+        "md5": "acbd5c29f60a42b3dd4c8b80708ec7f3"
+    },
+    {
+        "path": "/media/files/olivia1.png",
+        "type": "file",
+        "md5": "fc86a87c509ec456995413c142871f68"
+    },
+    {
+        "path": "/media/files/olivia2.png",
+        "type": "file",
+        "md5": "80e9a3cf2f2e336499312878b219cbe9"
+    },
+    {
+        "path": "/media/files/speak1.png",
+        "type": "file",
+        "md5": "bc2a9d783a66c755792efa901fe9b5df"
+    },
+    {
+        "path": "/media/files/speak2.png",
+        "type": "file",
+        "md5": "7fb5e9a75956e4743b2d6dcf4fa01694"
+    },
+    {
+        "path": "/media/files/speak3.png",
+        "type": "file",
+        "md5": "e721bfea27cd195ef08ce3c123354770"
+    },
+    {
+        "path": "/media/files/speak4.png",
+        "type": "file",
+        "md5": "9986f8b926f4e89998c93fbe987b9107"
+    },
+    {
+        "path": "/media/files/speak5.png",
+        "type": "file",
+        "md5": "b7c806aacdabf6211214315431a318f4"
+    },
+    {
+        "path": "/media/files/thin.jpg",
+        "type": "file",
+        "md5": "a81623feb3c9cc4ca82ca646daf3dbc7"
+    },
+    {
+        "path": "/media/files/tone.png",
+        "type": "file",
+        "md5": "ea29a1ce7e6689fb4e43834841935f7c"
+    },
+    {
+        "path": "/media/files/unnamed.png",
+        "type": "file",
+        "md5": "a929fca398627ab61dd65d646e4b6dd4"
+    },
+    {
+        "path": "/media/files/wire1.png",
+        "type": "file",
+        "md5": "46666b0c02c56d86683253a35253ba50"
+    },
+    {
+        "path": "/media/files/wire2.png",
+        "type": "file",
+        "md5": "abc321058f7b7b0ad765b0810a746713"
+    },
+    {
+        "path": "/media/files/wire3.png",
+        "type": "file",
+        "md5": "512bdce53202ce47bbd0f6abda6269d8"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/gallery/m11_array1-thumbnail.jpg",
+        "type": "file",
+        "md5": "7486e2a50e79ebfc1c985e5d7494f38f"
+    },
+    {
+        "path": "/media/posts/1/gallery/m11_array1.jpg",
+        "type": "file",
+        "md5": "d3cac08e1f1c979397b6cb6ff2e919b8"
+    },
+    {
+        "path": "/media/posts/1/gallery/m11_array2-thumbnail.jpg",
+        "type": "file",
+        "md5": "25c27f09a91e3e93d192b958fb42e123"
+    },
+    {
+        "path": "/media/posts/1/gallery/m11_array2.jpg",
+        "type": "file",
+        "md5": "07fdb337ba753404a9410a667a913acf"
+    },
+    {
+        "path": "/media/posts/1/gallery/m11_array3-thumbnail.jpg",
+        "type": "file",
+        "md5": "c8b1d24dc68afc0e01348a092faad44f"
+    },
+    {
+        "path": "/media/posts/1/gallery/m11_array3.jpg",
+        "type": "file",
+        "md5": "00d41106ef4b63c7b86554c0c4c19be5"
+    },
+    {
+        "path": "/media/posts/1/m11_array2.jpg",
+        "type": "file",
+        "md5": "07fdb337ba753404a9410a667a913acf"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/m11_array2-md.jpg",
+        "type": "file",
+        "md5": "25c27f09a91e3e93d192b958fb42e123"
+    },
+    {
+        "path": "/media/posts/1/responsive/m11_array2-sm.jpg",
+        "type": "file",
+        "md5": "9bd151d00fbc5a18894850b4f797b592"
+    },
+    {
+        "path": "/media/posts/1/responsive/m11_array2-xs.jpg",
+        "type": "file",
+        "md5": "c67cefbb215de300dc74be9e516cfc74"
+    },
+    {
+        "path": "media/posts/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/12/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/responsive/stephen2-md.png",
+        "type": "file",
+        "md5": "738d7b16e22ed6ca4b39c968041cce58"
+    },
+    {
+        "path": "/media/posts/12/responsive/stephen2-sm.png",
+        "type": "file",
+        "md5": "db7318355264171036394354e8f6c900"
+    },
+    {
+        "path": "/media/posts/12/responsive/stephen2-xs.png",
+        "type": "file",
+        "md5": "8caa80ddbf7112b62babf63a7069986b"
+    },
+    {
+        "path": "/media/posts/12/responsive/vit2-md.png",
+        "type": "file",
+        "md5": "36bed01d2575c38bd36c5e8f2fe6e8af"
+    },
+    {
+        "path": "/media/posts/12/responsive/vit2-sm.png",
+        "type": "file",
+        "md5": "0a1af833d34607289c662c31da263bc9"
+    },
+    {
+        "path": "/media/posts/12/responsive/vit2-xs.png",
+        "type": "file",
+        "md5": "914d7a826d11e41802642ae4a3605b2a"
+    },
+    {
+        "path": "/media/posts/12/stephen2.png",
+        "type": "file",
+        "md5": "ee2fea5857ac64c1649bb02a65c55e74"
+    },
+    {
+        "path": "/media/posts/12/vit2.png",
+        "type": "file",
+        "md5": "7b86547daf89dd350a66893134557b09"
+    },
+    {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/olivia1.png",
+        "type": "file",
+        "md5": "fc86a87c509ec456995413c142871f68"
+    },
+    {
+        "path": "/media/posts/13/olivia2.png",
+        "type": "file",
+        "md5": "80e9a3cf2f2e336499312878b219cbe9"
+    },
+    {
+        "path": "media/posts/13/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/responsive/olivia1-md.png",
+        "type": "file",
+        "md5": "3fc4ea194e57b5aecfb0fac4c506ca46"
+    },
+    {
+        "path": "/media/posts/13/responsive/olivia1-sm.png",
+        "type": "file",
+        "md5": "dbb2f33817942267b278e230b476d742"
+    },
+    {
+        "path": "/media/posts/13/responsive/olivia1-xs.png",
+        "type": "file",
+        "md5": "292c6fc49bc3e8716699e67fa75933f5"
+    },
+    {
+        "path": "/media/posts/13/responsive/olivia2-md.png",
+        "type": "file",
+        "md5": "04231adef156eed878e2faa901e407ad"
+    },
+    {
+        "path": "/media/posts/13/responsive/olivia2-sm.png",
+        "type": "file",
+        "md5": "ac9e88b57ab453e5d4d90e781b9d49f6"
+    },
+    {
+        "path": "/media/posts/13/responsive/olivia2-xs.png",
+        "type": "file",
+        "md5": "189a4f292b2ff125f6bef8d1f1dccf44"
+    },
+    {
+        "path": "media/posts/14",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/03_19_poster-web-2.png",
+        "type": "file",
+        "md5": "e94c6bc3121e82e5acc7f553dd088a28"
+    },
+    {
+        "path": "/media/posts/14/kvant-green-1024x1024.png",
+        "type": "file",
+        "md5": "0d79ac73baf74bf1933699d7232f945d"
+    },
+    {
+        "path": "media/posts/14/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/responsive/03_19_poster-web-2-md.png",
+        "type": "file",
+        "md5": "4e6abf815826ba4b5af2920aaa2c0125"
+    },
+    {
+        "path": "/media/posts/14/responsive/03_19_poster-web-2-sm.png",
+        "type": "file",
+        "md5": "2ce75634b5aa9a8e433f08fff391ddbb"
+    },
+    {
+        "path": "/media/posts/14/responsive/03_19_poster-web-2-xs.png",
+        "type": "file",
+        "md5": "ae0818841f7d455582407cc3a145f45b"
+    },
+    {
+        "path": "/media/posts/14/responsive/kvant-green-1024x1024-md.png",
+        "type": "file",
+        "md5": "6bf0435fcdf1b95a73f27b4d750f8bab"
+    },
+    {
+        "path": "/media/posts/14/responsive/kvant-green-1024x1024-sm.png",
+        "type": "file",
+        "md5": "0a0b1e72b3235419291b177f4ae70372"
+    },
+    {
+        "path": "/media/posts/14/responsive/kvant-green-1024x1024-xs.png",
+        "type": "file",
+        "md5": "0775b2b93d391edb9e148e0b6b53be36"
+    },
+    {
+        "path": "media/posts/15",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/15/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/responsive/tone-md.png",
+        "type": "file",
+        "md5": "23b1d05dc49edf2a7a530f47a6844a12"
+    },
+    {
+        "path": "/media/posts/15/responsive/tone-sm.png",
+        "type": "file",
+        "md5": "db0b0ef9ad02725c14f40a2a3b9216f0"
+    },
+    {
+        "path": "/media/posts/15/responsive/tone-xs.png",
+        "type": "file",
+        "md5": "3d1bab458f2ccfc213adc5ebde4e9108"
+    },
+    {
+        "path": "/media/posts/15/tone.png",
+        "type": "file",
+        "md5": "ea29a1ce7e6689fb4e43834841935f7c"
+    },
+    {
+        "path": "media/posts/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/1561576413243_Spatial-audio-studio-for-sense-of-scale.jpg",
+        "type": "file",
+        "md5": "bf61c6f4a153aeebbf466f67f135bacd"
+    },
+    {
+        "path": "media/posts/16/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/responsive/1561576413243_Spatial-audio-studio-for-sense-of-scale-md.jpg",
+        "type": "file",
+        "md5": "51a18622a9528ab402387441f99e3d7d"
+    },
+    {
+        "path": "/media/posts/16/responsive/1561576413243_Spatial-audio-studio-for-sense-of-scale-sm.jpg",
+        "type": "file",
+        "md5": "2c348d7c2e74fc86f01815b2aa857523"
+    },
+    {
+        "path": "/media/posts/16/responsive/1561576413243_Spatial-audio-studio-for-sense-of-scale-xs.jpg",
+        "type": "file",
+        "md5": "7baa0c2646eb516d4d40ff45a5b9bc8d"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/4/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/gallery/m11_seminar1-thumbnail.jpg",
+        "type": "file",
+        "md5": "dfdc903c612d3fa974e57149ddbc3e94"
+    },
+    {
+        "path": "/media/posts/4/gallery/m11_seminar1.jpg",
+        "type": "file",
+        "md5": "797b74acaf5dd6075e9857bc9d662d60"
+    },
+    {
+        "path": "/media/posts/4/gallery/m11_seminar2-thumbnail.jpg",
+        "type": "file",
+        "md5": "acfab7eba23c38cecc3ea7dad28becc0"
+    },
+    {
+        "path": "/media/posts/4/gallery/m11_seminar2.jpg",
+        "type": "file",
+        "md5": "f84b2b76fa431185e1fde7fd0940afbf"
+    },
+    {
+        "path": "/media/posts/4/gallery/m11_seminar3-thumbnail.jpg",
+        "type": "file",
+        "md5": "3d87d463da4e90eeb1ea6e1347420463"
+    },
+    {
+        "path": "/media/posts/4/gallery/m11_seminar3.jpg",
+        "type": "file",
+        "md5": "995e70db92878a79bba5c7767ab0bca0"
+    },
+    {
+        "path": "olivia-block-performance-and-lecture.html",
+        "type": "file",
+        "md5": "06fb46adbbece934a77bba12086112a6"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "b8577a9842e3613ea192ffb44022e862"
+    },
+    {
+        "path": "research.html",
+        "type": "file",
+        "md5": "ae3527c5325a768229abf1dfa8bb4276"
+    },
+    {
+        "path": "resources",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/resources/index.html",
+        "type": "file",
+        "md5": "268f3bb449f39dd4e75244baf4c9f3df"
+    },
+    {
+        "path": "risdedu-feature.html",
+        "type": "file",
+        "md5": "7daf61c9fa6af5bfb73865d1e9d7eeba"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "3c5438a03364e77e0b7523f6ee2cab96"
+    },
+    {
+        "path": "sas-about.html",
+        "type": "file",
+        "md5": "6506a9b2b5fd7b6049c4eb067bae5a79"
+    },
+    {
+        "path": "sas-array.html",
+        "type": "file",
+        "md5": "534e5bd0ea55a288d7d8db3752aa6fd3"
+    },
+    {
+        "path": "sas-courses.html",
+        "type": "file",
+        "md5": "99fca202d2156deadb180badc0a49b19"
+    },
+    {
+        "path": "sas-help.html",
+        "type": "file",
+        "md5": "67da1bba64c8acc931965c7f6cc85cbe"
+    },
+    {
+        "path": "sas-reservations.html",
+        "type": "file",
+        "md5": "aaa208cf41175a8fa9a9d76dcda43437"
+    },
+    {
+        "path": "sas-rules.html",
+        "type": "file",
+        "md5": "a9f2b2045532b91711d12605f00d970a"
+    },
+    {
+        "path": "sas-seminar.html",
+        "type": "file",
+        "md5": "bcc9d2bfd2754cf160acee950703e6ed"
+    },
+    {
+        "path": "sas-software.html",
+        "type": "file",
+        "md5": "740c180e2c18bd87b8e6ce1afff75d40"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "4cfec34d6e5bf4a8e91231ebb9246f8d"
+    },
+    {
+        "path": "serge-modular-synth.html",
+        "type": "file",
+        "md5": "ca1db1345dd64ed37c7f9b9923287b00"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "9a3d7f4ddb20d9b14f7d6ecef4743cc5"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "spatial-audio-studio",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/spatial-audio-studio/index.html",
+        "type": "file",
+        "md5": "4b07373a3c6829c91f4968957e1526cd"
+    },
+    {
+        "path": "stephen-vitiello-lecture-or-october-11-2018.html",
+        "type": "file",
+        "md5": "dd80ca0a5bc79b3851ca4661a38c8a7f"
+    },
+    {
+        "path": "use",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/use/index.html",
+        "type": "file",
+        "md5": "bd3841d2b8012afb6f3898d10bf6a468"
+    },
+    {
+        "path": "yasunao-tone-performance-and-lecture-or-april-3-4-2019.html",
+        "type": "file",
+        "md5": "90e69e9df2dbf324756b5522096673f9"
+    }
+]

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sound.risd.edu/sitemap.xml

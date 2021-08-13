@@ -2,31 +2,6 @@
  * Add your own CSS code for the WYSIWYG editor 
  */
 
-.msg {
-    border-left: 2px solid transparent;
-    padding: 1.06667rem 2.13333rem;
-}
-
-.msg--highlight {
-    background-color: #fdfaf1;
-    border-color: #e2ac4f;
-}
-
-.msg--info {
-    background: rgba(66, 165, 245, 0.03);
-    border-color: #42a5f5;
-}
-
-.msg--success {
-    background: #f7fbf6;
-    border-color: #5ab44b;
-}
-
-.msg--warning {
-    background: #fff3f3;
-    border-color: #c06367;
-    color: #a94442;
-}
 
 .ordered-list {
     counter-reset: listCounter;
@@ -46,47 +21,28 @@
     position: absolute;
 }
 
-.post__note {
-    border-radius: 2px;
-    border: 1px solid #e3e3e4;
-    float: right;
-    font-size: 0.88889rem;
-    margin: 0.53333rem 0 1.06667rem 1.6rem;
-    max-width: 18.2rem;
-    padding: 1.6rem;
-    position: relative;
-    z-index: 1;
-}
-
-.post__note > :nth-child(1) {
-    margin: 0;
-}
-
-.post__note--left {
-    float: left;
-    margin: 0.53333rem 1.6rem 1.06667rem 0;
-}
-
 
 .btn,
 [type=button],
 [type=submit],
 button {
     background: #42a5f5;
-    border: 1px solid #42a5f5;
-    border-radius: 30px;
+    border: none;
+    border-radius: 2px;
     -webkit-box-shadow: 0 4px 6px rgba(50, 50, 93, 0.1), 0 1px 1px rgba(0, 0, 0, 0.08);
     box-shadow: 0 4px 6px rgba(50, 50, 93, 0.1), 0 1px 1px rgba(0, 0, 0, 0.08);
     color: #ffffff;
     cursor: pointer;
     display: inline-block;
-    font: 400 0.88889rem -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    padding: 0.69333rem 1.33333rem;
+    font: 500 0.82397rem -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    letter-spacing: 0.03em;
+    padding: 0.66667rem 1.33333rem;
     vertical-align: middle;
     text-align: center;
     -webkit-transition: all 0.24s ease;
     -o-transition: all 0.24s ease;
     transition: all 0.24s ease;
+    text-decoration: none;
     overflow: hidden;
     will-change: transform;
 }
@@ -105,112 +61,27 @@ button:hover {
 }
 
 .btn--white {
-    background: #ffffff !important;
-    border-color: #ffffff !important;
-    color: #6a7081 !important;
+    background: #ffffff !important;    
+    color: #696C7B !important;
 }
 
-.btn--white > svg {
-    fill: #6a7081;
-}
 
 .btn--yellow {
-    background: #FFC439 !important;
-    border-color: #FFC439 !important;
+    background: #F6C144 !important;  
     color: #ffffff !important;
-}
-
-.btn--yellow > svg {
-    fill: #ffffff;
 }
 
 .btn--green {
-    background: #5cb85c !important;
-    border-color: #5cb85c !important;
+    background: #69DA58 !important;    
     color: #ffffff !important;
 }
 
-.btn--green > svg {
-    fill: #ffffff;
+.btn--gray {
+    background: #F7FAFC!important;
+    color: #323c53!important;
 }
 
-.btn--outline {
-    background: none !important;
-    border: 1px solid #e3e3e4 !important;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-    color: #6a7081;
-}
-
-.btn--outline:hover {
-    border-color: #9ea2ad !important;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-    color: #343a41;
-}
-
-fieldset {
-    border: 1px solid #d6d8d9;
-    margin: 0 0 1.6rem;
-    padding: 1.6rem;
-}
-
-fieldset > legend {
-    margin-left: -1rem;
-    padding: 0 1rem;
-}
-
-legend {
-    font-weight: 600;
-}
-
-label {
-    font-weight: 600;
-    margin: 0 1.06667rem 0.8rem 0;
-}
-
-option {
-    font-weight: 400;
-}
-
-[type=text],
-[type=url],
-[type=tel],
-[type=number],
-[type=email],
-[type=search],
-textarea,
-select {
-    background-color: #ffffff;
-    border: 1px solid #d6d8d9;
-    border-radius: 0;
-    font-size: 0.88889rem;
-    outline: none;
-    padding: 0.53333rem 0.8rem;
-    width: auto;
-    -webkit-transition: all 0.24s ease;
-    -o-transition: all 0.24s ease;
-    transition: all 0.24s ease;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-}
-
-
-select {
-    max-width: 100%;
-    width: auto;
-    position: relative;
-}
-
-select[multiple] {
-    padding: 1.6rem;
-    width: 100%;
-}
-
-hr {
-    border: 0;
-    height: 0;
-    border-top: 1px solid rgba(28, 29, 33, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-    margin-top: calc(1.06667rem + 0.25vw);
+.btn--dark {
+   background: #323c53!important;
+    color: #ffffff!important;
 }
