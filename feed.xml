@@ -3,12 +3,63 @@
     <title>Spatial Audio Studio</title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2021-08-13T14:38:20-04:00</updated>
+    <updated>2021-08-16T14:33:39-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
     <id>https://sound.risd.edu</id>
 
+    <entry>
+        <title>Booking &amp; use</title>
+        <author>
+            <name>shawn greenlee</name>
+        </author>
+        <link href="https://sound.risd.edu/booking-and-use.html"/>
+        <id>https://sound.risd.edu/booking-and-use.html</id>
+            <category term="Use"/>
+
+        <updated>2021-08-16T14:33:39-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Rules on use Follow all COVID protocols (e.g. social distancing, face masks, hand sanitizing, etc., see https://covid.risd.edu/ ) Do not move or reposition the 25.4&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Rules on use</h2>
+<ul>
+<li>Follow all COVID protocols (e.g. social distancing, face masks, hand sanitizing, etc., see <a href="https://covid.risd.edu/" target="_blank" rel="noopener noreferrer">https://covid.risd.edu/</a> )</li>
+<li>Do not move or reposition the 25.4 array loudspeakers in any way. The system is calibrated to exact positions.  </li>
+<li><strong>No food</strong> in the studio. Drinks should be in container with lid and kept away from computers and equipment. Please clean up. Take trash to bins <strong>outside</strong> of studio.</li>
+<li>The permitted types of studio work are computer-based / electronic media production.</li>
+<li>The studio is a clean space. No materials or tools that produce dust or fumes are allowed. Fabrication should be done elsewhere.</li>
+<li>Do not hang anything from the ceiling grid or speakers.</li>
+<li>Do not pin, tape, or mount anything in any way to the walls or acoustic panels.</li>
+<li>Do not leave or store anything in the studio. Items left will be discarded.</li>
+<li>Do not remove equipment or furniture from the studio.</li>
+<li>The tables and chairs in the seminar area can be rearranged to accommodate usage needs. Please return to default state.</li>
+<li>Installations require special permission from studio management and coordination with faculty of studio courses.</li>
+<li>Work conducted in the studio may not cause or threaten physical harm to its occupants, equipment, or facilities.</li>
+<li>Failure to adhere to these policies can result in revoked access.</li>
+</ul>
+<h2>Reservations</h2>
+<p class="msg msg--success align-left"><strong><a href="http://efs.bookedscheduler.com/Web/schedule.php?sid=13" target="_blank" rel="noopener noreferrer">click to log in</a></strong></p>
+<ul>
+<li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>
+<li>Use of the studio must be scheduled with the reservation system. Reservations can be made up until the current time. People that drop-in without making a reservation can be bumped. </li>
+<li>Access to studio and reservation system is only granted after an introductory lesson as part of course lessons.</li>
+</ul>
+<h2>Help</h2>
+<p class="msg--highlight msg  msg--success align-left"><strong><a href="https://goo.gl/forms/LyAt2oGCibTXr0O43" target="_blank" rel="noopener noreferrer">click to submit support ticket</a></strong></p>
+<ul>
+<li>There is no on-call support for 25.4 loudspeaker array. Submit a support ticket if a problem occurs.</li>
+<li>As part of coursework, students must learn to troubleshoot common problems.</li>
+<li>By submitting a ticket, you will alert studio management of problems encountered. These will be addressed as soon as possible. Support tickets are reviewed daily.</li>
+</ul>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Research</title>
         <author>
@@ -32,34 +83,6 @@
 <h2>Sound Design for (the Future of) Mobility (2020)</h2>
 <p><em>RISD-Hyundai Research Partnership</em></p>
 <p>Info. coming soon</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Reservations</title>
-        <author>
-            <name>shawn greenlee</name>
-        </author>
-        <link href="https://sound.risd.edu/reservations.html"/>
-        <id>https://sound.risd.edu/reservations.html</id>
-            <category term="Use"/>
-
-        <updated>2021-08-13T14:32:26-04:00</updated>
-            <summary>
-                <![CDATA[
-                    click to log in Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff. Access to studio&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="msg msg--success align-left"><strong><a href="http://efs.bookedscheduler.com/Web/schedule.php?sid=13" target="_blank" rel="noopener noreferrer">click to log in</a></strong></p>
-<ul>
-<li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>
-<li>Access to studio and reservation system is granted after an introductory lesson.</li>
-<li>As part of coursework, students must learn to troubleshoot common problems.</li>
-<li>There is no on-call support for 25.4 loudspeaker array. Submit a <a href="https://sound.risd.edu/help.html">support ticket</a> if a problem occurs.</li>
-<li>Please review the <a href="https://sound.risd.edu/rules.html">studio rules and guidelines</a>. Failure to adhere to these policies can result in revoked access.</li>
-</ul>
             ]]>
         </content>
     </entry>
@@ -88,7 +111,7 @@
 </div></div>
 <h2><strong>Support docs</strong></h2>
 <ul>
-<li><a href="https://sound.risd.edu/rules.html">Studio rules and guidelines</a></li>
+<li><a href="#non-existing-post-with-id-6">Studio rules and guidelines</a></li>
 <li><a href="media/files/m11_speakerNumbering.pdf" target="_blank" rel="noopener noreferrer">Loudspeaker numbering</a></li>
 <li>Additional documents (coordinates, AVB routing) on request</li>
 </ul>
@@ -110,53 +133,6 @@
 <li><a href="http://www.networksound.com/index.php/products/pbays/xlr" target="_blank" rel="noopener noreferrer">Network Sound patchbay</a> (for MOTU 8m I/O)</li>
 <li><a href="https://www.azstudioworkstations.com/" target="_blank" rel="noopener noreferrer">Desk, custom AZ Studio Workstations</a></li>
 <li><a href="https://www.apple.com/imac/" target="_blank" rel="noopener noreferrer">iMac 27"</a> (desk adjacent to rack)</li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Rules</title>
-        <author>
-            <name>shawn greenlee</name>
-        </author>
-        <link href="https://sound.risd.edu/rules.html"/>
-        <id>https://sound.risd.edu/rules.html</id>
-            <category term="Use"/>
-
-        <updated>2021-08-13T14:32:08-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Usage Follow all COVID protocols (e.g. social distancing, face masks, hand sanitizing) Do not move or reposition the 25.4 array loudspeakers in any way. The&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2><strong>Usage</strong></h2>
-<ul>
-<li>Follow all COVID protocols (e.g. social distancing, face masks, hand sanitizing)</li>
-<li>Do not move or reposition the 25.4 array loudspeakers in any way. The system is calibrated to exact positions.  </li>
-<li><strong>No food</strong> in the studio. Drinks should be in container with lid and kept away from computers and equipment. Please clean up. Take trash to bins outside of studio.</li>
-<li>The permitted types of studio work are computer-based / electronic media production.</li>
-<li>The studio is a clean space. No materials or tools that produce dust or fumes are allowed. Fabrication should be done elsewhere.</li>
-<li>Do not hang anything from the ceiling grid or speakers.</li>
-<li>Do not pin, tape, or mount anything in any way to the walls or acoustic panels.</li>
-<li>Do not leave or store anything in the studio. Items left will be discarded.</li>
-<li>Do not remove equipment or furniture from the studio.</li>
-<li>The tables and chairs in the seminar area can be rearranged to accommodate usage needs. Please return to default state.</li>
-<li>Installations require special permission from studio management and coordination with faculty of studio courses.</li>
-<li>Work conducted in the studio may not cause or threaten physical harm to its occupants, equipment, or facilities.</li>
-<li>Failure to adhere to these policies can result in revoked access.</li>
-</ul>
-<h2><strong>Access</strong></h2>
-<ul>
-<li>Use of the studio must be scheduled with the <a href="https://sound.risd.edu/reservations.html">reservation system</a>. Reservations can be made up until the current time. People that drop-in without making a reservation can be bumped. </li>
-<li>Use of the studio is restricted to students enrolled in hosted courses and the associated faculty and staff.</li>
-<li>Access to studio and reservation system is granted after an introductory lesson.</li>
-</ul>
-<h2><strong>Support</strong></h2>
-<ul>
-<li>There is no on-call support for 25.4 loudspeaker array. Submit a <a href="https://sound.risd.edu/help.html">support ticket</a> if a problem occurs.</li>
-<li>As part of coursework, students must learn to troubleshoot common problems.</li>
 </ul>
             ]]>
         </content>
@@ -206,33 +182,6 @@
 <li>Max <a href="http://ico.bukvic.net/main/d4/" target="_blank" rel="nofollow noopener noreferrer">D4</a></li>
 <li>Max &amp; Pd <a href="http://www.zacharyseldess.com/miap/" target="_blank" rel="nofollow noopener noreferrer">MIAP </a></li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Help </title>
-        <author>
-            <name>shawn greenlee</name>
-        </author>
-        <link href="https://sound.risd.edu/help.html"/>
-        <id>https://sound.risd.edu/help.html</id>
-            <category term="Use"/>
-
-        <updated>2021-08-13T14:32:16-04:00</updated>
-            <summary>
-                <![CDATA[
-                    click to submit support ticket 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="msg--highlight msg  msg--success align-left"><strong><a href="https://goo.gl/forms/LyAt2oGCibTXr0O43" target="_blank" rel="noopener noreferrer">click to submit support ticket</a></strong></p>
-<ul>
-<li>As part of coursework, students must learn to troubleshoot common problems.</li>
-<li>By submitting a ticket, you will alert studio management of problems encountered. These will be addressed as soon as possible. Support tickets are reviewed daily.</li>
-<li>There is no on-call support for 25.4 loudspeaker array.</li>
-</ul>
-<p> </p>
             ]]>
         </content>
     </entry>
