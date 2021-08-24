@@ -3,7 +3,7 @@
     <title>Spatial Audio Studio</title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2021-08-19T16:34:42-04:00</updated>
+    <updated>2021-08-24T16:27:18-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
@@ -95,7 +95,7 @@
         <id>https://sound.risd.edu/array.html</id>
             <category term="Resources"/>
 
-        <updated>2021-08-19T16:34:42-04:00</updated>
+        <updated>2021-08-24T16:27:18-04:00</updated>
             <summary>
                 <![CDATA[
                     The Spatial Audio Studio has a sound system featuring an array of 25 independently-addressable, full-range speakers in a hemisphere configuration, accompanied by 4 subwoofers. A&hellip;
@@ -143,14 +143,14 @@
 <td style="width: 9.29221%; height: 50px;">16 </td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 16.8063%; height: 50px;">adc~ 27 - 32</td>
-<td style="width: 48.9016%; height: 50px;">Input: ES-6/ADAT A for eurorack level</td>
-<td style="width: 9.29221%; height: 50px;">6 </td>
+<td style="width: 16.8063%; height: 50px;">adc~ 27 - 34</td>
+<td style="width: 48.9016%; height: 50px;">Input: ES-6/7 ADAT A (1-8) for eurorack level</td>
+<td style="width: 9.29221%; height: 50px;">8</td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 16.8063%; height: 50px;">adc~ 33 - 38</td>
-<td style="width: 48.9016%; height: 50px;">Input: ES-6 ADAT B for eurorack level</td>
-<td style="width: 9.29221%; height: 50px;">6 </td>
+<td style="width: 16.8063%; height: 50px;">adc~ 35 - 42</td>
+<td style="width: 48.9016%; height: 50px;">Input: ES-6/7 ADAT B (9-16) for eurorack level</td>
+<td style="width: 9.29221%; height: 50px;">8 </td>
 </tr>
 <tr style="height: 50px;">
 <td style="width: 16.8063%; height: 50px;">dac~ 1 - 24</td>
@@ -174,12 +174,12 @@
 </tr>
 <tr style="height: 50px;">
 <td style="width: 16.8063%; height: 50px;">dac~ 57 - 65</td>
-<td style="width: 48.9016%; height: 50px;">Output: ES-3 ADAT A for eurorack level</td>
+<td style="width: 48.9016%; height: 50px;">Output: ES-3 ADAT A (1-8) for eurorack level</td>
 <td style="width: 9.29221%; height: 50px;">8</td>
 </tr>
 <tr style="height: 50px;">
 <td style="width: 16.8063%; height: 50px;">dac~ 66 - 72</td>
-<td style="width: 48.9016%; height: 50px;">Output: ES-3 ADAT B for eurorack level</td>
+<td style="width: 48.9016%; height: 50px;">Output: ES-3 ADAT B (9-16) for eurorack level</td>
 <td style="width: 9.29221%; height: 50px;">8</td>
 </tr>
 </tbody>
