@@ -22,7 +22,7 @@
     {
         "path": "/amp/array.html",
         "type": "file",
-        "md5": "7fed696eb0674338b90a3ff71f043b29"
+        "md5": "d90b21fd879acca9627d20f44b6e900f"
     },
     {
         "path": "amp/authors",
@@ -122,7 +122,7 @@
     {
         "path": "array.html",
         "type": "file",
-        "md5": "eb0ce5b8d606739e33e0c84d572f937e"
+        "md5": "cee5abdca5c88e5876531e1082113077"
     },
     {
         "path": "assets",
@@ -307,12 +307,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "e47b02b9df27d806dbfcbd85b70755fa"
+        "md5": "00eaeb3912771233f13d004e779ae800"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "c58872b6da1ebe34d3617d6f55217965"
+        "md5": "1958ed5bb0b28a4c1dc9da4df01d058e"
     },
     {
         "path": "index.html",
@@ -622,7 +622,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "476c172675940a4330f7a8c655fd312b"
+        "md5": "0d9f24d99163705d29d5bbed56adb532"
     },
     {
         "path": "sitemap.xsl",

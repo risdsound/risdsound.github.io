@@ -3,7 +3,7 @@
     <title>Spatial Audio Studio</title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2021-08-24T16:27:18-04:00</updated>
+    <updated>2021-08-25T15:02:56-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
@@ -95,7 +95,7 @@
         <id>https://sound.risd.edu/array.html</id>
             <category term="Resources"/>
 
-        <updated>2021-08-24T16:27:18-04:00</updated>
+        <updated>2021-08-25T15:02:56-04:00</updated>
             <summary>
                 <![CDATA[
                     The Spatial Audio Studio has a sound system featuring an array of 25 independently-addressable, full-range speakers in a hemisphere configuration, accompanied by 4 subwoofers. A&hellip;
@@ -168,9 +168,14 @@
 <td style="width: 9.29221%; height: 50px;">16</td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 16.8063%; height: 50px;">dac~ 47 - 56</td>
+<td style="width: 16.8063%; height: 50px;">dac~ 47 - 54</td>
 <td style="width: 48.9016%; height: 50px;">Output: workstation TRS patchbay line level from MOTU 8M </td>
 <td style="width: 9.29221%; height: 50px;">8</td>
+</tr>
+<tr>
+<td style="width: 16.8063%;">dac~ 55 - 56</td>
+<td style="width: 48.9016%;">Output: MOTU 8m headphone jack</td>
+<td style="width: 9.29221%;">2</td>
 </tr>
 <tr style="height: 50px;">
 <td style="width: 16.8063%; height: 50px;">dac~ 57 - 65</td>
