@@ -97,7 +97,7 @@
     {
         "path": "/amp/software.html",
         "type": "file",
-        "md5": "ba60316879b08ff980e30945a5a04e21"
+        "md5": "3b192876b685166d1eb375cd2056aa8a"
     },
     {
         "path": "amp/spatial-audio-studio",
@@ -307,12 +307,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "00eaeb3912771233f13d004e779ae800"
+        "md5": "aee899dff0d0da68d6a3c4cc9ee2c466"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "1958ed5bb0b28a4c1dc9da4df01d058e"
+        "md5": "c0572da42e05f175a610b9737351df58"
     },
     {
         "path": "index.html",
@@ -622,7 +622,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "0d9f24d99163705d29d5bbed56adb532"
+        "md5": "4014aef301d42b4e348542ff7da6ad5c"
     },
     {
         "path": "sitemap.xsl",
@@ -632,7 +632,7 @@
     {
         "path": "software.html",
         "type": "file",
-        "md5": "8c6771c80d0380f34417274b24e8e7fd"
+        "md5": "fc7a35062de4e46edb83994544371b7f"
     },
     {
         "path": "spatial-audio-studio",

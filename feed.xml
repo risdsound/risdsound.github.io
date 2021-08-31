@@ -3,7 +3,7 @@
     <title>Spatial Audio Studio</title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2021-08-25T15:02:56-04:00</updated>
+    <updated>2021-08-31T12:05:18-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
@@ -211,7 +211,7 @@
         <id>https://sound.risd.edu/software.html</id>
             <category term="Resources"/>
 
-        <updated>2021-08-13T14:31:35-04:00</updated>
+        <updated>2021-08-31T12:05:18-04:00</updated>
             <summary>
                 <![CDATA[
                     This is a listing of the audio software (beyond the RISD coreware) installed on the main workstation. The rack workstation does not match this listing.
@@ -222,14 +222,14 @@
                 <p>This is a listing of the audio software (beyond the RISD coreware) installed on the main workstation. The rack workstation does not match this listing.</p>
 <h2><strong>Programming</strong></h2>
 <ul>
-<li><a href="https://cycling74.com/products/max" target="_blank" rel="nofollow noopener noreferrer">Max 8</a></li>
-<li><a href="https://supercollider.github.io" target="_blank" rel="nofollow noopener noreferrer">Supercollider 3</a></li>
-<li><a href="http://msp.ucsd.edu/software.html" target="_blank" rel="nofollow noopener noreferrer">Pd 0.51-2</a></li>
+<li><a href="https://cycling74.com/products/max" target="_blank" rel="nofollow noopener noreferrer">Max 8.*</a></li>
+<li><a href="https://supercollider.github.io" target="_blank" rel="nofollow noopener noreferrer">Supercollider 3.*</a></li>
+<li><a href="http://msp.ucsd.edu/software.html" target="_blank" rel="nofollow noopener noreferrer">Pd 0.51.*</a></li>
 </ul>
 <h2><strong>DAW</strong></h2>
 <ul>
-<li><a href="http://reaper.fm" target="_blank" rel="nofollow noopener noreferrer">Reaper 6</a></li>
-<li><a href="https://www.ableton.com/en/live/" target="_blank" rel="nofollow noopener noreferrer">Ableton Live 10</a></li>
+<li><a href="http://reaper.fm" target="_blank" rel="nofollow noopener noreferrer">Reaper 6.*</a></li>
+<li><a href="https://www.ableton.com/en/live/" target="_blank" rel="nofollow noopener noreferrer">Ableton Live 11.*</a></li>
 </ul>
 <h2><strong>Libraries and plugins</strong></h2>
 <ul>
