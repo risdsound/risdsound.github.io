@@ -3,7 +3,7 @@
     <title>Spatial Audio Studio</title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2021-08-31T12:05:18-04:00</updated>
+    <updated>2021-11-30T21:46:03-05:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
@@ -21,7 +21,7 @@
         <updated>2021-08-16T14:33:39-04:00</updated>
             <summary>
                 <![CDATA[
-                    Rules on use Follow all COVID protocols (e.g. social distancing, face masks, hand sanitizing, etc., see https://covid.risd.edu/ ) Do not move or reposition the 25.4&hellip;
+                    Rules on use Follow all COVID protocols (e.g. social distancing, face masks, hand sanitizing, etc., see https://covid.risd.edu/ ) Do not&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -61,32 +61,6 @@
         </content>
     </entry>
     <entry>
-        <title>Research</title>
-        <author>
-            <name>shawn greenlee</name>
-        </author>
-        <link href="https://sound.risd.edu/research.html"/>
-        <id>https://sound.risd.edu/research.html</id>
-            <category term="Spatial audio studio"/>
-
-        <updated>2021-08-13T13:04:48-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Sound Field Performance Toolkit (2021) National Endowment for the Arts, Media Arts Grant Info. coming soon RISD-Hyundai Research Partnership Info. coming soon
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2>Sound Field Performance Toolkit (2021)</h2>
-<p><em>National Endowment for the Arts, Media Arts Grant</em></p>
-<p>Info. coming soon</p>
-<h2>Sound Design for (the Future of) Mobility (2020)</h2>
-<p><em>RISD-Hyundai Research Partnership</em></p>
-<p>Info. coming soon</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>25.4 loudspeaker array</title>
         <author>
             <name>shawn greenlee</name>
@@ -95,10 +69,10 @@
         <id>https://sound.risd.edu/array.html</id>
             <category term="Resources"/>
 
-        <updated>2021-08-25T15:02:56-04:00</updated>
+        <updated>2021-11-30T21:46:03-05:00</updated>
             <summary>
                 <![CDATA[
-                    The Spatial Audio Studio has a sound system featuring an array of 25 independently-addressable, full-range speakers in a hemisphere configuration, accompanied by 4 subwoofers. A&hellip;
+                    The Spatial Audio Studio has a sound system featuring an array of 25 independently-addressable, full-range speakers in a hemisphere configuration,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -109,12 +83,6 @@
 <figure class="gallery__item"><a href="https://sound.risd.edu/media/posts/1/gallery/m11_array2.jpg" data-size="1920x1282"><img loading="lazy" src="https://sound.risd.edu/media/posts/1/gallery/m11_array2-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 <figure class="gallery__item"><a href="https://sound.risd.edu/media/posts/1/gallery/m11_array3.jpg" data-size="1920x1282"><img loading="lazy" src="https://sound.risd.edu/media/posts/1/gallery/m11_array3-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 </div></div>
-<h2><strong>Support docs</strong></h2>
-<ul>
-<li><a href="#non-existing-post-with-id-6">Studio rules and guidelines</a></li>
-<li><a href="media/files/m11_speakerNumbering.pdf" target="_blank" rel="noopener noreferrer">Loudspeaker numbering</a></li>
-<li>Additional documents (coordinates, AVB routing) on request</li>
-</ul>
 <h2><strong>Loudspeakers and audio network</strong></h2>
 <ul>
 <li><a href="https://www.genelec.com/studio-monitors/8000-series-studio-monitors/8050b-studio-monitor" target="_blank" rel="noopener noreferrer">25 Genelec 8050B studio monitors</a></li>
@@ -124,71 +92,6 @@
 <li><a href="http://motu.com/products/avb/24ai-24ao" target="_blank" rel="noopener noreferrer">MOTU 24Ao AVB audio interface</a> (rack)</li>
 <li><a href="http://motu.com/products/avb/avb-switch" target="_blank" rel="noopener noreferrer">2 MOTU AVB switches</a> (rack)</li>
 </ul>
-<h2>Signal routing</h2>
-<table style="border-collapse: collapse; width: 100%; height: 479px;" border="1">
-<tbody>
-<tr>
-<td style="width: 16.8063%;"><strong><span style="color: #236fa1;">adc~ / dac~</span></strong></td>
-<td style="width: 48.9016%;"><strong><span style="color: #236fa1;">connection</span></strong></td>
-<td style="width: 9.29221%;"><strong><span style="color: #236fa1;"># channels</span></strong></td>
-</tr>
-<tr style="height: 79px;">
-<td style="width: 16.8063%; height: 79px;">adc~ 1 - 8</td>
-<td style="width: 48.9016%; height: 79px;">Input: workstation TRS/XLR patchbay mic/line level to MOTU 8M (no phantom power) </td>
-<td style="width: 9.29221%; height: 79px;">8 </td>
-</tr>
-<tr style="height: 50px;">
-<td style="width: 16.8063%; height: 50px;">adc~ 11 - 26</td>
-<td style="width: 48.9016%; height: 50px;">Input: inter-application routing from dac~ 31 - 46</td>
-<td style="width: 9.29221%; height: 50px;">16 </td>
-</tr>
-<tr style="height: 50px;">
-<td style="width: 16.8063%; height: 50px;">adc~ 27 - 34</td>
-<td style="width: 48.9016%; height: 50px;">Input: ES-6/7 ADAT A (1-8) for eurorack level</td>
-<td style="width: 9.29221%; height: 50px;">8</td>
-</tr>
-<tr style="height: 50px;">
-<td style="width: 16.8063%; height: 50px;">adc~ 35 - 42</td>
-<td style="width: 48.9016%; height: 50px;">Input: ES-6/7 ADAT B (9-16) for eurorack level</td>
-<td style="width: 9.29221%; height: 50px;">8 </td>
-</tr>
-<tr style="height: 50px;">
-<td style="width: 16.8063%; height: 50px;">dac~ 1 - 24</td>
-<td style="width: 48.9016%; height: 50px;">Output: Genelec speaker array via MOTU 24Ao (ring of 12, ring of 8, ring of 4)</td>
-<td style="width: 9.29221%; height: 50px;">24</td>
-</tr>
-<tr>
-<td style="width: 16.8063%;">dac~ 25 - 29</td>
-<td style="width: 48.9016%;">Output: Genelec speaker array via MOTU 1248 (overhead and subwoofers)</td>
-<td style="width: 9.29221%;">5</td>
-</tr>
-<tr style="height: 50px;">
-<td style="width: 16.8063%; height: 50px;">dac~ 31 - 46</td>
-<td style="width: 48.9016%; height: 50px;">Output: inter-application outing to adc~ 11 - 26</td>
-<td style="width: 9.29221%; height: 50px;">16</td>
-</tr>
-<tr style="height: 50px;">
-<td style="width: 16.8063%; height: 50px;">dac~ 47 - 54</td>
-<td style="width: 48.9016%; height: 50px;">Output: workstation TRS patchbay line level from MOTU 8M </td>
-<td style="width: 9.29221%; height: 50px;">8</td>
-</tr>
-<tr>
-<td style="width: 16.8063%;">dac~ 55 - 56</td>
-<td style="width: 48.9016%;">Output: MOTU 8m headphone jack</td>
-<td style="width: 9.29221%;">2</td>
-</tr>
-<tr style="height: 50px;">
-<td style="width: 16.8063%; height: 50px;">dac~ 57 - 65</td>
-<td style="width: 48.9016%; height: 50px;">Output: ES-3 ADAT A (1-8) for eurorack level</td>
-<td style="width: 9.29221%; height: 50px;">8</td>
-</tr>
-<tr style="height: 50px;">
-<td style="width: 16.8063%; height: 50px;">dac~ 66 - 72</td>
-<td style="width: 48.9016%; height: 50px;">Output: ES-3 ADAT B (9-16) for eurorack level</td>
-<td style="width: 9.29221%; height: 50px;">8</td>
-</tr>
-</tbody>
-</table>
 <h2><strong>Workstation</strong></h2>
 <ul>
 <li><a href="https://www.apple.com/imac-pro/" target="_blank" rel="noopener noreferrer">iMac Pro 27" 3.0 GHz 10-core Intel Xeon, 128GB RAM, 2TB SSD</a></li>
@@ -214,7 +117,7 @@
         <updated>2021-08-31T12:05:18-04:00</updated>
             <summary>
                 <![CDATA[
-                    This is a listing of the audio software (beyond the RISD coreware) installed on the main workstation. The rack workstation does not match this listing.
+                    This is a listing of the audio software (beyond the RISD coreware) installed on the main workstation. The rack workstation&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -251,27 +154,6 @@
         </content>
     </entry>
     <entry>
-        <title>Serge modular synth</title>
-        <author>
-            <name>shawn greenlee</name>
-        </author>
-        <link href="https://sound.risd.edu/serge-modular-synth.html"/>
-        <id>https://sound.risd.edu/serge-modular-synth.html</id>
-            <category term="Resources"/>
-
-        <updated>2021-08-13T12:22:42-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Coming soon, information on the Random*Source Serge modular synth 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><em>Coming soon, information on the Random*Source Serge modular synth </em></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>About</title>
         <author>
             <name>shawn greenlee</name>
@@ -282,7 +164,7 @@
         <updated>2021-08-13T14:35:06-04:00</updated>
             <summary>
                 <![CDATA[
-                    The RISD Spatial Audio Studio (M11, 15 West Mezzanine) is a purpose-built, acoustically treated room featuring a 25.4 channel sound system and a flexible seminar&hellip;
+                    The RISD Spatial Audio Studio (M11, 15 West Mezzanine) is a purpose-built, acoustically treated room featuring a 25.4 channel sound&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -307,7 +189,7 @@
         <updated>2021-08-13T14:31:55-04:00</updated>
             <summary>
                 <![CDATA[
-                    Spatial Audio CTC/DM-2006: Fall 2021 Shawn Greenlee Spatial Audio focuses on the creation of immersive 3D sound experiences. In this course, students analyze and explore&hellip;
+                    Spatial Audio CTC/DM-2006: Fall 2021 Shawn Greenlee Spatial Audio focuses on the creation of immersive 3D sound experiences. In this&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -342,7 +224,7 @@
         <updated>2021-08-13T14:31:47-04:00</updated>
             <summary>
                 <![CDATA[
-                    The Spatial Audio Studio has a dedicated seminar area which can be flexibly configured and supports audio-visual presentations independent from the 25.4 loudspeaker array. Equipment&hellip;
+                    The Spatial Audio Studio has a dedicated seminar area which can be flexibly configured and supports audio-visual presentations independent from&hellip;
                 ]]>
             </summary>
         <content type="html">

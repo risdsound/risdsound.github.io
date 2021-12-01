@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "e6ce20cf0065ed45ab7f5cbe074f7d0f"
+        "md5": "f7d410b72df99ed61bafaf23b1cc3e6e"
     },
     {
         "path": "about.html",
         "type": "file",
-        "md5": "d917dad2ff020997e755cde8a74d97fe"
+        "md5": "18b0a9e8a7b8aab47f9eb67d1faf4a95"
     },
     {
         "path": "amp",
@@ -17,12 +17,12 @@
     {
         "path": "/amp/about.html",
         "type": "file",
-        "md5": "345e135f0fe4ff6affa2b73209b01695"
+        "md5": "87a158de264529806a6ab79281dd7489"
     },
     {
         "path": "/amp/array.html",
         "type": "file",
-        "md5": "d90b21fd879acca9627d20f44b6e900f"
+        "md5": "65a415e6cc81cf5794dfe0fd857743ab"
     },
     {
         "path": "amp/authors",
@@ -37,47 +37,27 @@
     {
         "path": "/amp/authors/shawn-greenlee/index.html",
         "type": "file",
-        "md5": "51f02ac1038099989aac591ff51eacc5"
+        "md5": "77aa116998fa4b1f1d45343078686e1b"
     },
     {
         "path": "/amp/booking-and-use.html",
         "type": "file",
-        "md5": "591f6552b4f0a30a31159a0ae2e10ef4"
+        "md5": "48b25229323c0c31d9bb37eaf5aceadb"
     },
     {
         "path": "/amp/classroom.html",
         "type": "file",
-        "md5": "2bb33a1af5183133c7a16b3a76af8044"
+        "md5": "0ab9ede7a0024cab7639645c795ee618"
     },
     {
         "path": "/amp/courses.html",
         "type": "file",
-        "md5": "724a6d1e30c4cdda0f4821bfa11ff213"
+        "md5": "201432277e04ba10be8634929ac32596"
     },
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "ad92d384f8751507b7811fc50b84190a"
-    },
-    {
-        "path": "amp/page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "amp/page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amp/page/2/index.html",
-        "type": "file",
-        "md5": "9947cf7912d2d0092ed06c5d406aed8a"
-    },
-    {
-        "path": "/amp/research.html",
-        "type": "file",
-        "md5": "b686c09ba2a98bdee4e4bc78d59080ff"
+        "md5": "17f23db65b8a367b7ff6280fa5aa118a"
     },
     {
         "path": "amp/resources",
@@ -87,17 +67,12 @@
     {
         "path": "/amp/resources/index.html",
         "type": "file",
-        "md5": "3a35e86a664de6b39a04b10731b38bbc"
-    },
-    {
-        "path": "/amp/serge-modular-synth.html",
-        "type": "file",
-        "md5": "2ab5e00f697492cba5cf7060ab63e86f"
+        "md5": "2e50ef3cd01d038680d6eb3546b6adea"
     },
     {
         "path": "/amp/software.html",
         "type": "file",
-        "md5": "3b192876b685166d1eb375cd2056aa8a"
+        "md5": "2f54048f31ab52f41f344d47601a7c75"
     },
     {
         "path": "amp/spatial-audio-studio",
@@ -107,7 +82,7 @@
     {
         "path": "/amp/spatial-audio-studio/index.html",
         "type": "file",
-        "md5": "7778d76b591c99c1b4cbc0777ffe6f05"
+        "md5": "350abc430b4223a2c8718a14fe3044cb"
     },
     {
         "path": "amp/use",
@@ -117,12 +92,12 @@
     {
         "path": "/amp/use/index.html",
         "type": "file",
-        "md5": "df3e6aae167e1f600720e48c4f5035bd"
+        "md5": "68e2d57a1b530c58dc1814a005f5696c"
     },
     {
         "path": "array.html",
         "type": "file",
-        "md5": "cee5abdca5c88e5876531e1082113077"
+        "md5": "9efab0329f3365e44905145a783f4858"
     },
     {
         "path": "assets",
@@ -137,42 +112,42 @@
     {
         "path": "/assets/css/docsearch.css",
         "type": "file",
-        "md5": "b3db77fb5744375a94f66dbb17d67579"
+        "md5": "0407a7a131feaf753e76cd9d86149dc2"
     },
     {
         "path": "/assets/css/editor.css",
         "type": "file",
-        "md5": "767b319828e5783ce6a2090f7de205bb"
+        "md5": "ea81f346ca3aa3f4f4c04d80492bdf7f"
     },
     {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "2d3aa42e1f79bf1323c16cd692a15892"
+        "md5": "63e6e8d04a647809e70fcf3da5348d24"
     },
     {
         "path": "/assets/css/photoswipe.css",
         "type": "file",
-        "md5": "16dc73b926c33763cc3ba89eac832f4b"
-    },
-    {
-        "path": "/assets/css/prism-beige.css",
-        "type": "file",
-        "md5": "6f6dd787b55a8e7e4ea1524ba57fb9c3"
+        "md5": "ba5690bd0b17314ccfdba2b52e10eac3"
     },
     {
         "path": "/assets/css/prism-dark.css",
         "type": "file",
-        "md5": "4cc85e12ca94c0614c9359a37eb69a0c"
+        "md5": "77202604b9c81e0cfc60210c4810d09c"
     },
     {
-        "path": "/assets/css/prism-gray.css",
+        "path": "/assets/css/prism-default.css",
         "type": "file",
-        "md5": "9a47a4736763dbf7fea7c2cd362b62ea"
+        "md5": "9744853d64d710edcae61a3d59a17ee2"
+    },
+    {
+        "path": "/assets/css/prism-original.css",
+        "type": "file",
+        "md5": "8e39bda621bd1b6539e922224d50de9b"
     },
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "9115e3e21f5368c1e5d655f794a8f682"
+        "md5": "70a68ff47f767120d3f376eef17a8c7d"
     },
     {
         "path": "assets/js",
@@ -183,16 +158,6 @@
         "path": "/assets/js/docsearch.min.js",
         "type": "file",
         "md5": "9db7c9eaa8e736ce16840e5bbc02047b"
-    },
-    {
-        "path": "/assets/js/html-contents.js",
-        "type": "file",
-        "md5": "65e696bc3422a9d96e4809d6461f18d2"
-    },
-    {
-        "path": "/assets/js/html-contents.min.js",
-        "type": "file",
-        "md5": "169077c370ab8ca62b029845f80f7fd5"
     },
     {
         "path": "/assets/js/photoswipe-ui-default.min.js",
@@ -237,12 +202,12 @@
     {
         "path": "/assets/js/scripts.js",
         "type": "file",
-        "md5": "3f7a15b57c34341bc98fc555c05827ba"
+        "md5": "5e7ef7c81c810cf314609bdd499c990d"
     },
     {
         "path": "/assets/js/scripts.min.js",
         "type": "file",
-        "md5": "2e5cce97094c516b8f7e6af7e7cd3e09"
+        "md5": "81031dd8b8055af4df2ab226f57f75f0"
     },
     {
         "path": "/assets/js/svg-fix.js",
@@ -252,7 +217,7 @@
     {
         "path": "/assets/js/svg-map.js",
         "type": "file",
-        "md5": "48fda5482817ec84b160d31e8fd29616"
+        "md5": "58e477c7a1a7e799cbd2f38f1cb5c71d"
     },
     {
         "path": "assets/svg",
@@ -270,9 +235,14 @@
         "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
     },
     {
+        "path": "/assets/svg/star.svg",
+        "type": "file",
+        "md5": "5b1972ab0706ed7f80cfd02375a2f74f"
+    },
+    {
         "path": "/assets/svg/svg-map.svg",
         "type": "file",
-        "md5": "c90675e8bad28274c93144244abdd584"
+        "md5": "2ab0160b0965989ea1cc0583938fa45e"
     },
     {
         "path": "authors",
@@ -287,37 +257,37 @@
     {
         "path": "/authors/shawn-greenlee/index.html",
         "type": "file",
-        "md5": "6b6cac3061d89a266bd8250198a4299f"
+        "md5": "1dfb1d1cab4944b4cac835c2ed067bbd"
     },
     {
         "path": "booking-and-use.html",
         "type": "file",
-        "md5": "96f54b0f33946be8125df6609f23bb4e"
+        "md5": "14f48ff2c1e93a3e9c21f02baac44da7"
     },
     {
         "path": "classroom.html",
         "type": "file",
-        "md5": "1a27f550240953bbb9b602979947d60b"
+        "md5": "ca705b8feca119a954e7ec0762c6d677"
     },
     {
         "path": "courses.html",
         "type": "file",
-        "md5": "43b450067b535e834451df1c1cf6ac1d"
+        "md5": "097086d7a1a51f21daeac1d5c724fc0e"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "aee899dff0d0da68d6a3c4cc9ee2c466"
+        "md5": "af021de86fff393341e8dc2330fe7355"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "c0572da42e05f175a610b9737351df58"
+        "md5": "cd4f67bc0398a0ce5d140dba821f05c0"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "bdabdfa2a8df994cbfa3df2b72738bbe"
+        "md5": "8c98e5d01c49ed228df0b3b23e410d92"
     },
     {
         "path": "media",
@@ -482,7 +452,7 @@
     {
         "path": "/media/posts/1/gallery/m11_array1-thumbnail.jpg",
         "type": "file",
-        "md5": "7486e2a50e79ebfc1c985e5d7494f38f"
+        "md5": "e78773aaa9f32ee74e0c3ab379452ba4"
     },
     {
         "path": "/media/posts/1/gallery/m11_array1.jpg",
@@ -492,7 +462,7 @@
     {
         "path": "/media/posts/1/gallery/m11_array2-thumbnail.jpg",
         "type": "file",
-        "md5": "25c27f09a91e3e93d192b958fb42e123"
+        "md5": "d4e745d5200c34b18c87d7a0f095845b"
     },
     {
         "path": "/media/posts/1/gallery/m11_array2.jpg",
@@ -502,7 +472,7 @@
     {
         "path": "/media/posts/1/gallery/m11_array3-thumbnail.jpg",
         "type": "file",
-        "md5": "c8b1d24dc68afc0e01348a092faad44f"
+        "md5": "43260889cc50c646e5220041f81dec51"
     },
     {
         "path": "/media/posts/1/gallery/m11_array3.jpg",
@@ -522,7 +492,7 @@
     {
         "path": "/media/posts/1/responsive/m11_array2-md.jpg",
         "type": "file",
-        "md5": "25c27f09a91e3e93d192b958fb42e123"
+        "md5": "d4e745d5200c34b18c87d7a0f095845b"
     },
     {
         "path": "/media/posts/1/responsive/m11_array2-sm.jpg",
@@ -547,7 +517,7 @@
     {
         "path": "/media/posts/4/gallery/m11_seminar1-thumbnail.jpg",
         "type": "file",
-        "md5": "dfdc903c612d3fa974e57149ddbc3e94"
+        "md5": "4609562cf5171ae5b32aedd6300a8f8c"
     },
     {
         "path": "/media/posts/4/gallery/m11_seminar1.jpg",
@@ -557,7 +527,7 @@
     {
         "path": "/media/posts/4/gallery/m11_seminar2-thumbnail.jpg",
         "type": "file",
-        "md5": "acfab7eba23c38cecc3ea7dad28becc0"
+        "md5": "bcc01c5c99a9fe6550a2ebeb10bc43ea"
     },
     {
         "path": "/media/posts/4/gallery/m11_seminar2.jpg",
@@ -567,32 +537,12 @@
     {
         "path": "/media/posts/4/gallery/m11_seminar3-thumbnail.jpg",
         "type": "file",
-        "md5": "3d87d463da4e90eeb1ea6e1347420463"
+        "md5": "e21affff2229a75a7017a791fc1ff985"
     },
     {
         "path": "/media/posts/4/gallery/m11_seminar3.jpg",
         "type": "file",
         "md5": "995e70db92878a79bba5c7767ab0bca0"
-    },
-    {
-        "path": "page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/2/index.html",
-        "type": "file",
-        "md5": "53123cf2714932be2073678d271d948d"
-    },
-    {
-        "path": "research.html",
-        "type": "file",
-        "md5": "3dfc1f520045db0037cc60bf869a8d83"
     },
     {
         "path": "resources",
@@ -602,7 +552,7 @@
     {
         "path": "/resources/index.html",
         "type": "file",
-        "md5": "1d6af027c76147b9e73328d230c4e168"
+        "md5": "7800e45347b378e196fedde207eea07a"
     },
     {
         "path": "robots.txt",
@@ -612,17 +562,12 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "136814f319eb276b70181650412a30f2"
-    },
-    {
-        "path": "serge-modular-synth.html",
-        "type": "file",
-        "md5": "4f8e044ab3157b722e2269ce7fadbe6f"
+        "md5": "78bbac5662d65b2ac8cd13ca4b17283c"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "4014aef301d42b4e348542ff7da6ad5c"
+        "md5": "2df383b257efc744e73660916b8b17de"
     },
     {
         "path": "sitemap.xsl",
@@ -632,7 +577,7 @@
     {
         "path": "software.html",
         "type": "file",
-        "md5": "fc7a35062de4e46edb83994544371b7f"
+        "md5": "9dc595cab87b9d0c24a07a8d2d753bb0"
     },
     {
         "path": "spatial-audio-studio",
@@ -642,7 +587,7 @@
     {
         "path": "/spatial-audio-studio/index.html",
         "type": "file",
-        "md5": "894f235fec5a9ce3832fd32ab9c6ff85"
+        "md5": "68873e5fffcbbd4dac76f38e54f035ac"
     },
     {
         "path": "use",
@@ -652,6 +597,6 @@
     {
         "path": "/use/index.html",
         "type": "file",
-        "md5": "67bfd9151a5a13fa46739c6bbc3bc403"
+        "md5": "6314864852c18cb6c0dfc113fec61d24"
     }
 ]
