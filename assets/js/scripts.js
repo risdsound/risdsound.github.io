@@ -1,30 +1,3 @@
-// Sticky menu
-var new_scroll_position = 0;
-var last_scroll_position;
-var header = document.getElementById("js-header");
-
-window.addEventListener('scroll', function (e) {
-    last_scroll_position = window.scrollY;
-
-    // Scrolling down
-    if (new_scroll_position < last_scroll_position && last_scroll_position > 40) {
-        header.classList.remove("is-visible");
-        header.classList.add("is-hidden");
-
-        // Scrolling up
-    } else if (new_scroll_position > last_scroll_position) {
-        header.classList.remove("is-hidden");
-        header.classList.add("is-visible");
-    }
-
-    if (last_scroll_position < 1) {
-        header.classList.remove("is-visible");
-    }
-
-    new_scroll_position = last_scroll_position;
-});
-
-
 // Dropdown menu
 (function (menuConfig) {
 	/**
@@ -120,8 +93,10 @@ window.addEventListener('scroll', function (e) {
 						 var submenuPotentialPosition = itemPosition + (config.submenuWidth * widthMultiplier);
 
 						 if (window.innerWidth < submenuPotentialPosition) {
+							  submenu.classList.remove(config.submenuLeftPositionClass);
 							  submenu.classList.add(config.submenuRightPositionClass);
 						 } else {
+							  submenu.classList.remove(config.submenuRightPositionClass);
 							  submenu.classList.add(config.submenuLeftPositionClass);
 						 }
 					} else {
@@ -135,16 +110,19 @@ window.addEventListener('scroll', function (e) {
 						 }
 
 						 if (window.innerWidth < submenuPotentialPosition) {
+							  submenu.classList.remove(config.submenuLeftPositionClass);
 							  submenu.classList.add(config.submenuRightPositionClass);
 							  submenuPosition = -1 * submenu.clientWidth;
+							  submenu.removeAttribute('style');
 
 							  if (widthMultiplier === 1) {
 									submenuPosition = 0;
+									submenu.style.right = submenuPosition + 'px';
+							  } else {
+									submenu.style.right = this.clientWidth + 'px';
 							  }
-
-							  submenu.style.left = submenuPosition + 'px';
-							  submenu.style.right = this.clientWidth + 'px';
 						 } else {
+							  submenu.classList.remove(config.submenuRightPositionClass);
 							  submenu.classList.add(config.submenuLeftPositionClass);
 							  submenuPosition = this.clientWidth;
 
@@ -152,6 +130,7 @@ window.addEventListener('scroll', function (e) {
 									submenuPosition = 0;
 							  }
 
+							  submenu.removeAttribute('style');
 							  submenu.style.left = submenuPosition + 'px';
 						 }
 					}
@@ -433,38 +412,92 @@ window.addEventListener('scroll', function (e) {
 	init();
 })(window.publiiThemeMenuConfig);
 
+// Load comments
+var comments = document.querySelector(".js-post__comments-button");  
+   if (comments) {
+      comments.addEventListener("click", function() {   
+          comments.classList.toggle("is-hidden");      
+             var container = document.querySelector(".js-post__comments-inner");   
+             container.classList.toggle("is-visible");  
+      });
+ }
 
-// Sidebar menu - mobile view
-(function() {
-    if (window.innerWidth > 900) {
-		return;
-	}
-    var accordion = document.getElementsByClassName("js-sidebar-menu").item(0);
-    var sections = [];
+// Load search input area
+var searchButton = document.querySelector(".js-search-btn");
+    searchOverlay = document.querySelector(".js-search-overlay");
+    searchClose = document.querySelector(".js-search-close");
+    searchInput = document.querySelector(".js-search-input");
 
-    if (accordion) {
-          sections = accordion.getElementsByClassName("has-submenu");
+if (searchButton) {
+    searchButton.addEventListener("click", function () {        
+        searchOverlay.classList.add("expanded");
+        setTimeout(function() { 
+            searchInput.focus(); 
+        }, 60);        
+    });
+    
+    searchClose.addEventListener("click", function () {
+        searchOverlay.classList.remove('expanded');
+    });
+}
+
+// Share buttons pop-up
+(function () {
+    // share popup
+    let shareButton = document.querySelector('.js-post__share-button');
+    let sharePopup = document.querySelector('.js-post__share-popup');
+
+    if (shareButton) {
+        sharePopup.addEventListener('click', function (e) {
+            e.stopPropagation();
+        });
+
+        shareButton.addEventListener('click', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+            sharePopup.classList.toggle('is-visible');
+        });
+
+        document.body.addEventListener('click', function () {
+            sharePopup.classList.remove('is-visible');
+        });
     }
 
-    for (var i = 0; i < sections.length; i++) {
-        (function() {
-            var section = sections.item(i),
-                anchor = sections.item(i).children[0],
-                below = sections.item(i).children[1];
+    // link selector and pop-up window size
+    var Config = {
+        Link: ".js-share",
+        Width: 500,
+        Height: 500
+    };
+    // add handler links
+    var slink = document.querySelectorAll(Config.Link);
+    for (var a = 0; a < slink.length; a++) {
+        slink[a].onclick = PopupHandler;
+    }
+    // create popup
+    function PopupHandler(e) {
+        e = (e ? e : window.event);
+        var t = (e.target ? e.target : e.srcElement);
+        // hide share popup
+        if (sharePopup) {
+            sharePopup.classList.remove('is-visible');
+        }
+        // popup position
+        var px = Math.floor(((screen.availWidth || 1024) - Config.Width) / 2),
+            py = Math.floor(((screen.availHeight || 700) - Config.Height) / 2);
+        // open popup
+        var link_href = t.href ? t.href : t.parentNode.href;
+        var popup = window.open(link_href, "social",
+            "width=" + Config.Width + ",height=" + Config.Height +
+            ",left=" + px + ",top=" + py +
+            ",location=0,menubar=0,toolbar=0,status=0,scrollbars=1,resizable=1");
+        if (popup) {
+            popup.focus();
+            if (e.preventDefault) e.preventDefault();
+            e.returnValue = false;
+        }
 
-
-            anchor.onclick = function (e) {
-                if (anchor.tagName === 'A' && !section.classList.contains('active')) {
-                    e.preventDefault();
-                }
-
-                if (section.classList.contains('active')) {
-                    section.classList.remove('active');
-                } else {
-                    section.classList.add('active');
-                }
-            }
-        })();
+        return !!popup;
     }
 })();
 
@@ -535,84 +568,28 @@ window.addEventListener('scroll', function (e) {
     }
 })();
 
-// Share buttons pop-up
-(function () {
-    // share popup
-    let shareButton = document.querySelector('.post__share-button');
-    let sharePopup = document.querySelector('.post__share-popup');
 
-    if (shareButton) {
-        sharePopup.addEventListener('click', function (e) {
-            e.stopPropagation();
-        });
-
-        shareButton.addEventListener('click', function (e) {
-            e.preventDefault();
-            e.stopPropagation();
-            sharePopup.classList.toggle('is-visible');
-        });
-
-        document.body.addEventListener('click', function () {
-            sharePopup.classList.remove('is-visible');
-        });
-    }
-
-    // link selector and pop-up window size
-    var Config = {
-        Link: ".js-share",
-        Width: 500,
-        Height: 500
-    };
-    // add handler links
-    var slink = document.querySelectorAll(Config.Link);
-    for (var a = 0; a < slink.length; a++) {
-        slink[a].onclick = PopupHandler;
-    }
-    // create popup
-    function PopupHandler(e) {
-        e = (e ? e : window.event);
-        var t = (e.target ? e.target : e.srcElement);
-        // hide share popup
-        if (sharePopup) {
-            sharePopup.classList.remove('is-visible');
+// Reading scroll bar
+if (document.getElementById("js-post__progress")) { 
+    document.addEventListener(
+        "scroll",
+        function() {
+            var scrollTop = document.documentElement["scrollTop"] || document.body["scrollTop"];
+            var scrollBottom = (document.documentElement["scrollHeight"] || document.body["scrollHeight"]) - document.documentElement.clientHeight;
+            scrollPercent = scrollTop / scrollBottom * 100 + "%";
+            document.getElementById("js-post__progress").style.setProperty("--scroll", scrollPercent);
+        }, {
+            passive: true
         }
-        // popup position
-        var px = Math.floor(((screen.availWidth || 1024) - Config.Width) / 2),
-            py = Math.floor(((screen.availHeight || 700) - Config.Height) / 2);
-        // open popup
-        var link_href = t.href ? t.href : t.parentNode.href;
-        var popup = window.open(link_href, "social",
-            "width=" + Config.Width + ",height=" + Config.Height +
-            ",left=" + px + ",top=" + py +
-            ",location=0,menubar=0,toolbar=0,status=0,scrollbars=1,resizable=1");
-        if (popup) {
-            popup.focus();
-            if (e.preventDefault) e.preventDefault();
-            e.returnValue = false;
-        }
+    );
+}
 
-        return !!popup;
-    }
+// Add amrgin bottom to the navbar 
+(function() {
+    document.addEventListener('DOMContentLoaded', (event) => {
+        var elemHeight =  
+        document.querySelector('.footer').clientHeight;  
+        document.querySelector('.navbar').style.marginBottom = (elemHeight + 48) + 'px';
+    
+    });
 })();
-
-// DocSearch fix for Safari with overflow issue
-const sidebar = document.querySelector(".js-sidebar");
-      input = document.querySelector('.js-search')
-
-input.addEventListener('input', evt => {
-    const value = input.value
-
-    if (!value) {
-        sidebar.classList.remove("no-overflow");
-        document.documentElement.classList.remove("no-scroll")
-        return
-    }
-    const trimmed = value.trim()
-    if (trimmed) {
-        sidebar.classList.add("no-overflow");
-        document.documentElement.classList.add("no-scroll")
-    } else {
-        sidebar.classList.remove("no-overflow");
-        document.documentElement.classList.remove("no-scroll")
-    }
-})
