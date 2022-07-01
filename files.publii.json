@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "0ce9ed4397ebb47a50750a4061da6141"
+        "md5": "6f42ca515ff0a32db3a754f351f90473"
     },
     {
         "path": "about.html",
         "type": "file",
-        "md5": "f593568a639548b552079d202137d9c0"
+        "md5": "21805df849eb004046ff7102e7dba9fc"
     },
     {
         "path": "amp",
@@ -17,12 +17,12 @@
     {
         "path": "/amp/about.html",
         "type": "file",
-        "md5": "08f6e6ee014ee22d0258e27314faac6a"
+        "md5": "aedad665f9694479ba0703cbac6e6f4d"
     },
     {
         "path": "/amp/array.html",
         "type": "file",
-        "md5": "fdb967851f3fc2f00713476fcaf1568d"
+        "md5": "546cd51a7d2021b411197be7757347c9"
     },
     {
         "path": "amp/authors",
@@ -37,27 +37,27 @@
     {
         "path": "/amp/authors/shawn-greenlee/index.html",
         "type": "file",
-        "md5": "589da9fd3ba11718658756b65a105510"
+        "md5": "e293f04b8c17f80532bcf56b9df9f1b8"
     },
     {
         "path": "/amp/booking-and-use.html",
         "type": "file",
-        "md5": "2bbe40c62fe3cd273964321fa040ceb9"
+        "md5": "b57c325838527a5d44ce642013dcf354"
     },
     {
         "path": "/amp/classroom.html",
         "type": "file",
-        "md5": "add0cd0a53e2b0ab8d6e2c3ac194cd1e"
+        "md5": "9d8765e5db31577179d718ed7e19eb4f"
     },
     {
         "path": "/amp/courses.html",
         "type": "file",
-        "md5": "aca85c7b9bb4cf4972eb698dfb6fcc2c"
+        "md5": "fd2806ac99c64710f824e23785a93cca"
     },
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "04c1146ff04152b3a4b4203b1ae9ae85"
+        "md5": "ee68c1bf95d45659950d3a64df68d02a"
     },
     {
         "path": "amp/resources",
@@ -67,12 +67,12 @@
     {
         "path": "/amp/resources/index.html",
         "type": "file",
-        "md5": "cd24933d7e37f4eed8cea676d5a9ffd6"
+        "md5": "d1100f4327351830a185f989ad4906d5"
     },
     {
         "path": "/amp/software.html",
         "type": "file",
-        "md5": "a87a691289385bc650244803f9446a00"
+        "md5": "3ca75127f6a56cb7a4ab362b63b26d24"
     },
     {
         "path": "amp/spatial-audio-studio",
@@ -82,7 +82,12 @@
     {
         "path": "/amp/spatial-audio-studio/index.html",
         "type": "file",
-        "md5": "d69c3733f0dd8394414434b9a849179f"
+        "md5": "423724442c9bcb26d72b4abf253d2970"
+    },
+    {
+        "path": "/amp/synthesizers.html",
+        "type": "file",
+        "md5": "2163c1186b26ba07d4fd196084c7e5b2"
     },
     {
         "path": "amp/use",
@@ -92,12 +97,12 @@
     {
         "path": "/amp/use/index.html",
         "type": "file",
-        "md5": "0da9c3b7b5441161ca4525222639d0bc"
+        "md5": "2c759cdbda05d95c0aa1231133d21e8a"
     },
     {
         "path": "array.html",
         "type": "file",
-        "md5": "152f413e0c60f6b8b2918444bb96d394"
+        "md5": "74462faf8939622fc84906c789140f77"
     },
     {
         "path": "assets",
@@ -892,37 +897,37 @@
     {
         "path": "/authors/shawn-greenlee/index.html",
         "type": "file",
-        "md5": "aaed2949ee783e6184994b8f7abf45e4"
+        "md5": "3a61bce3088367b5996e6fee8da33248"
     },
     {
         "path": "booking-and-use.html",
         "type": "file",
-        "md5": "90b4b6e2442859ac18cab47883c46fef"
+        "md5": "580554ad87be97df944e7ebead9121ff"
     },
     {
         "path": "classroom.html",
         "type": "file",
-        "md5": "5976dc819c44a200c4843b5f2e3757d6"
+        "md5": "d262ab5613e92f51b264495573eadca9"
     },
     {
         "path": "courses.html",
         "type": "file",
-        "md5": "4706e76c14bfa14af58b0aebafa87ad9"
+        "md5": "bebcb6ab2d39049fd4124599c7a70449"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "fd69fd9e4d7dae47945c7a6c65ef8c8e"
+        "md5": "4daee90750b424c5ec27629481ac4cc0"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "7af3a7234c5573c425117b14cf7db62d"
+        "md5": "0949f5eb66cee95a07c2a0a5679c0fe6"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "169237f3341660eac117e8df77ce9200"
+        "md5": "a81cf70764fbe019b5dd5b5fd636ec45"
     },
     {
         "path": "media",
@@ -1162,7 +1167,7 @@
     {
         "path": "/resources/index.html",
         "type": "file",
-        "md5": "cbc8b6f66ef24c7cde43b0a31db273ab"
+        "md5": "4abb739dde3fb1de8ca97cb69e76765b"
     },
     {
         "path": "robots.txt",
@@ -1172,7 +1177,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "e61157f197f4e932558eec3441578e99"
+        "md5": "82a7ad8ff76b9a1e542898117e776409"
     },
     {
         "path": "sitemap.xsl",
@@ -1182,7 +1187,7 @@
     {
         "path": "software.html",
         "type": "file",
-        "md5": "505afa7dd3e9ade12b9d95db62b8f703"
+        "md5": "0748fe0325da08ed15e7ef0ccd6e3428"
     },
     {
         "path": "spatial-audio-studio",
@@ -1192,7 +1197,12 @@
     {
         "path": "/spatial-audio-studio/index.html",
         "type": "file",
-        "md5": "31ead95981fb6b86846bed4828351418"
+        "md5": "1b33f9bc5bfa05df28b11e868666c5c8"
+    },
+    {
+        "path": "synthesizers.html",
+        "type": "file",
+        "md5": "b7d0b21c8dd981b449bf1b8b09674303"
     },
     {
         "path": "use",
@@ -1202,6 +1212,6 @@
     {
         "path": "/use/index.html",
         "type": "file",
-        "md5": "8108eddc2a49b0b1cf93c5d101c0ef2c"
+        "md5": "0056871dd5c24004d79d5205db4c0cd0"
     }
 ]

@@ -1,14 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Studio for Research in Sound and Technology</title>
+    <title>SRST</title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2022-07-01T11:10:27-04:00</updated>
+    <updated>2022-07-01T11:43:22-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
     <id>https://sound.risd.edu</id>
 
+    <entry>
+        <title>Synthesizers</title>
+        <author>
+            <name>shawn greenlee</name>
+        </author>
+        <link href="https://sound.risd.edu/synthesizers.html"/>
+        <id>https://sound.risd.edu/synthesizers.html</id>
+
+        <updated>2022-07-01T11:43:22-04:00</updated>
+            <summary>
+                <![CDATA[
+                    This page in progress... Random*Source Beautiful Pieces of Outdated Technology Accompanying Eurorack modules 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This page in progress...</p>
+<h4>Serge Modular </h4>
+<p>Random*Source</p>
+<ul>
+<li><a href="https://randomsource.net/serge_4x4" target="_blank" rel="noopener noreferrer">Dual PCO / P&amp;T 4U module</a></li>
+<li><a href="https://randomsource.net/serge_4x4" target="_blank" rel="noopener noreferrer">Triple+ Waveshaper / New Ring 4U module</a></li>
+<li><a href="https://randomsource.net/serge_4x4" target="_blank" rel="noopener noreferrer">Wave Multipliers / Resonant EQ 4U module</a></li>
+<li><a href="https://randomsource.net/serge_4x4" target="_blank" rel="noopener noreferrer">External ADSR / Stereo Mixer 4U module</a></li>
+<li><a href="https://randomsource.net/serge_panels" target="_blank" rel="noopener noreferrer">Mantra 4U panel</a></li>
+<li><a href="https://randomsource.net/serge_panels" target="_blank" rel="noopener noreferrer">La Bestia II 4U panel</a></li>
+<li><a href="https://randomsource.net/serge_panels" target="_blank" rel="noopener noreferrer">Edelweiss II 4U panel</a></li>
+<li><a href="https://randomsource.net/serge_panels" target="_blank" rel="noopener noreferrer">Touch Activated Keyboard Sequencer 4U module (x2)</a></li>
+</ul>
+<p class="cover-title">Beautiful Pieces of Outdated Technology</p>
+<ul>
+<li><a href="https://bpoot.company.site/CGS-Serge-Programmer-sequencer-for-modular-synthesizer-systems-p260159180" target="_blank" rel="noopener noreferrer">Programmer 4U module</a></li>
+</ul>
+<p>Accompanying Eurorack modules</p>
+<ul>
+<li>Custom format jumbler panels (x2)</li>
+<li><a href="https://www.mordax.net/products/data" target="_blank" rel="noopener noreferrer">Mordax Data (x2)</a></li>
+<li><a href="https://www.expert-sleepers.co.uk/es9.html" target="_blank" rel="noopener noreferrer">Expert Sleepers ES-9 (x2)</a></li>
+</ul>
+<h4>GRP</h4>
+<ul>
+<li><a href="http://www.grpsynthesizer.it/index.php/en/products/grp-synthesizer-a4-en.html" target="_blank" rel="noopener noreferrer">GRP A4 analog synthesizer</a> </li>
+<li><a href="http://www.grpsynthesizer.it/index.php/en/products/grp-synthesizer-v22-en.html" target="_blank" rel="noopener noreferrer">GRP V22 analog vocoder</a></li>
+</ul>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Booking &amp; use</title>
         <author>
@@ -153,14 +201,14 @@
         </content>
     </entry>
     <entry>
-        <title>About</title>
+        <title>Studio for Research in Sound and Technology</title>
         <author>
             <name>shawn greenlee</name>
         </author>
         <link href="https://sound.risd.edu/about.html"/>
         <id>https://sound.risd.edu/about.html</id>
 
-        <updated>2022-07-01T10:58:09-04:00</updated>
+        <updated>2022-07-01T11:26:07-04:00</updated>
             <summary>
                 <![CDATA[
                     The Studio for Research in Sound and Technology (SRST) at the Rhode Island School of Design (RISD) provides an environment&hellip;
@@ -186,7 +234,7 @@
         <id>https://sound.risd.edu/courses.html</id>
             <category term="Spatial audio studio"/>
 
-        <updated>2022-07-01T10:15:02-04:00</updated>
+        <updated>2022-07-01T11:28:27-04:00</updated>
             <summary>
                 <![CDATA[
                     Spatial Audio CTC-2006: Fall 2022 Shawn Greenlee Spatial Audio focuses on the creation of immersive 3D sound experiences. In this&hellip;
@@ -196,16 +244,16 @@
             <![CDATA[
                 <h4><strong>Spatial Audio</strong></h4>
 <p>CTC-2006: Fall 2022<br>Shawn Greenlee</p>
-<pre>Spatial Audio focuses on the creation of immersive 3D sound experiences. In this course, students analyze and explore how the sensation of space is activated in the listener by making works using spatial audio techniques. These methods include high-order ambisonics, vector-based amplitude panning, multichannel surround, and binaural audio, among others. Throughout the semester, a series of exercises addressing technical and theoretical issues provide students with the necessary experience to produce midterm and final projects. Coursework involves computational approaches to sound design and composition, with instruction in the audio programming language Max and digital audio workstations, i.e. Ableton Live and Reaper. Students have recurring access to a 25-channel loudspeaker array for the development of works. Readings from psychology, philosophy, the arts, and sound studies support class discussions and critiques. Students will need a laptop computer (Mac or Windows) and a Max software license (educational pricing available from cycling74.com). Previous experience with digital audio software recommended.</pre>
+<p>Spatial Audio focuses on the creation of immersive 3D sound experiences. In this course, students analyze and explore how the sensation of space is activated in the listener by making works using spatial audio techniques. These methods include high-order ambisonics, vector-based amplitude panning, multichannel surround, and binaural audio, among others. Throughout the semester, a series of exercises addressing technical and theoretical issues provide students with the necessary experience to produce midterm and final projects. Coursework involves computational approaches to sound design and composition, with instruction in the audio programming language Max and digital audio workstations, i.e. Ableton Live and Reaper. Students have recurring access to a 25-channel loudspeaker array for the development of works. Readings from psychology, philosophy, the arts, and sound studies support class discussions and critiques. Students will need a laptop computer (Mac or Windows) and a Max software license (educational pricing available from cycling74.com). Previous experience with digital audio software recommended.</p>
 <h4>Sonic Practices </h4>
 <p>DM-3104: Fall 2022 &amp; Spring 2023<br>Mark Cetilia (FA), Shawn Greenlee (SP)</p>
-<pre>Sonic Practices is a graduate-level research group focused on acoustic, electronic, and/or computer-based means of sound production and reception. Participants explore audio culture and technology while developing experimental approaches to composition, performance, recording, and/or listening. Areas of investigation include, but are not limited to: audio programming languages, embedded/mobile computing for sound and music, spatial audio, sound synthesis, audio electronics, sonification and auditory display, electroacoustic music composition and improvisation, field recording and soundscape studies, sound installation and performance, and sonic interaction design. Each semester, course content changes in response to a new unifying theme upon which students base individual and team-based research projects. Meetings consist of discussions, workshops, critiques, and collaborations that support students' individual inquiries, the exchange of ideas, and the exploration of research methodologies.</pre>
+<p>Sonic Practices is a graduate-level research group focused on acoustic, electronic, and/or computer-based means of sound production and reception. Participants explore audio culture and technology while developing experimental approaches to composition, performance, recording, and/or listening. Areas of investigation include, but are not limited to: audio programming languages, embedded/mobile computing for sound and music, spatial audio, sound synthesis, audio electronics, sonification and auditory display, electroacoustic music composition and improvisation, field recording and soundscape studies, sound installation and performance, and sonic interaction design. Each semester, course content changes in response to a new unifying theme upon which students base individual and team-based research projects. Meetings consist of discussions, workshops, critiques, and collaborations that support students' individual inquiries, the exchange of ideas, and the exploration of research methodologies.</p>
 <h4><strong>Sound Synthesis: Analog / Digital Hybrids</strong></h4>
 <p>CTC-2043: Spring 2023<br>Mark Cetilia</p>
-<pre>Throughout the past century, electronically generated sound has challenged the aesthetic and conceptual boundaries of art and music. In this intensive studio course, students will focus on the creation of experimental sound works utilizing hybrid analog / digital systems. We will investigate synthesis techniques using the SuperCollider programming language / environment in conjunction with the Serge modular synthesizer. Students will leverage the strengths of these tools towards uniquely personal production platforms that are more than the sum of their parts, and utilize them in the creation of fixed media, generative compositions, and improvised performances. The course will include discussion of historical works / texts, hands-on demonstrations, in-class projects, and critical engagement with new works by class members, culminating in a final project that incorporates knowledge gained throughout the semester. Students will need a laptop computer running a recent OS: Mac, Windows, or Linux. Previous programming experience is recommended, but not required.</pre>
+<p>Throughout the past century, electronically generated sound has challenged the aesthetic and conceptual boundaries of art and music. In this intensive studio course, students will focus on the creation of experimental sound works utilizing hybrid analog / digital systems. We will investigate synthesis techniques using the SuperCollider programming language / environment in conjunction with the Serge modular synthesizer. Students will leverage the strengths of these tools towards uniquely personal production platforms that are more than the sum of their parts, and utilize them in the creation of fixed media, generative compositions, and improvised performances. The course will include discussion of historical works / texts, hands-on demonstrations, in-class projects, and critical engagement with new works by class members, culminating in a final project that incorporates knowledge gained throughout the semester. Students will need a laptop computer running a recent OS: Mac, Windows, or Linux. Previous programming experience is recommended, but not required.</p>
 <h4><strong>Programming Sound: Performance Systems</strong></h4>
 <p>CTC-2001: Spring 2023<br>Shawn Greenlee</p>
-<pre>Programming Sound: Performance Systems focuses on programming and designing computer-based systems for sound art and music performance. Centered on the dataflow programming language, Pure Data (Pd), the course will be of substantial benefit to students who desire a rigorous and fast-moving foundation in algorithmic approaches to sound design. The course simultaneously facilitates explorations in sound synthesis, audio signal processing, electronics, mobile platforms, gesture-based human computer interaction, and instrument building with microcontrollers and sensors. Coursework involves weekly homework in the form of online lectures and exercises with class sessions reserved for demonstrations, workshops, and project assistance. The course emphasizes modularity and reuse of code. Students will present their work in a public concert during the last week of the semester. Additional notes: In order to conduct work in this course, students will need a laptop computer running a recent OS: Mac, Windows, or Linux. Previous programming experience is recommended, but not required. </pre>
+<p>Programming Sound: Performance Systems focuses on programming and designing computer-based systems for sound art and music performance. Centered on the dataflow programming language, Pure Data (Pd), the course will be of substantial benefit to students who desire a rigorous and fast-moving foundation in algorithmic approaches to sound design. The course simultaneously facilitates explorations in sound synthesis, audio signal processing, electronics, mobile platforms, gesture-based human computer interaction, and instrument building with microcontrollers and sensors. Coursework involves weekly homework in the form of online lectures and exercises with class sessions reserved for demonstrations, workshops, and project assistance. The course emphasizes modularity and reuse of code. Students will present their work in a public concert during the last week of the semester. Additional notes: In order to conduct work in this course, students will need a laptop computer running a recent OS: Mac, Windows, or Linux. Previous programming experience is recommended, but not required. </p>
             ]]>
         </content>
     </entry>
