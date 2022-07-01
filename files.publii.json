@@ -47,7 +47,7 @@
     {
         "path": "/amp/classroom.html",
         "type": "file",
-        "md5": "34afe4e44da7d0c3a4d422dcc02f14c5"
+        "md5": "add0cd0a53e2b0ab8d6e2c3ac194cd1e"
     },
     {
         "path": "/amp/courses.html",
@@ -902,7 +902,7 @@
     {
         "path": "classroom.html",
         "type": "file",
-        "md5": "69b7e2f3a5797d63f88e6561f87cd1ba"
+        "md5": "5976dc819c44a200c4843b5f2e3757d6"
     },
     {
         "path": "courses.html",
@@ -912,12 +912,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "639facb80e45d3e98cbc7e2b2e00a225"
+        "md5": "fd69fd9e4d7dae47945c7a6c65ef8c8e"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "e0664657c36372522d6addaecfcba380"
+        "md5": "7af3a7234c5573c425117b14cf7db62d"
     },
     {
         "path": "index.html",
@@ -1172,7 +1172,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "81bdb2a4680b03247b454055e35734e5"
+        "md5": "e61157f197f4e932558eec3441578e99"
     },
     {
         "path": "sitemap.xsl",

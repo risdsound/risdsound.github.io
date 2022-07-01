@@ -3,7 +3,7 @@
     <title>Studio for Research in Sound and Technology</title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2022-07-01T11:04:28-04:00</updated>
+    <updated>2022-07-01T11:10:27-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
@@ -218,7 +218,7 @@
         <id>https://sound.risd.edu/classroom.html</id>
             <category term="Resources"/>
 
-        <updated>2022-07-01T10:47:51-04:00</updated>
+        <updated>2022-07-01T11:10:27-04:00</updated>
             <summary>
                 <![CDATA[
                     SRST has a dedicated seminar area which can be flexibly configured and supports audio-visual presentations independent from the 25.4 loudspeaker&hellip;
@@ -232,7 +232,7 @@
 <figure class="gallery__item"><a href="https://sound.risd.edu/media/posts/4/gallery/m11_seminar2-2.jpg" data-size="1920x1080"><img loading="lazy" src="https://sound.risd.edu/media/posts/4/gallery/m11_seminar2-2-thumbnail.jpg" alt="" width="749" height="421"></a></figure>
 <figure class="gallery__item"><a href="https://sound.risd.edu/media/posts/4/gallery/m11_seminar3-2.jpg" data-size="1920x1080"><img loading="lazy" src="https://sound.risd.edu/media/posts/4/gallery/m11_seminar3-2-thumbnail.jpg" alt="" width="749" height="421"></a></figure>
 </div></div>
-<h2>Equipment</h2>
+<h4>Equipment</h4>
 <ul>
 <li><a href="https://pro.sony/ue_US/products/pro-displays/fw-65bz30j" target="_blank" rel="noopener noreferrer">65" Sony Bravia 4K TV display</a> FW-65BZ35F, wall mounted</li>
 <li><a href="https://pro.sony/ue_US/products/pro-displays/fw-75bz40h" target="_blank" rel="noopener noreferrer">75" Sony Bravia 4K TV display</a> FW-55BZ35F, cart mounted</li>
@@ -244,7 +244,7 @@
 <li>Audio inputs, rack: HDMI, 3.5mm, balanced XLR (line-level)</li>
 <li>AV outputs, rack: HDMI, Assitive Listening System </li>
 </ul>
-<h2>Furniture</h2>
+<h4>Furniture</h4>
 <ul>
 <li>Dry-erase, magnetic presentation boards </li>
 <li><a href="https://www.hermanmiller.com/products/workspaces/collaborative-furniture/everywhere-tables/" target="_blank" rel="noopener noreferrer">8 HermanMiller Flip-Top tables</a></li>
