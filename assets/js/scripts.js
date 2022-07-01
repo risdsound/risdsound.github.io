@@ -412,34 +412,6 @@
 	init();
 })(window.publiiThemeMenuConfig);
 
-// Load comments
-var comments = document.querySelector(".js-post__comments-button");  
-   if (comments) {
-      comments.addEventListener("click", function() {   
-          comments.classList.toggle("is-hidden");      
-             var container = document.querySelector(".js-post__comments-inner");   
-             container.classList.toggle("is-visible");  
-      });
- }
-
-// Load search input area
-var searchButton = document.querySelector(".js-search-btn");
-    searchOverlay = document.querySelector(".js-search-overlay");
-    searchClose = document.querySelector(".js-search-close");
-    searchInput = document.querySelector(".js-search-input");
-
-if (searchButton) {
-    searchButton.addEventListener("click", function () {        
-        searchOverlay.classList.add("expanded");
-        setTimeout(function() { 
-            searchInput.focus(); 
-        }, 60);        
-    });
-    
-    searchClose.addEventListener("click", function () {
-        searchOverlay.classList.remove('expanded');
-    });
-}
 
 // Share buttons pop-up
 (function () {
@@ -501,95 +473,155 @@ if (searchButton) {
     }
 })();
 
-// Newsletter popup
-(function() {
-    var newsletter_submit = document.querySelector('.newsletter-popup__submit');
-    var newsletter = document.querySelector('.newsletter-popup');
-    if (!newsletter) { 
-        return false;  
-    }
-    var showOnScroll = newsletter.getAttribute('data-show-on-scroll');
-    var showAfterTime = newsletter.getAttribute('data-show-after-time');
+// Back to top 
+var backToTopButton = document.getElementById("backToTop");
+if (backToTopButton) {
+   window.onscroll = function() {backToTopScrollFunction()};
 
-    if (showOnScroll) {
-        showOnScroll = parseInt(showOnScroll, 10);
-    } else {
-        showOnScroll = false;
-    }
+   function backToTopScrollFunction() {
+   if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
+      backToTopButton.classList.add("is-visible");
+   } else {
+      backToTopButton.classList.remove("is-visible");
+     }
+   }
 
-    if (showAfterTime) {
-        showAfterTime = parseInt(showAfterTime, 10);
-    } else {
-        showAfterTime = false;
-    }
+   function backToTopFunction() {
+     document.body.scrollTop = 0;
+     document.documentElement.scrollTop = 0;
+   };
+}
 
-    function showNewsletterOnScroll (e) {
-        var position = window.scrollY;
 
-        if (position > showOnScroll && !newsletter.classList.contains('is-visible')) {
-                newsletter.classList.add('is-visible');
-        }
-    }
+/**
+ * Responsive embeds script
+ */
+ (function () {
+	let wrappers = document.querySelectorAll('.post__video, .post__iframe');
 
-    if (newsletter_submit) {
-        newsletter_submit.addEventListener('click', function () {
-            localStorage.setItem('newsletter-subscribe', 'true');
-        });
+	for (let i = 0; i < wrappers.length; i++) {
+		let embed = wrappers[i].querySelector('iframe, embed, video, object');
 
-        document.querySelector('.newsletter-popup__close').addEventListener('click', function (event) {
-            event.preventDefault();
-            localStorage.setItem('newsletter-subscribe', new Date().getTime());
-            newsletter.classList.remove('is-visible');
+		if (!embed) {
+			continue;
+		}
 
-            if (showOnScroll) {
-                window.removeEventListener('scroll', showNewsletterOnScroll);
-            }
-        });
-    }
-
-    // Newsletter display
-    if (
-        newsletter &&
-        localStorage.getItem('newsletter-subscribe') !== 'true' &&
-        (
-            !localStorage.getItem('newsletter-subscribe') ||
-            new Date().getTime() - parseInt(localStorage.getItem('newsletter-subscribe'), 10) > (1000 * 60 * 60 * 24 * 30)
-        )
-    ) {
-        if (showOnScroll) {
-            window.addEventListener('scroll', showNewsletterOnScroll);
+        if (embed.getAttribute('data-responsive') === 'false') {
+            continue;
         }
 
-        if (showAfterTime) {
-            setTimeout(function () {
-                newsletter.classList.add('is-visible');
-            }, showAfterTime);
-        }
-    }
+		let w = embed.getAttribute('width');
+		let h = embed.getAttribute('height');
+		let ratio = false;
+
+		if (!w || !h) {
+			continue;
+		}
+		
+		if (w.indexOf('%') > -1 && h.indexOf('%') > -1) { // percentage mode
+			w = parseFloat(w.replace('%', ''));
+			h = parseFloat(h.replace('%', ''));
+			ratio = h / w;
+		} else if (w.indexOf('%') === -1 && h.indexOf('%') === -1) { // pixels mode
+			w = parseInt(w, 10);
+			h = parseInt(h, 10);
+			ratio = h / w;
+		}
+
+		if (ratio !== false) {
+			let ratioValue = (ratio * 100) + '%';
+			wrappers[i].setAttribute('style', '--embed-aspect-ratio:' + ratioValue);
+		}
+	}
 })();
 
 
-// Reading scroll bar
-if (document.getElementById("js-post__progress")) { 
-    document.addEventListener(
-        "scroll",
-        function() {
-            var scrollTop = document.documentElement["scrollTop"] || document.body["scrollTop"];
-            var scrollBottom = (document.documentElement["scrollHeight"] || document.body["scrollHeight"]) - document.documentElement.clientHeight;
-            scrollPercent = scrollTop / scrollBottom * 100 + "%";
-            document.getElementById("js-post__progress").style.setProperty("--scroll", scrollPercent);
-        }, {
-            passive: true
-        }
-    );
-}
+/**
+ * Layout switcher
+ */
+ (function () {
+	let layoutButtons = document.querySelectorAll('.switchers__item');
+	let contentWrapper = document.querySelector('.l-grid');
+	let articles = contentWrapper.querySelectorAll('.c-card');
 
-// Add amrgin bottom to the navbar 
-(function() {
-    document.addEventListener('DOMContentLoaded', (event) => {
-        var elemHeight =  
-        document.querySelector('.footer').clientHeight;  
-        document.querySelector('.navbar').style.marginBottom = (elemHeight + 48) + 'px';
-    
-    });
+	if (!contentWrapper || !layoutButtons.length || !articles.length) {
+		return;
+	}
+
+	let gridBtn = layoutButtons[0];
+	let rowsBtn = layoutButtons[1];
+
+	gridBtn.addEventListener('click', e => {
+		e.preventDefault();
+		let isActive = gridBtn.classList.contains('is-active');
+
+		if (!isActive) {
+			setGridLayout();
+		}
+	});
+
+	rowsBtn.addEventListener('click', e => {
+		e.preventDefault();
+		let isActive = rowsBtn.classList.contains('is-active');
+
+		if (!isActive) {
+			setRowsLayout();
+		}
+	});
+
+	function setGridLayout () {
+		gridBtn.classList.add('is-active');
+		rowsBtn.classList.remove('is-active');
+		contentWrapper.classList.remove('l-grid--1');
+		articles = contentWrapper.querySelectorAll('.c-card');
+
+		for (let i = 0; i < articles.length; i++) {
+			articles[i].classList.remove('c-card--rows');
+		}
+
+		localStorage.setItem('persona-theme-selected-layout', 'grid');	
+		resetIsotopeLayout();
+	}
+
+	function setRowsLayout () {
+		gridBtn.classList.remove('is-active');
+		rowsBtn.classList.add('is-active');
+		contentWrapper.classList.add('l-grid--1');
+		articles = contentWrapper.querySelectorAll('.c-card');
+
+		for (let i = 0; i < articles.length; i++) {
+			articles[i].classList.add('c-card--rows');
+		}
+
+		localStorage.setItem('persona-theme-selected-layout', 'rows');
+		resetIsotopeLayout();
+	}
+
+	function resetIsotopeLayout () {
+		if (window.personaThemeIsotopeInstance) {
+			if (document.querySelector('.filter__item.is-active')) {
+				window.personaThemeIsotopeInstance.arrange({
+					filter: document.querySelector('.filter__item.is-active').getAttribute('data-filter')
+				});
+			} else {
+				window.personaThemeIsotopeInstance.arrange();
+			}
+		}
+	}
+
+	window.addEventListener("DOMContentLoaded", function () {
+		setTimeout(() => {
+			if (localStorage.getItem('persona-theme-selected-layout')) {
+				let savedLayout = localStorage.getItem('persona-theme-selected-layout');
+	
+				if (savedLayout === 'grid') {
+					setGridLayout();
+				}
+	
+				if (savedLayout === 'rows') {
+					setRowsLayout();
+				}
+			}
+		}, 0);
+	}, false);
 })();
