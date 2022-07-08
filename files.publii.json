@@ -7,7 +7,7 @@
     {
         "path": "about.html",
         "type": "file",
-        "md5": "8149693730d49fc6d6229c4e0a91c551"
+        "md5": "3775feb472caf1b32279ba89f3bf85ac"
     },
     {
         "path": "amp",
@@ -17,12 +17,12 @@
     {
         "path": "/amp/about.html",
         "type": "file",
-        "md5": "6afec66650cd4ef5007126155765d9d2"
+        "md5": "de60b00fd83fb19b5df28a3876b0a68e"
     },
     {
         "path": "/amp/array.html",
         "type": "file",
-        "md5": "acc40878657c859d94e2824baa0aab42"
+        "md5": "1ffabbd8a3506f1d69e599379d7addc2"
     },
     {
         "path": "amp/authors",
@@ -42,17 +42,17 @@
     {
         "path": "/amp/booking-and-use.html",
         "type": "file",
-        "md5": "18a7d66dece8d04d2e92c50fcdea7cb5"
+        "md5": "f50b678480c12546fa92196603444c5d"
     },
     {
         "path": "/amp/classroom.html",
         "type": "file",
-        "md5": "61ac5b4bdf4e6041edfb98961a9d9656"
+        "md5": "bd6f1b9c2ed5b41e29a07278ec754a5e"
     },
     {
         "path": "/amp/courses.html",
         "type": "file",
-        "md5": "bebebcf738955ec06a07cb4f5b789120"
+        "md5": "ada9acd0c5a07bda090cebd62a49cbda"
     },
     {
         "path": "/amp/index.html",
@@ -62,7 +62,7 @@
     {
         "path": "/amp/job-openings.html",
         "type": "file",
-        "md5": "531094264bb8523603aaff555bc21492"
+        "md5": "5c9e6cab87f4b2846ed3d9a525828d3a"
     },
     {
         "path": "amp/news",
@@ -77,17 +77,17 @@
     {
         "path": "/amp/software.html",
         "type": "file",
-        "md5": "b5f859da79eca317dd9e50bf84ca1eff"
+        "md5": "a63c536e1ca5e92a6a56e569bc54bd4c"
     },
     {
         "path": "/amp/synthesizers.html",
         "type": "file",
-        "md5": "20620c2566b6925ed2f48f93cd6a6371"
+        "md5": "49a7cb844372b885a14a636f6bb7ba4b"
     },
     {
         "path": "array.html",
         "type": "file",
-        "md5": "d9a98e71134ee818a08e93a05af3a7a0"
+        "md5": "38dce216c4025b00c212f76f343c9360"
     },
     {
         "path": "assets",
@@ -207,27 +207,27 @@
     {
         "path": "booking-and-use.html",
         "type": "file",
-        "md5": "fbfca8807ccdde6066876a4f35c05c98"
+        "md5": "7fb2c3c4fc81eda4a386bc9af0820688"
     },
     {
         "path": "classroom.html",
         "type": "file",
-        "md5": "737a278676f89c27ee51cd74a0fce28c"
+        "md5": "b5b03b9f30f026a80a327735383a2b1d"
     },
     {
         "path": "courses.html",
         "type": "file",
-        "md5": "66176b197d145f2a411f94f73b65df21"
+        "md5": "d23332372054137ae6337c615e9cf3a8"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "830d6e9ca7c5a9e9434634883fa7af8a"
+        "md5": "06204ff192d4f144761679a75a693bb2"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "7b776a6c4c98e8d20e2b11430ada9ff8"
+        "md5": "d1ea5c7a8dbc9a79f1aa41f6b5a61c80"
     },
     {
         "path": "index.html",
@@ -237,7 +237,7 @@
     {
         "path": "job-openings.html",
         "type": "file",
-        "md5": "46bd2a4c1f7046e59160e5975cf2f0aa"
+        "md5": "3f3898a64737f512df036bfd305a05f9"
     },
     {
         "path": "media",
@@ -487,7 +487,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "0f0866792f2887feec327f727f16e2c4"
+        "md5": "c280057ca082bdac190cb416c90fd4b2"
     },
     {
         "path": "sitemap.xsl",
@@ -497,11 +497,11 @@
     {
         "path": "software.html",
         "type": "file",
-        "md5": "fded7daecab8a80542ec8dfcda0a792e"
+        "md5": "8a2841ada1a44c2328feb8130f002483"
     },
     {
         "path": "synthesizers.html",
         "type": "file",
-        "md5": "f9d406adeb50e81d7d7218d97009b4b1"
+        "md5": "9983127f565d136377fc57b2a112ef71"
     }
 ]
