@@ -10,10 +10,25 @@
     },
     "items": [
         {
+            "id": "https://sound.risd.edu/job-openings.html",
+            "url": "https://sound.risd.edu/job-openings.html",
+            "title": "Job openings",
+            "summary": "The Studio for Research in Sound and Technology* (SRST) at RISD has two staff job searches happening this summer. Follow&hellip;",
+            "content_html": "<p>The Studio for Research in Sound and Technology* (SRST) at RISD has two staff job searches happening this summer.  Follow the links below for more info. and to apply.</p>\n<ul>\n<li><a href=\"https://risd.wd5.myworkdayjobs.com/en-US/RISD/job/Research-Fellow--Spatial-Audio-Studio_R-00906-1\" target=\"_blank\" rel=\"noopener noreferrer\">Research Fellow, Spatial Audio</a> (full-time, 3-year appointment)</li>\n<li><a href=\"https://risd.wd5.myworkdayjobs.com/en-US/RISD/job/Technical-Assistant-III--Studio-for-Research-in-Sound-and-Technology_R-00937-1\" target=\"_blank\" rel=\"noopener noreferrer\">Techincal Assistant III</a> (part-time, 20 hrs / week)</li>\n</ul>\n<p>* F.K.A. Spatial Audio Studio</p>",
+            "author": {
+                "name": "shawn greenlee"
+            },
+            "tags": [
+                   "News"
+            ],
+            "date_published": "2022-07-08T15:14:23-04:00",
+            "date_modified": "2022-07-08T15:20:17-04:00"
+        },
+        {
             "id": "https://sound.risd.edu/synthesizers.html",
             "url": "https://sound.risd.edu/synthesizers.html",
             "title": "Synthesizers",
-            "summary": "This page in progress... Random*Source Beautiful Pieces of Outdated Technology Accompanying Eurorack modules ",
+            "summary": "This page in progress... Random*Source Beautiful Pieces of Outdated Technology Accompanying Eurorack modules",
             "content_html": "<p>This page in progress...</p>\n<h4>Serge Modular </h4>\n<p>Random*Source</p>\n<ul>\n<li><a href=\"https://randomsource.net/serge_4x4\" target=\"_blank\" rel=\"noopener noreferrer\">Dual PCO / P&amp;T 4U module</a></li>\n<li><a href=\"https://randomsource.net/serge_4x4\" target=\"_blank\" rel=\"noopener noreferrer\">Triple+ Waveshaper / New Ring 4U module</a></li>\n<li><a href=\"https://randomsource.net/serge_4x4\" target=\"_blank\" rel=\"noopener noreferrer\">Wave Multipliers / Resonant EQ 4U module</a></li>\n<li><a href=\"https://randomsource.net/serge_4x4\" target=\"_blank\" rel=\"noopener noreferrer\">External ADSR / Stereo Mixer 4U module</a></li>\n<li><a href=\"https://randomsource.net/serge_panels\" target=\"_blank\" rel=\"noopener noreferrer\">Mantra 4U panel</a></li>\n<li><a href=\"https://randomsource.net/serge_panels\" target=\"_blank\" rel=\"noopener noreferrer\">La Bestia II 4U panel</a></li>\n<li><a href=\"https://randomsource.net/serge_panels\" target=\"_blank\" rel=\"noopener noreferrer\">Edelweiss II 4U panel</a></li>\n<li><a href=\"https://randomsource.net/serge_panels\" target=\"_blank\" rel=\"noopener noreferrer\">Touch Activated Keyboard Sequencer 4U module (x2)</a></li>\n</ul>\n<p class=\"cover-title\">Beautiful Pieces of Outdated Technology</p>\n<ul>\n<li><a href=\"https://bpoot.company.site/CGS-Serge-Programmer-sequencer-for-modular-synthesizer-systems-p260159180\" target=\"_blank\" rel=\"noopener noreferrer\">Programmer 4U module</a></li>\n</ul>\n<p>Accompanying Eurorack modules</p>\n<ul>\n<li>Custom format jumbler panels (x2)</li>\n<li><a href=\"https://www.mordax.net/products/data\" target=\"_blank\" rel=\"noopener noreferrer\">Mordax Data (x2)</a></li>\n<li><a href=\"https://www.expert-sleepers.co.uk/es9.html\" target=\"_blank\" rel=\"noopener noreferrer\">Expert Sleepers ES-9 (x2)</a></li>\n</ul>\n<h4>GRP</h4>\n<ul>\n<li><a href=\"http://www.grpsynthesizer.it/index.php/en/products/grp-synthesizer-a4-en.html\" target=\"_blank\" rel=\"noopener noreferrer\">GRP A4 analog synthesizer</a> </li>\n<li><a href=\"http://www.grpsynthesizer.it/index.php/en/products/grp-synthesizer-v22-en.html\" target=\"_blank\" rel=\"noopener noreferrer\">GRP V22 analog vocoder</a></li>\n</ul>\n<p> </p>",
             "author": {
                 "name": "shawn greenlee"
@@ -33,7 +48,6 @@
                 "name": "shawn greenlee"
             },
             "tags": [
-                   "Use"
             ],
             "date_published": "2021-08-16T14:22:11-04:00",
             "date_modified": "2022-07-01T11:04:28-04:00"
@@ -48,7 +62,6 @@
                 "name": "shawn greenlee"
             },
             "tags": [
-                   "Resources"
             ],
             "date_published": "2021-08-13T08:12:00-04:00",
             "date_modified": "2022-07-01T10:42:31-04:00"
@@ -63,7 +76,6 @@
                 "name": "shawn greenlee"
             },
             "tags": [
-                   "Resources"
             ],
             "date_published": "2021-08-13T07:30:00-04:00",
             "date_modified": "2022-07-01T10:51:23-04:00"
@@ -92,7 +104,6 @@
                 "name": "shawn greenlee"
             },
             "tags": [
-                   "Spatial audio studio"
             ],
             "date_published": "2018-07-18T08:32:18-04:00",
             "date_modified": "2022-07-01T11:28:27-04:00"
@@ -102,15 +113,14 @@
             "url": "https://sound.risd.edu/classroom.html",
             "title": "Classroom support",
             "summary": "SRST has a dedicated seminar area which can be flexibly configured and supports audio-visual presentations independent from the 25.4 loudspeaker&hellip;",
-            "content_html": "<p>SRST has a dedicated seminar area which can be flexibly configured and supports audio-visual presentations independent from the 25.4 loudspeaker array.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://sound.risd.edu/media/posts/4/gallery/m11_seminar1-2.jpg\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://sound.risd.edu/media/posts/4/gallery/m11_seminar1-2-thumbnail.jpg\" alt=\"\" width=\"749\" height=\"421\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sound.risd.edu/media/posts/4/gallery/m11_seminar2-2.jpg\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://sound.risd.edu/media/posts/4/gallery/m11_seminar2-2-thumbnail.jpg\" alt=\"\" width=\"749\" height=\"421\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sound.risd.edu/media/posts/4/gallery/m11_seminar3-2.jpg\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://sound.risd.edu/media/posts/4/gallery/m11_seminar3-2-thumbnail.jpg\" alt=\"\" width=\"749\" height=\"421\"></a></figure>\n</div></div>\n<h4>Equipment</h4>\n<ul>\n<li><a href=\"https://pro.sony/ue_US/products/pro-displays/fw-65bz30j\" target=\"_blank\" rel=\"noopener noreferrer\">65\" Sony Bravia 4K TV display</a> FW-65BZ35F, wall mounted</li>\n<li><a href=\"https://pro.sony/ue_US/products/pro-displays/fw-75bz40h\" target=\"_blank\" rel=\"noopener noreferrer\">75\" Sony Bravia 4K TV display</a> FW-55BZ35F, cart mounted</li>\n<li><a href=\"https://www.genelec.com/studio-monitors/8000-series-studio-monitors/8050b-studio-monitor\" target=\"_blank\" rel=\"noopener noreferrer\">2 Genelec 8050B studio monitors</a>, wall mounted</li>\n<li><a href=\"https://www.crestron.com/Products/Video/All-In-One-Solutions/DigitalMedia-Presentation-Switchers/DMPS3-4K-150-C\" target=\"_blank\" rel=\"noopener noreferrer\">Crestron 4K DigitalMedia Presentation System DMPS3-4K-150-C </a></li>\n<li><a href=\"https://www.extron.com/product/dmp44lc\" target=\"_blank\" rel=\"noopener noreferrer\">Extron DMP 44LC, 4x4 digital matrix processor</a></li>\n<li><a href=\"https://tascam.com/us/product/model_16/top\" target=\"_blank\" rel=\"noopener noreferrer\">Tascam Model 16 Mixer / Interface / Recorder</a></li>\n<li>Video inputs, rack: HDMI, VGA</li>\n<li>Audio inputs, rack: HDMI, 3.5mm, balanced XLR (line-level)</li>\n<li>AV outputs, rack: HDMI, Assitive Listening System </li>\n</ul>\n<h4>Furniture</h4>\n<ul>\n<li>Dry-erase, magnetic presentation boards </li>\n<li><a href=\"https://www.hermanmiller.com/products/workspaces/collaborative-furniture/everywhere-tables/\" target=\"_blank\" rel=\"noopener noreferrer\">8 HermanMiller Flip-Top tables</a></li>\n<li><a href=\"https://www.hermanmiller.com/products/seating/stacking-chairs/caper-stacking-chair/\" target=\"_blank\" rel=\"noopener noreferrer\">18 HermanMiller Caper chairs</a></li>\n<li>14 Samson LTS50 laptop stands </li>\n<li>20 stools</li>\n</ul>",
+            "content_html": "<p>SRST has a dedicated seminar area which can be flexibly configured and supports audio-visual presentations independent from the 25.4 loudspeaker array.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://sound.risd.edu/media/posts/4/gallery/m11_seminar1-2.jpg\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://sound.risd.edu/media/posts/4/gallery/m11_seminar1-2-thumbnail.jpg\" alt=\"\" width=\"749\" height=\"421\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sound.risd.edu/media/posts/4/gallery/m11_seminar2-2.jpg\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://sound.risd.edu/media/posts/4/gallery/m11_seminar2-2-thumbnail.jpg\" alt=\"\" width=\"749\" height=\"421\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sound.risd.edu/media/posts/4/gallery/m11_seminar3-2.jpg\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://sound.risd.edu/media/posts/4/gallery/m11_seminar3-2-thumbnail.jpg\" alt=\"\" width=\"749\" height=\"421\"></a></figure>\n</div></div>\n<h4>Equipment</h4>\n<ul>\n<li><a href=\"https://pro.sony/ue_US/products/pro-displays/fw-65bz30j\" target=\"_blank\" rel=\"noopener noreferrer\">65\" Sony Bravia 4K TV display</a> FW-65BZ35F, wall mounted</li>\n<li><a href=\"https://pro.sony/ue_US/products/pro-displays/fw-75bz40h\" target=\"_blank\" rel=\"noopener noreferrer\">75\" Sony Bravia 4K TV display</a> FW-75BZ40H, cart mounted</li>\n<li><a href=\"https://www.genelec.com/studio-monitors/8000-series-studio-monitors/8050b-studio-monitor\" target=\"_blank\" rel=\"noopener noreferrer\">2 Genelec 8050B studio monitors</a>, wall mounted</li>\n<li><a href=\"https://www.crestron.com/Products/Video/All-In-One-Solutions/DigitalMedia-Presentation-Switchers/DMPS3-4K-150-C\" target=\"_blank\" rel=\"noopener noreferrer\">Crestron 4K DigitalMedia Presentation System DMPS3-4K-150-C </a></li>\n<li><a href=\"https://www.extron.com/product/dmp44lc\" target=\"_blank\" rel=\"noopener noreferrer\">Extron DMP 44LC, 4x4 digital matrix processor</a></li>\n<li><a href=\"https://tascam.com/us/product/model_16/top\" target=\"_blank\" rel=\"noopener noreferrer\">Tascam Model 16 Mixer / Interface / Recorder</a></li>\n<li>Video inputs, rack: HDMI, VGA</li>\n<li>Audio inputs, rack: HDMI, 3.5mm, balanced XLR (line-level)</li>\n<li>AV outputs, rack: HDMI, Assitive Listening System </li>\n</ul>\n<h4>Furniture</h4>\n<ul>\n<li>Dry-erase, magnetic presentation boards </li>\n<li><a href=\"https://www.hermanmiller.com/products/workspaces/collaborative-furniture/everywhere-tables/\" target=\"_blank\" rel=\"noopener noreferrer\">8 HermanMiller Flip-Top tables</a></li>\n<li><a href=\"https://www.hermanmiller.com/products/seating/stacking-chairs/caper-stacking-chair/\" target=\"_blank\" rel=\"noopener noreferrer\">18 HermanMiller Caper chairs</a></li>\n<li>14 Samson LTS50 laptop stands </li>\n<li>20 stools</li>\n</ul>",
             "author": {
                 "name": "shawn greenlee"
             },
             "tags": [
-                   "Resources"
             ],
             "date_published": "2018-07-18T08:31:41-04:00",
-            "date_modified": "2022-07-01T11:10:27-04:00"
+            "date_modified": "2022-07-08T15:22:47-04:00"
         }
     ]
 }

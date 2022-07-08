@@ -3,12 +3,38 @@
     <title>SRST</title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2022-07-01T11:43:22-04:00</updated>
+    <updated>2022-07-08T15:22:47-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
     <id>https://sound.risd.edu</id>
 
+    <entry>
+        <title>Job openings</title>
+        <author>
+            <name>shawn greenlee</name>
+        </author>
+        <link href="https://sound.risd.edu/job-openings.html"/>
+        <id>https://sound.risd.edu/job-openings.html</id>
+            <category term="News"/>
+
+        <updated>2022-07-08T15:20:17-04:00</updated>
+            <summary>
+                <![CDATA[
+                    The Studio for Research in Sound and Technology* (SRST) at RISD has two staff job searches happening this summer. Follow&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The Studio for Research in Sound and Technology* (SRST) at RISD has two staff job searches happening this summer.  Follow the links below for more info. and to apply.</p>
+<ul>
+<li><a href="https://risd.wd5.myworkdayjobs.com/en-US/RISD/job/Research-Fellow--Spatial-Audio-Studio_R-00906-1" target="_blank" rel="noopener noreferrer">Research Fellow, Spatial Audio</a> (full-time, 3-year appointment)</li>
+<li><a href="https://risd.wd5.myworkdayjobs.com/en-US/RISD/job/Technical-Assistant-III--Studio-for-Research-in-Sound-and-Technology_R-00937-1" target="_blank" rel="noopener noreferrer">Techincal Assistant III</a> (part-time, 20 hrs / week)</li>
+</ul>
+<p>* F.K.A. Spatial Audio Studio</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Synthesizers</title>
         <author>
@@ -20,7 +46,7 @@
         <updated>2022-07-01T11:43:22-04:00</updated>
             <summary>
                 <![CDATA[
-                    This page in progress... Random*Source Beautiful Pieces of Outdated Technology Accompanying Eurorack modules 
+                    This page in progress... Random*Source Beautiful Pieces of Outdated Technology Accompanying Eurorack modules
                 ]]>
             </summary>
         <content type="html">
@@ -64,7 +90,6 @@
         </author>
         <link href="https://sound.risd.edu/booking-and-use.html"/>
         <id>https://sound.risd.edu/booking-and-use.html</id>
-            <category term="Use"/>
 
         <updated>2022-07-01T11:04:28-04:00</updated>
             <summary>
@@ -115,7 +140,6 @@
         </author>
         <link href="https://sound.risd.edu/array.html"/>
         <id>https://sound.risd.edu/array.html</id>
-            <category term="Resources"/>
 
         <updated>2022-07-01T10:42:31-04:00</updated>
             <summary>
@@ -159,7 +183,6 @@
         </author>
         <link href="https://sound.risd.edu/software.html"/>
         <id>https://sound.risd.edu/software.html</id>
-            <category term="Resources"/>
 
         <updated>2022-07-01T10:51:23-04:00</updated>
             <summary>
@@ -232,7 +255,6 @@
         </author>
         <link href="https://sound.risd.edu/courses.html"/>
         <id>https://sound.risd.edu/courses.html</id>
-            <category term="Spatial audio studio"/>
 
         <updated>2022-07-01T11:28:27-04:00</updated>
             <summary>
@@ -264,9 +286,8 @@
         </author>
         <link href="https://sound.risd.edu/classroom.html"/>
         <id>https://sound.risd.edu/classroom.html</id>
-            <category term="Resources"/>
 
-        <updated>2022-07-01T11:10:27-04:00</updated>
+        <updated>2022-07-08T15:22:47-04:00</updated>
             <summary>
                 <![CDATA[
                     SRST has a dedicated seminar area which can be flexibly configured and supports audio-visual presentations independent from the 25.4 loudspeaker&hellip;
@@ -283,7 +304,7 @@
 <h4>Equipment</h4>
 <ul>
 <li><a href="https://pro.sony/ue_US/products/pro-displays/fw-65bz30j" target="_blank" rel="noopener noreferrer">65" Sony Bravia 4K TV display</a> FW-65BZ35F, wall mounted</li>
-<li><a href="https://pro.sony/ue_US/products/pro-displays/fw-75bz40h" target="_blank" rel="noopener noreferrer">75" Sony Bravia 4K TV display</a> FW-55BZ35F, cart mounted</li>
+<li><a href="https://pro.sony/ue_US/products/pro-displays/fw-75bz40h" target="_blank" rel="noopener noreferrer">75" Sony Bravia 4K TV display</a> FW-75BZ40H, cart mounted</li>
 <li><a href="https://www.genelec.com/studio-monitors/8000-series-studio-monitors/8050b-studio-monitor" target="_blank" rel="noopener noreferrer">2 Genelec 8050B studio monitors</a>, wall mounted</li>
 <li><a href="https://www.crestron.com/Products/Video/All-In-One-Solutions/DigitalMedia-Presentation-Switchers/DMPS3-4K-150-C" target="_blank" rel="noopener noreferrer">Crestron 4K DigitalMedia Presentation System DMPS3-4K-150-C </a></li>
 <li><a href="https://www.extron.com/product/dmp44lc" target="_blank" rel="noopener noreferrer">Extron DMP 44LC, 4x4 digital matrix processor</a></li>

@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "2cfb9d8f9c506862cbee5e198fae6312"
+        "md5": "e17bf6efc513f933174aa9b97bc0de9c"
     },
     {
         "path": "about.html",
         "type": "file",
-        "md5": "db4a2a440186fdb4f4549db82d395a0d"
+        "md5": "8149693730d49fc6d6229c4e0a91c551"
     },
     {
         "path": "amp",
@@ -17,12 +17,12 @@
     {
         "path": "/amp/about.html",
         "type": "file",
-        "md5": "b231a8ccfe408aa55d17c006d1f8e252"
+        "md5": "6afec66650cd4ef5007126155765d9d2"
     },
     {
         "path": "/amp/array.html",
         "type": "file",
-        "md5": "cfe55364090cd8aefca6b239f4e07f41"
+        "md5": "acc40878657c859d94e2824baa0aab42"
     },
     {
         "path": "amp/authors",
@@ -37,72 +37,57 @@
     {
         "path": "/amp/authors/shawn-greenlee/index.html",
         "type": "file",
-        "md5": "3c6ed0b7af264e81d34c6326ed718694"
+        "md5": "854154d01a34c34a293a2698d574f17c"
     },
     {
         "path": "/amp/booking-and-use.html",
         "type": "file",
-        "md5": "ac34ba971a27c8461ffe4f093f2ee381"
+        "md5": "18a7d66dece8d04d2e92c50fcdea7cb5"
     },
     {
         "path": "/amp/classroom.html",
         "type": "file",
-        "md5": "f251685d4ece68501a8790c4e6393665"
+        "md5": "61ac5b4bdf4e6041edfb98961a9d9656"
     },
     {
         "path": "/amp/courses.html",
         "type": "file",
-        "md5": "ffde00bf593747983d3633fa28948b8e"
+        "md5": "bebebcf738955ec06a07cb4f5b789120"
     },
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "9c48debdb168758ff443f53a06fb8c1b"
+        "md5": "d43555e162086cd540572959dec9c165"
     },
     {
-        "path": "amp/resources",
+        "path": "/amp/job-openings.html",
+        "type": "file",
+        "md5": "100cc31525c33db70524a6db001d2fff"
+    },
+    {
+        "path": "amp/news",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/resources/index.html",
+        "path": "/amp/news/index.html",
         "type": "file",
-        "md5": "9c2219ee27c7535bdf8ca2ac4867cc34"
+        "md5": "e58be5d4b8b3e61cf41304ba14a2e074"
     },
     {
         "path": "/amp/software.html",
         "type": "file",
-        "md5": "aa210460068cfb9d512221decb72e411"
-    },
-    {
-        "path": "amp/spatial-audio-studio",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amp/spatial-audio-studio/index.html",
-        "type": "file",
-        "md5": "38b6068a62c1deb9308be5ac702fd308"
+        "md5": "b5f859da79eca317dd9e50bf84ca1eff"
     },
     {
         "path": "/amp/synthesizers.html",
         "type": "file",
-        "md5": "2fed53e1d4ee9408b6f64b20627039ca"
-    },
-    {
-        "path": "amp/use",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amp/use/index.html",
-        "type": "file",
-        "md5": "ad1b86b03dea23b574511f917083cc1d"
+        "md5": "20620c2566b6925ed2f48f93cd6a6371"
     },
     {
         "path": "array.html",
         "type": "file",
-        "md5": "b4ad1f9596548a9dd91c17f639eca037"
+        "md5": "d9a98e71134ee818a08e93a05af3a7a0"
     },
     {
         "path": "assets",
@@ -132,692 +117,12 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "a4beb2d1a98ef85a7c4b498205380a71"
+        "md5": "f8f03c7061dcd727a310063890aace35"
     },
     {
         "path": "assets/dynamic",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "assets/dynamic/fonts",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "assets/dynamic/fonts/andadapro",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/andadapro/OFL.txt",
-        "type": "file",
-        "md5": "e70f7352f35ea95ba45aea28ad920f1e"
-    },
-    {
-        "path": "/assets/dynamic/fonts/andadapro/andadapro.woff2",
-        "type": "file",
-        "md5": "cd9a18c0091fbdda91c58e5ee6d4189b"
-    },
-    {
-        "path": "assets/dynamic/fonts/antonio",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/antonio/OFL.txt",
-        "type": "file",
-        "md5": "c40b9698bab48db7d8dccee50cb0325d"
-    },
-    {
-        "path": "/assets/dynamic/fonts/antonio/antonio.woff2",
-        "type": "file",
-        "md5": "89e5b1ffab54cc1dcdc1f3f32765c8f3"
-    },
-    {
-        "path": "assets/dynamic/fonts/archivonarrow",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/archivonarrow/OFL.txt",
-        "type": "file",
-        "md5": "74c3fe52f11acdf508364c75758ff13d"
-    },
-    {
-        "path": "/assets/dynamic/fonts/archivonarrow/archivonarrow.woff2",
-        "type": "file",
-        "md5": "76c9454b4780aafc5164dadd6842cb06"
-    },
-    {
-        "path": "assets/dynamic/fonts/asap",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/asap/OFL.txt",
-        "type": "file",
-        "md5": "fb334b28c7bafde146eef0c9703fc91d"
-    },
-    {
-        "path": "/assets/dynamic/fonts/asap/asap.woff2",
-        "type": "file",
-        "md5": "3fd9c65b640f4c127703f0e6055e0e9b"
-    },
-    {
-        "path": "assets/dynamic/fonts/besley",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/besley/OFL.txt",
-        "type": "file",
-        "md5": "adc88c7d9ac380667d17b2ede5b66b8d"
-    },
-    {
-        "path": "/assets/dynamic/fonts/besley/besley.woff2",
-        "type": "file",
-        "md5": "ed0a23855bb8e759b457bfeb6b66637e"
-    },
-    {
-        "path": "assets/dynamic/fonts/bigshouldersdisplay",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/bigshouldersdisplay/OFL.txt",
-        "type": "file",
-        "md5": "30f1cd52f3c38071e93c40e059cc3501"
-    },
-    {
-        "path": "/assets/dynamic/fonts/bigshouldersdisplay/bigshouldersdisplay.woff2",
-        "type": "file",
-        "md5": "178eadf94638178ae80cf831f3ee1db1"
-    },
-    {
-        "path": "assets/dynamic/fonts/bitter",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/bitter/OFL.txt",
-        "type": "file",
-        "md5": "fb8f3ef50580b3458803ccbddc3a7714"
-    },
-    {
-        "path": "/assets/dynamic/fonts/bitter/bitter.woff2",
-        "type": "file",
-        "md5": "42aa4cf96c792ccc05e738997369ba43"
-    },
-    {
-        "path": "assets/dynamic/fonts/brygada1918",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/brygada1918/OFL.txt",
-        "type": "file",
-        "md5": "a928bffe6271d9d5988756ce8cca186d"
-    },
-    {
-        "path": "/assets/dynamic/fonts/brygada1918/brygada1918.woff2",
-        "type": "file",
-        "md5": "7b62e6d1f6fe9155cb42b856bbff9d46"
-    },
-    {
-        "path": "assets/dynamic/fonts/cairo",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/cairo/OFL.txt",
-        "type": "file",
-        "md5": "a81af1f762d65aae385547bc9d408788"
-    },
-    {
-        "path": "/assets/dynamic/fonts/cairo/cairo.woff2",
-        "type": "file",
-        "md5": "aa8406b306c81c9e288582bd13742eea"
-    },
-    {
-        "path": "assets/dynamic/fonts/comfortaa",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/comfortaa/OFL.txt",
-        "type": "file",
-        "md5": "11bffad5e11322af2e8b54132a46330f"
-    },
-    {
-        "path": "/assets/dynamic/fonts/comfortaa/comfortaa.woff2",
-        "type": "file",
-        "md5": "83c78b2264fd61633d20be5e50517b50"
-    },
-    {
-        "path": "assets/dynamic/fonts/dancingscript",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/dancingscript/OFL.txt",
-        "type": "file",
-        "md5": "dab7b7fd17e174eb970b11d4bbd2f6c9"
-    },
-    {
-        "path": "/assets/dynamic/fonts/dancingscript/dancingscript.woff2",
-        "type": "file",
-        "md5": "15766ef8bf9e895dbf980698da0e70a6"
-    },
-    {
-        "path": "assets/dynamic/fonts/domine",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/domine/OFL.txt",
-        "type": "file",
-        "md5": "db53fd7beb74af614d18c9c42816e9ed"
-    },
-    {
-        "path": "/assets/dynamic/fonts/domine/domine.woff2",
-        "type": "file",
-        "md5": "761c2320a2d0d3c7c0ee002e2e77d022"
-    },
-    {
-        "path": "assets/dynamic/fonts/dosis",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/dosis/OFL.txt",
-        "type": "file",
-        "md5": "80afdaa11f4cb52fac54d4b9e42c15bd"
-    },
-    {
-        "path": "/assets/dynamic/fonts/dosis/dosis.woff2",
-        "type": "file",
-        "md5": "25e20da0071d5ab7f180642e4f373676"
-    },
-    {
-        "path": "assets/dynamic/fonts/exo",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/exo/OFL.txt",
-        "type": "file",
-        "md5": "1f84b062c78a827d089d6acb5df57f7d"
-    },
-    {
-        "path": "/assets/dynamic/fonts/exo/exo.woff2",
-        "type": "file",
-        "md5": "b1f18c6d875cc254c9f6a767953ae14f"
-    },
-    {
-        "path": "assets/dynamic/fonts/faustina",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/faustina/OFL.txt",
-        "type": "file",
-        "md5": "c1184f0f7d112cf886e3928147435acd"
-    },
-    {
-        "path": "/assets/dynamic/fonts/faustina/faustina.woff2",
-        "type": "file",
-        "md5": "04b9998db521028a4c80f6a1aa4d5490"
-    },
-    {
-        "path": "assets/dynamic/fonts/glory",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/glory/OFL.txt",
-        "type": "file",
-        "md5": "36c8b0a687b468f3ba6a29bbef67d242"
-    },
-    {
-        "path": "/assets/dynamic/fonts/glory/glory.woff2",
-        "type": "file",
-        "md5": "8d2397098a4c78a46357dea8495d8da5"
-    },
-    {
-        "path": "assets/dynamic/fonts/gluten",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/gluten/OFL.txt",
-        "type": "file",
-        "md5": "bf5165a941398c225a5dadca9d6540a1"
-    },
-    {
-        "path": "/assets/dynamic/fonts/gluten/gluten.woff2",
-        "type": "file",
-        "md5": "ec4bee90b601ea00a9cbbb2612574508"
-    },
-    {
-        "path": "assets/dynamic/fonts/heebo",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/heebo/OFL.txt",
-        "type": "file",
-        "md5": "53a657b47a5ea4458068a7f605b74245"
-    },
-    {
-        "path": "/assets/dynamic/fonts/heebo/heebo.woff2",
-        "type": "file",
-        "md5": "1170a73f33b46d6ad8ad92b7c994ee91"
-    },
-    {
-        "path": "assets/dynamic/fonts/jetbrainsmono",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/jetbrainsmono/OFL.txt",
-        "type": "file",
-        "md5": "a1e2b4ee144b7411099f5ce66626fe19"
-    },
-    {
-        "path": "/assets/dynamic/fonts/jetbrainsmono/jetbrainsmono.woff2",
-        "type": "file",
-        "md5": "5dee4f02e9fd0cb4218b6fe0d5eabe3f"
-    },
-    {
-        "path": "assets/dynamic/fonts/jura",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/jura/OFL.txt",
-        "type": "file",
-        "md5": "b67d39d2a1dcd880e517d479a17d0e83"
-    },
-    {
-        "path": "/assets/dynamic/fonts/jura/jura.woff2",
-        "type": "file",
-        "md5": "8e3b58b177ddaeddfb48987a72686c35"
-    },
-    {
-        "path": "assets/dynamic/fonts/karla",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/karla/OFL.txt",
-        "type": "file",
-        "md5": "c03112175cba2fe0f7bd1c5acf7820b5"
-    },
-    {
-        "path": "/assets/dynamic/fonts/karla/karla.woff2",
-        "type": "file",
-        "md5": "07c367e49f6f8c5d57dce0a149b89c9f"
-    },
-    {
-        "path": "assets/dynamic/fonts/kreon",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/kreon/OFL.txt",
-        "type": "file",
-        "md5": "1c6ce4077c0ee0b4956bf2fc853ac350"
-    },
-    {
-        "path": "/assets/dynamic/fonts/kreon/kreon.woff2",
-        "type": "file",
-        "md5": "d8e2bfb0471d17fca32cb776abd568d9"
-    },
-    {
-        "path": "assets/dynamic/fonts/lemonada",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/lemonada/OFL.txt",
-        "type": "file",
-        "md5": "68b33e57e99cb79e27d7b33e835fe103"
-    },
-    {
-        "path": "/assets/dynamic/fonts/lemonada/lemonada.woff2",
-        "type": "file",
-        "md5": "57985435b4165d9bbfa11cdab769ee65"
-    },
-    {
-        "path": "assets/dynamic/fonts/librefranklin",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/librefranklin/OFL.txt",
-        "type": "file",
-        "md5": "9607782cc25c86b1be4c4296b029621a"
-    },
-    {
-        "path": "/assets/dynamic/fonts/librefranklin/librefranklin.woff2",
-        "type": "file",
-        "md5": "13ca8de6173ccf82c7fbabdf0f0f38ca"
-    },
-    {
-        "path": "assets/dynamic/fonts/lora",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/lora/OFL.txt",
-        "type": "file",
-        "md5": "49a9c0df2e995c45c7060decebf925a7"
-    },
-    {
-        "path": "/assets/dynamic/fonts/lora/lora.woff2",
-        "type": "file",
-        "md5": "3bedd263af9e7c74f1ca844347fccf3e"
-    },
-    {
-        "path": "assets/dynamic/fonts/manrope",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/manrope/OFL.txt",
-        "type": "file",
-        "md5": "20ed27f4304142d166ffec29fc8d44ee"
-    },
-    {
-        "path": "/assets/dynamic/fonts/manrope/manrope.woff2",
-        "type": "file",
-        "md5": "c7f8c72054fb23b9debb7cbd9d4cc778"
-    },
-    {
-        "path": "assets/dynamic/fonts/manuale",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/manuale/OFL.txt",
-        "type": "file",
-        "md5": "7c8d787e1caf987dc0623a7c63152c84"
-    },
-    {
-        "path": "/assets/dynamic/fonts/manuale/manuale.woff2",
-        "type": "file",
-        "md5": "3396ef78abb2c7e39fb5057a69136750"
-    },
-    {
-        "path": "assets/dynamic/fonts/merriweathersans",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/merriweathersans/OFL.txt",
-        "type": "file",
-        "md5": "fa5095aa4ebba68fb94260b691a8cd3a"
-    },
-    {
-        "path": "/assets/dynamic/fonts/merriweathersans/merriweathersans.woff2",
-        "type": "file",
-        "md5": "c54cdaefdb92a4cadee5144dcdd5ae91"
-    },
-    {
-        "path": "assets/dynamic/fonts/montserrat",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/montserrat/OFL.txt",
-        "type": "file",
-        "md5": "5da468cc0e208e63aa009460017f214a"
-    },
-    {
-        "path": "/assets/dynamic/fonts/montserrat/montserrat.woff2",
-        "type": "file",
-        "md5": "0f01a9b8bcb49f01f0bfbe40c7a49bf5"
-    },
-    {
-        "path": "assets/dynamic/fonts/nunito",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/nunito/OFL.txt",
-        "type": "file",
-        "md5": "ee247edc304c64bb2135b9b6ec9a203f"
-    },
-    {
-        "path": "/assets/dynamic/fonts/nunito/nunito.woff2",
-        "type": "file",
-        "md5": "d93bb5174e406f92dd599d8543dc6dbf"
-    },
-    {
-        "path": "assets/dynamic/fonts/oswald",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/oswald/OFL.txt",
-        "type": "file",
-        "md5": "5865658fda5ebe123f99cc2e66b0ab36"
-    },
-    {
-        "path": "/assets/dynamic/fonts/oswald/oswald.woff2",
-        "type": "file",
-        "md5": "beb307327423fc8226ac128b7f4958e6"
-    },
-    {
-        "path": "assets/dynamic/fonts/petrona",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/petrona/OFL.txt",
-        "type": "file",
-        "md5": "70a892178a4bf2b1a0487b7eeedff3db"
-    },
-    {
-        "path": "/assets/dynamic/fonts/petrona/petrona.woff2",
-        "type": "file",
-        "md5": "8067bee1b2f68e2d4553debeb60e3241"
-    },
-    {
-        "path": "assets/dynamic/fonts/playfairdisplay",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/playfairdisplay/OFL.txt",
-        "type": "file",
-        "md5": "7a93feb9504dad0fbb76126306938e48"
-    },
-    {
-        "path": "/assets/dynamic/fonts/playfairdisplay/playfairdisplay.woff2",
-        "type": "file",
-        "md5": "f22921b6a5790b7e0fb0ae4533f33007"
-    },
-    {
-        "path": "assets/dynamic/fonts/publicsans",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/publicsans/OFL.txt",
-        "type": "file",
-        "md5": "bf7f680cffed2a4ed86f4a1e9cbaa156"
-    },
-    {
-        "path": "/assets/dynamic/fonts/publicsans/publicsans.woff2",
-        "type": "file",
-        "md5": "2d7f0e6692ce0fddbd44e17bbc2e6856"
-    },
-    {
-        "path": "assets/dynamic/fonts/quicksand",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/quicksand/OFL.txt",
-        "type": "file",
-        "md5": "cabc2d83f0db00f1c4d8ab4f5cd8a34d"
-    },
-    {
-        "path": "/assets/dynamic/fonts/quicksand/quicksand.woff2",
-        "type": "file",
-        "md5": "13132827a0582c0add56de257a9e0e7e"
-    },
-    {
-        "path": "assets/dynamic/fonts/raleway",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/raleway/OFL.txt",
-        "type": "file",
-        "md5": "7a36082ad889d5cafbe77a63a5ebb75f"
-    },
-    {
-        "path": "/assets/dynamic/fonts/raleway/raleway.woff2",
-        "type": "file",
-        "md5": "6d2e91f3fab4e2b9abab842c0f2a9c2e"
-    },
-    {
-        "path": "assets/dynamic/fonts/redhatmono",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/redhatmono/OFL.txt",
-        "type": "file",
-        "md5": "4e12889aeaf3741b27b1e993bd074114"
-    },
-    {
-        "path": "/assets/dynamic/fonts/redhatmono/redhatmono.woff2",
-        "type": "file",
-        "md5": "6f32d1ad7d3062ef5991a05fbb6c1414"
-    },
-    {
-        "path": "assets/dynamic/fonts/robotoslab",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/robotoslab/LICENSE.txt",
-        "type": "file",
-        "md5": "d273d63619c9aeaf15cdaf76422c4f87"
-    },
-    {
-        "path": "/assets/dynamic/fonts/robotoslab/robotoslab.woff2",
-        "type": "file",
-        "md5": "b8f4de068355b20c3a04b5430c8449e1"
-    },
-    {
-        "path": "assets/dynamic/fonts/rubik",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/rubik/OFL.txt",
-        "type": "file",
-        "md5": "465a6f9dae7c84eb10c0c2f8b1fa0f0d"
-    },
-    {
-        "path": "/assets/dynamic/fonts/rubik/rubik.woff2",
-        "type": "file",
-        "md5": "9c68c59f1417b48c98813086147b88da"
-    },
-    {
-        "path": "assets/dynamic/fonts/ruda",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/ruda/OFL.txt",
-        "type": "file",
-        "md5": "13f05ca05d3c9f9b4fbd96883cad7126"
-    },
-    {
-        "path": "/assets/dynamic/fonts/ruda/ruda.woff2",
-        "type": "file",
-        "md5": "02baed434fe48a2d48a2c81eaeff37ee"
-    },
-    {
-        "path": "assets/dynamic/fonts/smoochsans",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/smoochsans/OFL.txt",
-        "type": "file",
-        "md5": "76c852107cfa104f1961345aa9e09417"
-    },
-    {
-        "path": "/assets/dynamic/fonts/smoochsans/smoochsans.woff2",
-        "type": "file",
-        "md5": "2c440972348842900f76e85b5f515cbf"
-    },
-    {
-        "path": "assets/dynamic/fonts/sourcecodepro",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/sourcecodepro/OFL.txt",
-        "type": "file",
-        "md5": "e1ae8d1bb2b159747fcf334d17edd3cb"
-    },
-    {
-        "path": "/assets/dynamic/fonts/sourcecodepro/sourcecodepro.woff2",
-        "type": "file",
-        "md5": "b0917c280bd2a563ac641ca6e5735ff0"
-    },
-    {
-        "path": "assets/dynamic/fonts/spartan",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/spartan/OFL.txt",
-        "type": "file",
-        "md5": "2dc669d4bea609388792a3d6f49bdd01"
-    },
-    {
-        "path": "/assets/dynamic/fonts/spartan/spartan.woff2",
-        "type": "file",
-        "md5": "422cb946f206232fd0731674cd0e4271"
-    },
-    {
-        "path": "assets/dynamic/fonts/urbanist",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/urbanist/OFL.txt",
-        "type": "file",
-        "md5": "5f5deb3eb051ffc55d1ac0e3badf55d2"
-    },
-    {
-        "path": "/assets/dynamic/fonts/urbanist/urbanist.woff2",
-        "type": "file",
-        "md5": "d18b77186360d55d91e66408051fd028"
-    },
-    {
-        "path": "assets/dynamic/fonts/yanonekaffeesatz",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/yanonekaffeesatz/OFL.txt",
-        "type": "file",
-        "md5": "56be20ad31dd38c7cc48732f64e740e1"
-    },
-    {
-        "path": "/assets/dynamic/fonts/yanonekaffeesatz/yanonekaffeesatz.woff2",
-        "type": "file",
-        "md5": "b7b5f16c96a3fe65f8de28b7244106ad"
     },
     {
         "path": "assets/js",
@@ -867,22 +172,22 @@
     {
         "path": "/assets/svg/bg-01.svg",
         "type": "file",
-        "md5": "fa6db1e8eac249d05446193687acd55e"
+        "md5": "ad7e001413dc8011d788eb5696873bf6"
     },
     {
         "path": "/assets/svg/gallery-icons-dark.svg",
         "type": "file",
-        "md5": "452594838e74a3df91ad4a20cf53c831"
+        "md5": "0c70735af58190b563b2940b7a07007a"
     },
     {
         "path": "/assets/svg/gallery-icons-light.svg",
         "type": "file",
-        "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
     },
     {
         "path": "/assets/svg/svg-map.svg",
         "type": "file",
-        "md5": "83546e415354cb55f493a08855a79499"
+        "md5": "110a8f59aedbc48e510de6ac9cd85778"
     },
     {
         "path": "authors",
@@ -897,37 +202,42 @@
     {
         "path": "/authors/shawn-greenlee/index.html",
         "type": "file",
-        "md5": "eba1be76ace78c489f6c2b23aa556fba"
+        "md5": "bc8bb1268b0f09b11aeb8e2f73acd2dd"
     },
     {
         "path": "booking-and-use.html",
         "type": "file",
-        "md5": "1d26ba0b2b5a2bf633ca1b02be801529"
+        "md5": "fbfca8807ccdde6066876a4f35c05c98"
     },
     {
         "path": "classroom.html",
         "type": "file",
-        "md5": "f052392b5feea9240e11dc461e7824a1"
+        "md5": "737a278676f89c27ee51cd74a0fce28c"
     },
     {
         "path": "courses.html",
         "type": "file",
-        "md5": "73d3388ef854be4839e55adf9d76a018"
+        "md5": "66176b197d145f2a411f94f73b65df21"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "4daee90750b424c5ec27629481ac4cc0"
+        "md5": "3968aeac5d959e9d34d1ed64d5ab5f5b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "0949f5eb66cee95a07c2a0a5679c0fe6"
+        "md5": "9f4be190fb88235437569360b146988f"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "8edf3b7b8303ff71255940159fb78243"
+        "md5": "b2eeb9fa85f300428b6fba1dab07dd79"
+    },
+    {
+        "path": "job-openings.html",
+        "type": "file",
+        "md5": "10153ef99bcc56f2ecd96e57e7ed19c2"
     },
     {
         "path": "media",
@@ -997,7 +307,7 @@
     {
         "path": "/media/files/m11_speakerNumbering.pdf",
         "type": "file",
-        "md5": "0e984472d251afa5b26190f9358e4505"
+        "md5": "456ac933d39de754e7b2cd3349305309"
     },
     {
         "path": "/media/files/mix1.png",
@@ -1160,14 +470,14 @@
         "md5": "995e70db92878a79bba5c7767ab0bca0"
     },
     {
-        "path": "resources",
+        "path": "news",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/resources/index.html",
+        "path": "/news/index.html",
         "type": "file",
-        "md5": "2897a3190a58b62ae30b524acaf65e49"
+        "md5": "3890fdd05783cc1d07ccd89957e85889"
     },
     {
         "path": "robots.txt",
@@ -1177,7 +487,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "82a7ad8ff76b9a1e542898117e776409"
+        "md5": "2f9ea2d4faf87b6323f91fd062bad6bd"
     },
     {
         "path": "sitemap.xsl",
@@ -1187,31 +497,11 @@
     {
         "path": "software.html",
         "type": "file",
-        "md5": "966010bdc11dce51cf7461a8e553d92a"
-    },
-    {
-        "path": "spatial-audio-studio",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/spatial-audio-studio/index.html",
-        "type": "file",
-        "md5": "afd0e431c211f786b7a3d190c18db183"
+        "md5": "fded7daecab8a80542ec8dfcda0a792e"
     },
     {
         "path": "synthesizers.html",
         "type": "file",
-        "md5": "db177012befa4afba115cbb2677a09b1"
-    },
-    {
-        "path": "use",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/use/index.html",
-        "type": "file",
-        "md5": "57811432a68428f6f11a986bcfc63f5c"
+        "md5": "f9d406adeb50e81d7d7218d97009b4b1"
     }
 ]
