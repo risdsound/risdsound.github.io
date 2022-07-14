@@ -37,7 +37,7 @@
     {
         "path": "/amp/authors/shawn-greenlee/index.html",
         "type": "file",
-        "md5": "854154d01a34c34a293a2698d574f17c"
+        "md5": "57f75e05af2d25b990e764c460b407d8"
     },
     {
         "path": "/amp/booking-and-use.html",
@@ -62,7 +62,7 @@
     {
         "path": "/amp/job-openings.html",
         "type": "file",
-        "md5": "5c9e6cab87f4b2846ed3d9a525828d3a"
+        "md5": "462148d9d38734cf01a8a3d794881d7e"
     },
     {
         "path": "amp/news",
@@ -72,7 +72,7 @@
     {
         "path": "/amp/news/index.html",
         "type": "file",
-        "md5": "e58be5d4b8b3e61cf41304ba14a2e074"
+        "md5": "135a4e423c2ee4684d33adc3a2257d04"
     },
     {
         "path": "/amp/software.html",
@@ -222,12 +222,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "0678ab15222013ccfb0e3fde2d2611e0"
+        "md5": "09d32f84efda10ce0a9ae109e80323fc"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "c368f4b77447dd4ba25ff8ef34c192b2"
+        "md5": "76b0c7d26dd281c9f211a2f7794bbc84"
     },
     {
         "path": "index.html",
@@ -237,7 +237,7 @@
     {
         "path": "job-openings.html",
         "type": "file",
-        "md5": "3f3898a64737f512df036bfd305a05f9"
+        "md5": "836813d819fe44159e82cb9e919dab2d"
     },
     {
         "path": "media",
@@ -487,7 +487,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "2d6044f07d403be3703072bf05fd13d6"
+        "md5": "5ba13e0c4cf99dd17683f9c4cb8a1878"
     },
     {
         "path": "sitemap.xsl",
