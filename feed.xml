@@ -3,12 +3,43 @@
     <title>SRST</title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2022-07-14T14:38:47-04:00</updated>
+    <updated>2022-07-17T00:21:40-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
     <id>https://sound.risd.edu</id>
 
+    <entry>
+        <title>foafx released</title>
+        <author>
+            <name>shawn greenlee</name>
+        </author>
+        <link href="https://sound.risd.edu/foafx-released.html"/>
+        <id>https://sound.risd.edu/foafx-released.html</id>
+            <category term="News"/>
+
+        <updated>2022-07-17T00:21:40-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Version 1 of foafx has been released. foafx is a command line tool for applying spatially positioned audio effects to first&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Version 1 of <strong>foafx</strong> has been released.  <strong> </strong></p>
+<p><strong>foafx </strong>is a command line tool for applying spatially positioned audio effects to first order ambisonic sound files. It is written with <a href="https://www.elementary.audio/" target="_blank" rel="nofollow noopener noreferrer">Elementary</a>, a JavaScript framework for writing audio applications, and uses its <a href="https://www.elementary.audio/docs/packages/offline-renderer" target="_blank" rel="nofollow noopener noreferrer">offline-renderer</a> package.</p>
+<p>During the Spring 2022 semester, our team worked with Nick Thompson from Elementary Audio to explore and prototype software tools for spatial audio.</p>
+<p>The source code and additional information is available on GitHub at <a href="https://github.com/risdsound/foafx?utm_source=elemaudio&amp;utm_medium=email&amp;utm_campaign=introducing-foafx-spatial-audio-effects-in" target="_blank" rel="noopener noreferrer">https://github.com/risdsound/foafx</a>. The tool itself is available on the command line from <a href="https://www.npmjs.com/package/foafx" target="_blank" rel="noopener noreferrer">npm.</a></p>
+<p>Install from your terminal and read the help files with the below commands:</p>
+<div class="codehilite">
+<pre><code>npm install -g foafx
+foafx --help
+</code></pre>
+</div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Job openings</title>
         <author>

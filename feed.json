@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sound.risd.edu/foafx-released.html",
+            "url": "https://sound.risd.edu/foafx-released.html",
+            "title": "foafx released",
+            "summary": "Version 1 of foafx has been released. foafx is a command line tool for applying spatially positioned audio effects to first&hellip;",
+            "content_html": "<p>Version 1 of <strong>foafx</strong> has been released.  <strong> </strong></p>\n<p><strong>foafx </strong>is a command line tool for applying spatially positioned audio effects to first order ambisonic sound files. It is written with <a href=\"https://www.elementary.audio/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Elementary</a>, a JavaScript framework for writing audio applications, and uses its <a href=\"https://www.elementary.audio/docs/packages/offline-renderer\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">offline-renderer</a> package.</p>\n<p>During the Spring 2022 semester, our team worked with Nick Thompson from Elementary Audio to explore and prototype software tools for spatial audio.</p>\n<p>The source code and additional information is available on GitHub at <a href=\"https://github.com/risdsound/foafx?utm_source=elemaudio&amp;utm_medium=email&amp;utm_campaign=introducing-foafx-spatial-audio-effects-in\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/risdsound/foafx</a>. The tool itself is available on the command line from <a href=\"https://www.npmjs.com/package/foafx\" target=\"_blank\" rel=\"noopener noreferrer\">npm.</a></p>\n<p>Install from your terminal and read the help files with the below commands:</p>\n<div class=\"codehilite\">\n<pre><code>npm install -g foafx\nfoafx --help\n</code></pre>\n</div>\n<p> </p>",
+            "author": {
+                "name": "shawn greenlee"
+            },
+            "tags": [
+                   "News"
+            ],
+            "date_published": "2022-07-17T00:11:32-04:00",
+            "date_modified": "2022-07-17T00:21:40-04:00"
+        },
+        {
             "id": "https://sound.risd.edu/job-openings.html",
             "url": "https://sound.risd.edu/job-openings.html",
             "title": "Job openings",
