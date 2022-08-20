@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "f39f6aa0de46cfc1c82e098825aab049"
+        "md5": "05fb084d1ed7927bcd4b387e00d186f2"
     },
     {
         "path": "about.html",
         "type": "file",
-        "md5": "dbd3326f4aa81887b2a14afcb15986da"
+        "md5": "71d05859688af28b577566bc4ad0ed60"
     },
     {
         "path": "amp",
@@ -17,12 +17,12 @@
     {
         "path": "/amp/about.html",
         "type": "file",
-        "md5": "85933cc503720f38ccdbb3ca93272ea8"
+        "md5": "df32a24b582e6cc1b647f21944c96beb"
     },
     {
         "path": "/amp/array.html",
         "type": "file",
-        "md5": "faece8e11d53a99c482389142701036a"
+        "md5": "82be325bd5fe3aba6b657ed38cfaa189"
     },
     {
         "path": "amp/authors",
@@ -37,37 +37,37 @@
     {
         "path": "/amp/authors/shawn-greenlee/index.html",
         "type": "file",
-        "md5": "b1b73e69cff682c4565532f3228b978b"
+        "md5": "791c22d98055f41c014267ecd18261c2"
     },
     {
         "path": "/amp/booking-and-use.html",
         "type": "file",
-        "md5": "9798cb5e94c12b0b74e2d67645e14d2f"
+        "md5": "9ec457e597808799eb61ff1e75a183b5"
     },
     {
         "path": "/amp/classroom.html",
         "type": "file",
-        "md5": "08eb52737530d2e69adcf42bd32137c0"
+        "md5": "6e187db22e38a6725af9e1a100de316e"
     },
     {
         "path": "/amp/courses.html",
         "type": "file",
-        "md5": "1f881e34ec20525f9f444372cc3d21f7"
+        "md5": "e444068c1ddc603e44e67f4191479a57"
     },
     {
         "path": "/amp/foafx-released.html",
         "type": "file",
-        "md5": "791d1836e6da6570ed1fade350e5af13"
+        "md5": "050c7902ec0d44184b1967eff5c95fa7"
     },
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "28b7176ed513887ed0b94346dc8c5ee9"
+        "md5": "514f12d327d016c9aa854306fb9a7fc5"
     },
     {
         "path": "/amp/job-openings.html",
         "type": "file",
-        "md5": "f87a9bca06d39d20fa6b490a7d966a48"
+        "md5": "11c570e272e67a8e1e17279f0a1a6aca"
     },
     {
         "path": "amp/news",
@@ -77,22 +77,22 @@
     {
         "path": "/amp/news/index.html",
         "type": "file",
-        "md5": "9e44084c0f01d501a49ac0418b32edd8"
+        "md5": "def740e78f2093a101f3f93063bee129"
     },
     {
         "path": "/amp/software.html",
         "type": "file",
-        "md5": "bcbd0a6546da50fdaefcb2bd1783ed44"
+        "md5": "2cb50576b2e81d87ba423e322e8cd136"
     },
     {
         "path": "/amp/synthesizers.html",
         "type": "file",
-        "md5": "e0c08af2a698333ecfc96aace9abca13"
+        "md5": "8faa5cb8927856af61bb635cbf0a5714"
     },
     {
         "path": "array.html",
         "type": "file",
-        "md5": "cfec7b886e3096c17f52ea196b1e7cf2"
+        "md5": "ea206c3cabcad77af6adf73e5a305cc5"
     },
     {
         "path": "assets",
@@ -207,22 +207,22 @@
     {
         "path": "/authors/shawn-greenlee/index.html",
         "type": "file",
-        "md5": "e6a53b39373d2281bc45268916b85a62"
+        "md5": "ec70fe6899dcf2ed8326b22d606da69c"
     },
     {
         "path": "booking-and-use.html",
         "type": "file",
-        "md5": "ac08b05a2b8147a995f6b8e191b204e8"
+        "md5": "a11b45a700040e25817a631005a1f9d3"
     },
     {
         "path": "classroom.html",
         "type": "file",
-        "md5": "df6359f61cfa2ddfd6c674291e505e4a"
+        "md5": "7599c08e115545a2d724c42a69d330f7"
     },
     {
         "path": "courses.html",
         "type": "file",
-        "md5": "4b542dd1d64f982406cfd752a3449ef6"
+        "md5": "16baf9dd0eb2f9d4ee1c066127c9bc35"
     },
     {
         "path": "feed.json",
@@ -237,17 +237,17 @@
     {
         "path": "foafx-released.html",
         "type": "file",
-        "md5": "4f8e94e61b76e9a9dcb71f22a98e237c"
+        "md5": "6655c1acdcb39275c9fc2f552d032f08"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "7fb066a505cfe21c2f823d64db8a11e5"
+        "md5": "14364a1a7c869a1a91bfb6c0bbddd774"
     },
     {
         "path": "job-openings.html",
         "type": "file",
-        "md5": "8be2f8a46893dafcb6f433af2dee1974"
+        "md5": "c1e905073f17690d833e32a37ed82177"
     },
     {
         "path": "media",
@@ -487,7 +487,7 @@
     {
         "path": "/news/index.html",
         "type": "file",
-        "md5": "164554a5bfa1136b6b20420b1fde4995"
+        "md5": "13d51b380e44fa8750bb34eb014c06a5"
     },
     {
         "path": "robots.txt",
@@ -507,11 +507,11 @@
     {
         "path": "software.html",
         "type": "file",
-        "md5": "db345b9ddff298e9f415d2e173cc7582"
+        "md5": "59e67d4f918562792b38b6951ae45446"
     },
     {
         "path": "synthesizers.html",
         "type": "file",
-        "md5": "e81a087bbbe99ed73a087881892fe55d"
+        "md5": "d4029fc595b68cb94b328559d7f3aaae"
     }
 ]
