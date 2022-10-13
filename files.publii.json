@@ -47,7 +47,7 @@
     {
         "path": "/amp/camille-norment-in-conversation.html",
         "type": "file",
-        "md5": "2d55d0beb82e0cb0bb2d0edf542feebd"
+        "md5": "b8a4fd8ec26600486d88f2e2ac8b89e6"
     },
     {
         "path": "/amp/classroom.html",
@@ -67,7 +67,7 @@
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "fca0cd7ceeb5d17869be06335a81069f"
+        "md5": "c6d89a76cffa3fe7f4928313556924b7"
     },
     {
         "path": "/amp/job-openings.html",
@@ -97,7 +97,7 @@
     {
         "path": "/amp/page/2/index.html",
         "type": "file",
-        "md5": "de69cd085f587bd3d637ebd197b5a0df"
+        "md5": "1e9418ba2aafe836b11d5c7aec2b77eb"
     },
     {
         "path": "/amp/software.html",
@@ -237,7 +237,7 @@
     {
         "path": "camille-norment-in-conversation.html",
         "type": "file",
-        "md5": "d663cbbe31d2c96ca1bfc7c35c60b167"
+        "md5": "c6c83bcd495dd146f595c78c805fae4a"
     },
     {
         "path": "classroom.html",
@@ -252,12 +252,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "2cde7c6b06d122a26c3e01151844765b"
+        "md5": "186e9356b2247ae148fa0d26610fd6ee"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "07404c5b88517099d2927da729f2298b"
+        "md5": "ebb8ac869f139d1988a194c5cbba8afa"
     },
     {
         "path": "foafx-released.html",
@@ -267,7 +267,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "22a8b6cf86c93741c2620756b5c85715"
+        "md5": "8f0d9f82161a0a10c09d949ac3af6086"
     },
     {
         "path": "job-openings.html",
@@ -557,7 +557,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "00bfe24eef0bae1caf5ff949d381ddff"
+        "md5": "92f6e5ba50e00c2c1cf51da126a3aa0f"
     },
     {
         "path": "robots.txt",
@@ -567,7 +567,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "2040f48997c7bd47e7b6f6a332b3e38d"
+        "md5": "c5d66a1d005ce71651c323ebf3e446ff"
     },
     {
         "path": "sitemap.xsl",
