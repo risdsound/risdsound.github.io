@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "05fb084d1ed7927bcd4b387e00d186f2"
+        "md5": "5cb7998aaadd4999bea971630979fd34"
     },
     {
         "path": "about.html",
         "type": "file",
-        "md5": "71d05859688af28b577566bc4ad0ed60"
+        "md5": "a44a33bd4b9e6ba51d52a3f31b4da4bf"
     },
     {
         "path": "amp",
@@ -17,12 +17,12 @@
     {
         "path": "/amp/about.html",
         "type": "file",
-        "md5": "df32a24b582e6cc1b647f21944c96beb"
+        "md5": "9793652446a19ac50a8f37a40f44426b"
     },
     {
         "path": "/amp/array.html",
         "type": "file",
-        "md5": "82be325bd5fe3aba6b657ed38cfaa189"
+        "md5": "11a38fbc73e3b08207d13357486ae9d1"
     },
     {
         "path": "amp/authors",
@@ -37,37 +37,42 @@
     {
         "path": "/amp/authors/shawn-greenlee/index.html",
         "type": "file",
-        "md5": "791c22d98055f41c014267ecd18261c2"
+        "md5": "03e1fde79a9fa8d1d16867c7cc8f5626"
     },
     {
         "path": "/amp/booking-and-use.html",
         "type": "file",
-        "md5": "9ec457e597808799eb61ff1e75a183b5"
+        "md5": "089ee732508129ba83bf0c61df34844c"
+    },
+    {
+        "path": "/amp/camille-norment-in-conversation.html",
+        "type": "file",
+        "md5": "2d55d0beb82e0cb0bb2d0edf542feebd"
     },
     {
         "path": "/amp/classroom.html",
         "type": "file",
-        "md5": "6e187db22e38a6725af9e1a100de316e"
+        "md5": "ab506258a5bf312b0e9b7317351b20d9"
     },
     {
         "path": "/amp/courses.html",
         "type": "file",
-        "md5": "e444068c1ddc603e44e67f4191479a57"
+        "md5": "e76559328a89b71a9efa98f05ddb78dc"
     },
     {
         "path": "/amp/foafx-released.html",
         "type": "file",
-        "md5": "050c7902ec0d44184b1967eff5c95fa7"
+        "md5": "07d6d56e104d71abba88b65f00518424"
     },
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "514f12d327d016c9aa854306fb9a7fc5"
+        "md5": "fca0cd7ceeb5d17869be06335a81069f"
     },
     {
         "path": "/amp/job-openings.html",
         "type": "file",
-        "md5": "11c570e272e67a8e1e17279f0a1a6aca"
+        "md5": "9a9d5f24ed5e7b19394e165c732030c0"
     },
     {
         "path": "amp/news",
@@ -77,22 +82,37 @@
     {
         "path": "/amp/news/index.html",
         "type": "file",
-        "md5": "def740e78f2093a101f3f93063bee129"
+        "md5": "f6df68e79147c7a9a1d041d7a89fbfdf"
+    },
+    {
+        "path": "amp/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/page/2/index.html",
+        "type": "file",
+        "md5": "de69cd085f587bd3d637ebd197b5a0df"
     },
     {
         "path": "/amp/software.html",
         "type": "file",
-        "md5": "2cb50576b2e81d87ba423e322e8cd136"
+        "md5": "f1367db49465086d1167dd24539f5205"
     },
     {
         "path": "/amp/synthesizers.html",
         "type": "file",
-        "md5": "8faa5cb8927856af61bb635cbf0a5714"
+        "md5": "4d3478a0da485e6873d4dc016336843a"
     },
     {
         "path": "array.html",
         "type": "file",
-        "md5": "ea206c3cabcad77af6adf73e5a305cc5"
+        "md5": "ea010184d223c2aa9d379baf08fc9186"
     },
     {
         "path": "assets",
@@ -122,7 +142,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "f8f03c7061dcd727a310063890aace35"
+        "md5": "21d3758ab367e04d8812fd0b7e690196"
     },
     {
         "path": "assets/dynamic",
@@ -207,47 +227,52 @@
     {
         "path": "/authors/shawn-greenlee/index.html",
         "type": "file",
-        "md5": "ec70fe6899dcf2ed8326b22d606da69c"
+        "md5": "ab3f0b9b424a7db503146b85655da064"
     },
     {
         "path": "booking-and-use.html",
         "type": "file",
-        "md5": "a11b45a700040e25817a631005a1f9d3"
+        "md5": "e307d323409b077bf0c19e4c502ce416"
+    },
+    {
+        "path": "camille-norment-in-conversation.html",
+        "type": "file",
+        "md5": "d663cbbe31d2c96ca1bfc7c35c60b167"
     },
     {
         "path": "classroom.html",
         "type": "file",
-        "md5": "7599c08e115545a2d724c42a69d330f7"
+        "md5": "57e862d2666b7fd53a8cd82a8990f5a4"
     },
     {
         "path": "courses.html",
         "type": "file",
-        "md5": "16baf9dd0eb2f9d4ee1c066127c9bc35"
+        "md5": "aeabe6d52b7b1813ff48910f66018be1"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "2e9777a5254ec981bdbcbd941899d8fe"
+        "md5": "2cde7c6b06d122a26c3e01151844765b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "b1fd65eb0d48189bb27c287d61b1a3b2"
+        "md5": "07404c5b88517099d2927da729f2298b"
     },
     {
         "path": "foafx-released.html",
         "type": "file",
-        "md5": "6655c1acdcb39275c9fc2f552d032f08"
+        "md5": "31a35e4a3e0ec7169aed5806e41f2faa"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "14364a1a7c869a1a91bfb6c0bbddd774"
+        "md5": "22a8b6cf86c93741c2620756b5c85715"
     },
     {
         "path": "job-openings.html",
         "type": "file",
-        "md5": "c1e905073f17690d833e32a37ed82177"
+        "md5": "27ec341fdcc83c8b416187cc1a23cdc8"
     },
     {
         "path": "media",
@@ -440,6 +465,36 @@
         "md5": "00d41106ef4b63c7b86554c0c4c19be5"
     },
     {
+        "path": "media/posts/23",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/23/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/23/gallery/CamilleNorment-thumbnail.jpg",
+        "type": "file",
+        "md5": "8498082564dc336b48b9a6d547e193a3"
+    },
+    {
+        "path": "/media/posts/23/gallery/CamilleNorment.jpg",
+        "type": "file",
+        "md5": "b38647acff3661286e690ab633d52554"
+    },
+    {
+        "path": "/media/posts/23/gallery/CamilleNorment2-thumbnail.jpg",
+        "type": "file",
+        "md5": "38a3b2edc928f0f4f950a11b031b6acd"
+    },
+    {
+        "path": "/media/posts/23/gallery/CamilleNorment2.jpg",
+        "type": "file",
+        "md5": "a3db93a75700eae5c02942c73c01e813"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -487,7 +542,22 @@
     {
         "path": "/news/index.html",
         "type": "file",
-        "md5": "13d51b380e44fa8750bb34eb014c06a5"
+        "md5": "298837c63c3e94e7c84dc4adc63571e1"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "00bfe24eef0bae1caf5ff949d381ddff"
     },
     {
         "path": "robots.txt",
@@ -497,7 +567,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "0ae66982b27448984b07526811fd167b"
+        "md5": "2040f48997c7bd47e7b6f6a332b3e38d"
     },
     {
         "path": "sitemap.xsl",
@@ -507,11 +577,11 @@
     {
         "path": "software.html",
         "type": "file",
-        "md5": "59e67d4f918562792b38b6951ae45446"
+        "md5": "cad60a96d73e77528b0cbd4c3ad8e24b"
     },
     {
         "path": "synthesizers.html",
         "type": "file",
-        "md5": "d4029fc595b68cb94b328559d7f3aaae"
+        "md5": "c6de5f84d6272c47a2e92ab61695945e"
     }
 ]

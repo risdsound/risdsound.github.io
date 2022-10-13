@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "SRST",
+    "title": "STUDIO FOR RESEARCH IN SOUND &amp; TECHNOLOGY",
     "description": "",
     "home_page_url": "https://sound.risd.edu",
     "feed_url": "https://sound.risd.edu/feed.json",
@@ -9,6 +9,21 @@
         "name": "shawn greenlee"
     },
     "items": [
+        {
+            "id": "https://sound.risd.edu/camille-norment-in-conversation.html",
+            "url": "https://sound.risd.edu/camille-norment-in-conversation.html",
+            "title": "Camille Norment in conversation: October 17",
+            "summary": "Monday, October 17, 6:30pm Come to the Fleet Library for an evening with celebrated multimedia artist Camille Norment in conversation with Alex Chechile (Fellow,&hellip;",
+            "content_html": "<div>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://sound.risd.edu/media/posts/23/gallery/CamilleNorment.jpg\" data-size=\"3333x4167\"><img loading=\"lazy\" src=\"https://sound.risd.edu/media/posts/23/gallery/CamilleNorment-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sound.risd.edu/media/posts/23/gallery/CamilleNorment2.jpg\" data-size=\"3333x4167\"><img loading=\"lazy\" src=\"https://sound.risd.edu/media/posts/23/gallery/CamilleNorment2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"960\"></a></figure>\n</div></div>\nMonday, October 17, 6:30pm</div>\n<div> </div>\n<div class=\"\">Come to the <strong class=\"\">Fleet Library</strong> for an evening with celebrated multimedia artist <strong class=\"\">Camille Norment</strong> in conversation with Alex Chechile (Fellow, Studio for Research in Sound and Technology) and Jess Myers (Assistant Professor, Architecture Department) co-presented by Fleet Library, Studio for Research in Sound and Technology, and the Architecture Department. Open to all. </div>\n<div> </div>\n<div class=\"\"><a href=\"https://involved.risd.edu/event/8475710\" class=\"\">https://involved.risd.edu/event/8475710</a></div>\n<div class=\"\"><br class=\"\"><a href=\"https://www.diaart.org/exhibition/exhibitions-projects/camille-norment-plexus-exhibition\" class=\"\">https://www.diaart.org/exhibition/exhibitions-projects/camille-norment-plexus-exhibition</a></div>\n<div> </div>\n<div> </div>",
+            "author": {
+                "name": "shawn greenlee"
+            },
+            "tags": [
+                   "News"
+            ],
+            "date_published": "2022-10-12T23:18:33-04:00",
+            "date_modified": "2022-10-12T23:25:31-04:00"
+        },
         {
             "id": "https://sound.risd.edu/foafx-released.html",
             "url": "https://sound.risd.edu/foafx-released.html",
@@ -98,7 +113,7 @@
         {
             "id": "https://sound.risd.edu/about.html",
             "url": "https://sound.risd.edu/about.html",
-            "title": "Studio for Research in Sound and Technology",
+            "title": "About",
             "summary": "The Studio for Research in Sound and Technology (SRST) at the Rhode Island School of Design (RISD) provides an environment&hellip;",
             "content_html": "<p><span style=\"font-weight: 400;\">The Studio for Research in Sound and Technology (SRST) at the Rhode Island School of Design (RISD) provides an environment for inquiry, technological innovation, and education in the sonic arts and sound design.  It serves as a hub for experimentation in design with and of sound, facilitating research in sonic interaction, experience, composition, and performance. The center hosts a selection of courses where sound or music technology factors as a central medium or subject of study, offers its own educational programs, and produces events that facilitate exchange among practitioners and the public.</span></p>\n<p>Founded in 2018 as the Spatial Audio Studio and located at 15 Westminster St., SRST features an acoustically treated room with a 25.4 channel sound system, flexible seminar/work area, extensive digital composition tools, and a selection of hardware synthesizers including Serge modular and GRP. </p>\n<p>The sound system consists of an array of 25 independently-addressable, full-range speakers in a hemisphere configuration, accompanied by 4 subwoofers. The primary way of working with the array is through audio programming languages and digital audio software. A central computer workstation joined with audio network interfaces provides connectivity throughout the room, I/O expansion, and the main interface for composition, design, and performance. A variety of spatial audio techniques are supported, including high order ambisonics, vector-based amplitude panning, multichannel surround, and 3D audio for immersive media.  In 2022-23, the Studio will complete the design and build of a Wave Field Synthesis system.</p>\n<p>SRST provides an essential resource for curriculum and builds capacity for advanced sound studies and research engaging computation and audio technologies. The Studio supports a selection of courses offered by the interdisciplinary <a href=\"https://ctc.risd.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">Computation, Technology, and Culture concentration (CTC)</a> and the graduate <a href=\"https://dm.risd.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">Department of Digital + Media (D+M)</a>. As a workspace for projects, the Studio can be reserved by students enrolled in associated courses. As a site for research, the studio provides a hub for  faculty, staff, and student experimentation with outcomes aimed at peer review publication, presentation/performance at conferences and festivals, and other forms of exposition. Further, the studio hosts visiting lectures and workshops by designers, artists, and technologists; and provides a fresh context for exchanges with industry and cross-institutional research networks.<br><br><em>Please direct inquires to the Faculty Lead, Shawn Greenlee: sgreenle *at* risd *dot* edu</em></p>\n<p> </p>\n<p><br><br></p>",
             "author": {
@@ -107,7 +122,7 @@
             "tags": [
             ],
             "date_published": "2019-03-12T22:15:52-04:00",
-            "date_modified": "2022-07-11T12:35:39-04:00"
+            "date_modified": "2022-10-12T23:41:35-04:00"
         },
         {
             "id": "https://sound.risd.edu/courses.html",

@@ -6,7 +6,7 @@
 </url>
 <url>
 <loc>https://sound.risd.edu/about.html</loc>
-<lastmod>2022-07-11T12:35:39-04:00</lastmod>
+<lastmod>2022-10-12T23:41:35-04:00</lastmod>
 </url>
 <url>
 <loc>https://sound.risd.edu/array.html</loc>
@@ -27,6 +27,18 @@
 <url>
 <loc>https://sound.risd.edu/booking-and-use.html</loc>
 <lastmod>2022-07-08T16:42:46-04:00</lastmod>
+</url>
+<url>
+<loc>https://sound.risd.edu/camille-norment-in-conversation.html</loc>
+<lastmod>2022-10-12T23:25:31-04:00</lastmod>
+<image:image>
+<image:loc>https://sound.risd.edu/media/posts/23/gallery/CamilleNorment-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sound.risd.edu/media/posts/23/gallery/CamilleNorment2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://sound.risd.edu/classroom.html</loc>
@@ -58,6 +70,9 @@
 </url>
 <url>
 <loc>https://sound.risd.edu/news/</loc>
+</url>
+<url>
+<loc>https://sound.risd.edu/page/2/</loc>
 </url>
 <url>
 <loc>https://sound.risd.edu/software.html</loc>

@@ -1,14 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>SRST</title>
+    <title>STUDIO FOR RESEARCH IN SOUND &amp; TECHNOLOGY</title>
     <link href="https://sound.risd.edu/feed.xml" rel="self" />
     <link href="https://sound.risd.edu" />
-    <updated>2022-07-17T00:21:40-04:00</updated>
+    <updated>2022-10-12T23:41:35-04:00</updated>
     <author>
         <name>shawn greenlee</name>
     </author>
     <id>https://sound.risd.edu</id>
 
+    <entry>
+        <title>Camille Norment in conversation: October 17</title>
+        <author>
+            <name>shawn greenlee</name>
+        </author>
+        <link href="https://sound.risd.edu/camille-norment-in-conversation.html"/>
+        <id>https://sound.risd.edu/camille-norment-in-conversation.html</id>
+            <category term="News"/>
+
+        <updated>2022-10-12T23:25:31-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Monday, October 17, 6:30pm Come to the Fleet Library for an evening with celebrated multimedia artist Camille Norment in conversation with Alex Chechile (Fellow,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://sound.risd.edu/media/posts/23/gallery/CamilleNorment.jpg" data-size="3333x4167"><img loading="lazy" src="https://sound.risd.edu/media/posts/23/gallery/CamilleNorment-thumbnail.jpg" alt="" width="768" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://sound.risd.edu/media/posts/23/gallery/CamilleNorment2.jpg" data-size="3333x4167"><img loading="lazy" src="https://sound.risd.edu/media/posts/23/gallery/CamilleNorment2-thumbnail.jpg" alt="" width="768" height="960"></a></figure>
+</div></div>
+Monday, October 17, 6:30pm</div>
+<div> </div>
+<div class="">Come to the <strong class="">Fleet Library</strong> for an evening with celebrated multimedia artist <strong class="">Camille Norment</strong> in conversation with Alex Chechile (Fellow, Studio for Research in Sound and Technology) and Jess Myers (Assistant Professor, Architecture Department) co-presented by Fleet Library, Studio for Research in Sound and Technology, and the Architecture Department. Open to all. </div>
+<div> </div>
+<div class=""><a href="https://involved.risd.edu/event/8475710" class="">https://involved.risd.edu/event/8475710</a></div>
+<div class=""><br class=""><a href="https://www.diaart.org/exhibition/exhibitions-projects/camille-norment-plexus-exhibition" class="">https://www.diaart.org/exhibition/exhibitions-projects/camille-norment-plexus-exhibition</a></div>
+<div> </div>
+<div> </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>foafx released</title>
         <author>
@@ -255,14 +288,14 @@ foafx --help
         </content>
     </entry>
     <entry>
-        <title>Studio for Research in Sound and Technology</title>
+        <title>About</title>
         <author>
             <name>shawn greenlee</name>
         </author>
         <link href="https://sound.risd.edu/about.html"/>
         <id>https://sound.risd.edu/about.html</id>
 
-        <updated>2022-07-11T12:35:39-04:00</updated>
+        <updated>2022-10-12T23:41:35-04:00</updated>
             <summary>
                 <![CDATA[
                     The Studio for Research in Sound and Technology (SRST) at the Rhode Island School of Design (RISD) provides an environment&hellip;
