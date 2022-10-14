@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "376af9900d311b6192c2406740bf664d"
+        "md5": "eee6c4f22f4af4248c19b42f341d07d2"
     },
     {
         "path": "about.html",
         "type": "file",
-        "md5": "701ef561332e87297ddc3a8fd5fb86c0"
+        "md5": "b43c883666d102c501b0b48465d91c84"
     },
     {
         "path": "amp",
@@ -57,7 +57,7 @@
     {
         "path": "/amp/courses.html",
         "type": "file",
-        "md5": "e76559328a89b71a9efa98f05ddb78dc"
+        "md5": "3e0b712e9d4c60808b853fa40b542f74"
     },
     {
         "path": "/amp/foafx-released.html",
@@ -112,7 +112,7 @@
     {
         "path": "array.html",
         "type": "file",
-        "md5": "c675673abe985b9e1195bc5ea3426744"
+        "md5": "6b1a7e9ea017ac71587e517c513b79b3"
     },
     {
         "path": "assets",
@@ -227,52 +227,52 @@
     {
         "path": "/authors/shawn-greenlee/index.html",
         "type": "file",
-        "md5": "2da2e331ae53346416e41390e01c0e89"
+        "md5": "4794b48d196850a201606a3b98c8ce1e"
     },
     {
         "path": "booking-and-use.html",
         "type": "file",
-        "md5": "d79fb1684f986b3e626d0c88a0dd0237"
+        "md5": "5b3d42f42a3aaf8914c38375b1c92f6c"
     },
     {
         "path": "camille-norment-in-conversation.html",
         "type": "file",
-        "md5": "3ee9f30c123cbd88d768838d89225efd"
+        "md5": "275bfb31e45f983f14d260b91e83f733"
     },
     {
         "path": "classroom.html",
         "type": "file",
-        "md5": "997aa8147d79412a7aefbe8f5162d18f"
+        "md5": "905e454b5cfd6d90017b121668f395f1"
     },
     {
         "path": "courses.html",
         "type": "file",
-        "md5": "f6035b773598462ee0a63b68ed0aaecf"
+        "md5": "fe1c3f3e991c515d01b2d12b2a7ea13e"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "186e9356b2247ae148fa0d26610fd6ee"
+        "md5": "90097439bda5f3be43e13615539865d3"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "ebb8ac869f139d1988a194c5cbba8afa"
+        "md5": "a0290623f06a259ef8c2fec0c86be92a"
     },
     {
         "path": "foafx-released.html",
         "type": "file",
-        "md5": "8c3a2b8ab1b31d449bfa3e901782bd74"
+        "md5": "208d202cd0ad7d39e91b3603243d2c84"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "bd9c1ea33cf18c2a5501269ffebd5c74"
+        "md5": "77985721bb587be57350edc6cb8014d6"
     },
     {
         "path": "job-openings.html",
         "type": "file",
-        "md5": "58d27cfaea04a3327a6c277efab1dc8d"
+        "md5": "3837046b410d3357f9420fae5a4c736e"
     },
     {
         "path": "media",
@@ -335,6 +335,16 @@
         "md5": "4313b60d53b637bba4be89f571745a77"
     },
     {
+        "path": "/media/files/github-icon.png",
+        "type": "file",
+        "md5": "6f679b6e592dc14510fe07ea62513990"
+    },
+    {
+        "path": "/media/files/instagram-icon.png",
+        "type": "file",
+        "md5": "edf4d6622934663c18436605e10b3876"
+    },
+    {
         "path": "/media/files/kvant-green-1024x1024.png",
         "type": "file",
         "md5": "0d79ac73baf74bf1933699d7232f945d"
@@ -363,6 +373,11 @@
         "path": "/media/files/olivia2.png",
         "type": "file",
         "md5": "80e9a3cf2f2e336499312878b219cbe9"
+    },
+    {
+        "path": "/media/files/soundcloud-icon.png",
+        "type": "file",
+        "md5": "b26c0cd67db6ee39d2c77984fe807934"
     },
     {
         "path": "/media/files/speak1.png",
@@ -542,7 +557,7 @@
     {
         "path": "/news/index.html",
         "type": "file",
-        "md5": "42bcfa7eb7c366e0faf0a9c2ec1c4e1e"
+        "md5": "f797bb85755f93c2029a65789d9e97cb"
     },
     {
         "path": "page",
@@ -557,7 +572,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "604d91efa0a2c6661c0db140fd777e65"
+        "md5": "dfa84f59a6c0b366350614b0ed39af2a"
     },
     {
         "path": "robots.txt",
@@ -567,7 +582,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "c5d66a1d005ce71651c323ebf3e446ff"
+        "md5": "3220ce0f0f7246237e12275ea109c9e4"
     },
     {
         "path": "sitemap.xsl",
@@ -577,11 +592,11 @@
     {
         "path": "software.html",
         "type": "file",
-        "md5": "f8da2b2dce2b93859cf3d5df83a71ebb"
+        "md5": "139214cdb3114d4fe8bf12bb3430938d"
     },
     {
         "path": "synthesizers.html",
         "type": "file",
-        "md5": "7932de61003b3378b5e589b0de43f6c8"
+        "md5": "eb0ed97e8029cf7f4f552c002c67594a"
     }
 ]
