@@ -2,12 +2,17 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "eee6c4f22f4af4248c19b42f341d07d2"
+        "md5": "b359ca8263d1e95a86141ffabb65c7ac"
+    },
+    {
+        "path": "RISD_Seal-600px-BLACK.png",
+        "type": "file",
+        "md5": "4537ea4b607b53328fa9e963988a36d2"
     },
     {
         "path": "about.html",
         "type": "file",
-        "md5": "b43c883666d102c501b0b48465d91c84"
+        "md5": "212602a2fb3b88072f15d6f5ff647b04"
     },
     {
         "path": "amp",
@@ -112,7 +117,7 @@
     {
         "path": "array.html",
         "type": "file",
-        "md5": "6b1a7e9ea017ac71587e517c513b79b3"
+        "md5": "dd61a129689d5b58160daa9c4ddadbab"
     },
     {
         "path": "assets",
@@ -227,27 +232,27 @@
     {
         "path": "/authors/shawn-greenlee/index.html",
         "type": "file",
-        "md5": "4794b48d196850a201606a3b98c8ce1e"
+        "md5": "f1cf44b423ad1e24b141e977ccd825f1"
     },
     {
         "path": "booking-and-use.html",
         "type": "file",
-        "md5": "5b3d42f42a3aaf8914c38375b1c92f6c"
+        "md5": "e257e676bf1f1ee1db84d3dbd602c66e"
     },
     {
         "path": "camille-norment-in-conversation.html",
         "type": "file",
-        "md5": "275bfb31e45f983f14d260b91e83f733"
+        "md5": "20dcc928d060f59c2e066d09516b6634"
     },
     {
         "path": "classroom.html",
         "type": "file",
-        "md5": "905e454b5cfd6d90017b121668f395f1"
+        "md5": "891fdc35f1ca762b4669ca3cf777d298"
     },
     {
         "path": "courses.html",
         "type": "file",
-        "md5": "fe1c3f3e991c515d01b2d12b2a7ea13e"
+        "md5": "d3ed01eb8c7995ab0ca65464259ff8ee"
     },
     {
         "path": "feed.json",
@@ -262,17 +267,17 @@
     {
         "path": "foafx-released.html",
         "type": "file",
-        "md5": "208d202cd0ad7d39e91b3603243d2c84"
+        "md5": "6747bd4f27e77d07973503d2354c8878"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "77985721bb587be57350edc6cb8014d6"
+        "md5": "f77996df0ebe4f389ff14bcce75fa0ba"
     },
     {
         "path": "job-openings.html",
         "type": "file",
-        "md5": "3837046b410d3357f9420fae5a4c736e"
+        "md5": "7da04446d115d9a02565133401bb58b4"
     },
     {
         "path": "media",
@@ -333,6 +338,11 @@
         "path": "/media/files/8zollhinten.jpg",
         "type": "file",
         "md5": "4313b60d53b637bba4be89f571745a77"
+    },
+    {
+        "path": "/media/files/RISD_Seal-600px-BLACK.png",
+        "type": "file",
+        "md5": "4537ea4b607b53328fa9e963988a36d2"
     },
     {
         "path": "/media/files/github-icon.png",
@@ -550,6 +560,31 @@
         "md5": "995e70db92878a79bba5c7767ab0bca0"
     },
     {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/RISD_Seal-600px-BLACK.png",
+        "type": "file",
+        "md5": "4537ea4b607b53328fa9e963988a36d2"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/RISD_Seal-600px-BLACK-sm.png",
+        "type": "file",
+        "md5": "f5c3fe6016e4e4ad5a76ed4c2a76f3c5"
+    },
+    {
+        "path": "/media/website/responsive/RISD_Seal-600px-BLACK-xs.png",
+        "type": "file",
+        "md5": "bceec69a404ee63cec4d51da3b45654c"
+    },
+    {
         "path": "news",
         "type": "directory",
         "md5": false
@@ -557,7 +592,7 @@
     {
         "path": "/news/index.html",
         "type": "file",
-        "md5": "f797bb85755f93c2029a65789d9e97cb"
+        "md5": "d92d81de7889c22a9378d69763727ea4"
     },
     {
         "path": "page",
@@ -572,7 +607,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "dfa84f59a6c0b366350614b0ed39af2a"
+        "md5": "d4cf6d940525e6e043dd843b3d09db64"
     },
     {
         "path": "robots.txt",
@@ -592,11 +627,11 @@
     {
         "path": "software.html",
         "type": "file",
-        "md5": "139214cdb3114d4fe8bf12bb3430938d"
+        "md5": "c9cd704398b847dc8e9ab5958bcf727a"
     },
     {
         "path": "synthesizers.html",
         "type": "file",
-        "md5": "eb0ed97e8029cf7f4f552c002c67594a"
+        "md5": "333a7237acc0b55289b6622714386b07"
     }
 ]
