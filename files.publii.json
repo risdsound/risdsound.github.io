@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "b359ca8263d1e95a86141ffabb65c7ac"
+        "md5": "404352c7c7e484f6abf0d76c624d3a8d"
     },
     {
         "path": "RISD_Seal-600px-BLACK.png",
@@ -10,9 +10,19 @@
         "md5": "4537ea4b607b53328fa9e963988a36d2"
     },
     {
+        "path": "RISD_Seal.png",
+        "type": "file",
+        "md5": "430b881563170ec1765fbf932d86b4a6"
+    },
+    {
+        "path": "RISD_Seal5.png",
+        "type": "file",
+        "md5": "430b881563170ec1765fbf932d86b4a6"
+    },
+    {
         "path": "about.html",
         "type": "file",
-        "md5": "212602a2fb3b88072f15d6f5ff647b04"
+        "md5": "3e38068e39674194405f239aebab51fd"
     },
     {
         "path": "amp",
@@ -117,7 +127,7 @@
     {
         "path": "array.html",
         "type": "file",
-        "md5": "dd61a129689d5b58160daa9c4ddadbab"
+        "md5": "0a084e7c1dc7a58bc0a741e2e8d2aec6"
     },
     {
         "path": "assets",
@@ -147,7 +157,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "4d64639668769f03f05a63c671d6e3a7"
+        "md5": "1d22d1c19671d19c0b2af67926223f09"
     },
     {
         "path": "assets/dynamic",
@@ -232,27 +242,27 @@
     {
         "path": "/authors/shawn-greenlee/index.html",
         "type": "file",
-        "md5": "f1cf44b423ad1e24b141e977ccd825f1"
+        "md5": "571a6c67c958f9fa707fe91da46b7b09"
     },
     {
         "path": "booking-and-use.html",
         "type": "file",
-        "md5": "e257e676bf1f1ee1db84d3dbd602c66e"
+        "md5": "7dbaa0482d01ea2414bf05c7d349d614"
     },
     {
         "path": "camille-norment-in-conversation.html",
         "type": "file",
-        "md5": "20dcc928d060f59c2e066d09516b6634"
+        "md5": "8abb37b04904b736356400a1e7019098"
     },
     {
         "path": "classroom.html",
         "type": "file",
-        "md5": "891fdc35f1ca762b4669ca3cf777d298"
+        "md5": "b179293f23aff40e34d9ca166b12af43"
     },
     {
         "path": "courses.html",
         "type": "file",
-        "md5": "d3ed01eb8c7995ab0ca65464259ff8ee"
+        "md5": "fa0db78e6a08e069b9695696328e8e26"
     },
     {
         "path": "feed.json",
@@ -267,17 +277,17 @@
     {
         "path": "foafx-released.html",
         "type": "file",
-        "md5": "6747bd4f27e77d07973503d2354c8878"
+        "md5": "472dd50499a4a78a2accf8264552cc2e"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f77996df0ebe4f389ff14bcce75fa0ba"
+        "md5": "317057c0770b21650ac83fcf3f2a5b67"
     },
     {
         "path": "job-openings.html",
         "type": "file",
-        "md5": "7da04446d115d9a02565133401bb58b4"
+        "md5": "7d95cf31183db2a4603710195dbc9b4c"
     },
     {
         "path": "media",
@@ -343,6 +353,16 @@
         "path": "/media/files/RISD_Seal-600px-BLACK.png",
         "type": "file",
         "md5": "4537ea4b607b53328fa9e963988a36d2"
+    },
+    {
+        "path": "/media/files/RISD_Seal.png",
+        "type": "file",
+        "md5": "430b881563170ec1765fbf932d86b4a6"
+    },
+    {
+        "path": "/media/files/RISD_Seal5.png",
+        "type": "file",
+        "md5": "430b881563170ec1765fbf932d86b4a6"
     },
     {
         "path": "/media/files/github-icon.png",
@@ -560,31 +580,6 @@
         "md5": "995e70db92878a79bba5c7767ab0bca0"
     },
     {
-        "path": "media/website",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/website/RISD_Seal-600px-BLACK.png",
-        "type": "file",
-        "md5": "4537ea4b607b53328fa9e963988a36d2"
-    },
-    {
-        "path": "media/website/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/website/responsive/RISD_Seal-600px-BLACK-sm.png",
-        "type": "file",
-        "md5": "f5c3fe6016e4e4ad5a76ed4c2a76f3c5"
-    },
-    {
-        "path": "/media/website/responsive/RISD_Seal-600px-BLACK-xs.png",
-        "type": "file",
-        "md5": "bceec69a404ee63cec4d51da3b45654c"
-    },
-    {
         "path": "news",
         "type": "directory",
         "md5": false
@@ -592,7 +587,7 @@
     {
         "path": "/news/index.html",
         "type": "file",
-        "md5": "d92d81de7889c22a9378d69763727ea4"
+        "md5": "9c08908e26f76e0226a937b4f3a1bc4f"
     },
     {
         "path": "page",
@@ -607,7 +602,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "d4cf6d940525e6e043dd843b3d09db64"
+        "md5": "26e60359fd265760e1b9a7a750469fef"
     },
     {
         "path": "robots.txt",
@@ -627,11 +622,11 @@
     {
         "path": "software.html",
         "type": "file",
-        "md5": "c9cd704398b847dc8e9ab5958bcf727a"
+        "md5": "6b144af64f2234feae242f1f3ead738c"
     },
     {
         "path": "synthesizers.html",
         "type": "file",
-        "md5": "333a7237acc0b55289b6622714386b07"
+        "md5": "759d44b8250b172443be812a473b578c"
     }
 ]
