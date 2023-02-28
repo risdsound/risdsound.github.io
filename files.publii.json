@@ -82,7 +82,7 @@
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "0996854a87cf92748442d19a89ed6f3a"
+        "md5": "d3c7eda0367264efa7cdbdb73c4cfb46"
     },
     {
         "path": "amp/news",
@@ -107,12 +107,12 @@
     {
         "path": "/amp/page/2/index.html",
         "type": "file",
-        "md5": "e4d867d8d0a57a7ff68d66affd44cfd8"
+        "md5": "6644fdb56b63f6e663035ce46e7bde6a"
     },
     {
         "path": "/amp/phill-niblock-katherine-liberovskaya.html",
         "type": "file",
-        "md5": "eec6e3fcce9c808ecc7daf3da837456e"
+        "md5": "0101d31c72bdd105df475c531ee90d3e"
     },
     {
         "path": "/amp/software.html",
@@ -267,12 +267,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "a5b2914df8f30d72b640e934f64af135"
+        "md5": "c6ec216230f3bc0173c1a6151dba51f3"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "e95f3d58b534a58fca0b2617518f7192"
+        "md5": "b6a3d9e554da10fee79e8d6830fd55e0"
     },
     {
         "path": "foafx-released.html",
@@ -282,7 +282,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "980e0e6af5de0f1107f8b3f506fc4fa4"
+        "md5": "c0f17ca24a660200a8980336c9a2c1d1"
     },
     {
         "path": "media",
@@ -667,12 +667,12 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "2a0a87769d681c1e94ff81bdafffb818"
+        "md5": "e95160b2ce5dce29a1951e6931fc8c88"
     },
     {
         "path": "phill-niblock-katherine-liberovskaya.html",
         "type": "file",
-        "md5": "3d3f40acf429092b4752514523a65b63"
+        "md5": "ae2373627f46bea95b4fe3d099e169af"
     },
     {
         "path": "robots.txt",
@@ -682,7 +682,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "7e7d637d41e33eeb45432a7300622786"
+        "md5": "a94db9c67d53a775ff8f6d12babafcd9"
     },
     {
         "path": "sitemap.xsl",
