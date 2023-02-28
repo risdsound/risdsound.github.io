@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "9fdda6b9407c0ac74f8af0c9406837e9"
+        "md5": "876f179e4d1e9132bf2947f52e4cdf81"
     },
     {
         "path": "RISD_Seal-600px-BLACK.png",
@@ -22,7 +22,7 @@
     {
         "path": "about.html",
         "type": "file",
-        "md5": "d141603c75bfc7b2e0a28dae564f0662"
+        "md5": "d7280c93df4af40baadb6ff11657ef5c"
     },
     {
         "path": "amp",
@@ -32,12 +32,12 @@
     {
         "path": "/amp/about.html",
         "type": "file",
-        "md5": "9793652446a19ac50a8f37a40f44426b"
+        "md5": "651e36547df30fd563448d166d581c55"
     },
     {
         "path": "/amp/array.html",
         "type": "file",
-        "md5": "11a38fbc73e3b08207d13357486ae9d1"
+        "md5": "dbdc856e6c16c47f6ce411032caba45e"
     },
     {
         "path": "amp/authors",
@@ -52,42 +52,37 @@
     {
         "path": "/amp/authors/shawn-greenlee/index.html",
         "type": "file",
-        "md5": "03e1fde79a9fa8d1d16867c7cc8f5626"
+        "md5": "dda31b96fd6d1fa9f19dfbf11835c358"
     },
     {
         "path": "/amp/booking-and-use.html",
         "type": "file",
-        "md5": "089ee732508129ba83bf0c61df34844c"
+        "md5": "d57e2f55b31c7801f462f1488eebfd8f"
     },
     {
         "path": "/amp/camille-norment-in-conversation.html",
         "type": "file",
-        "md5": "b8a4fd8ec26600486d88f2e2ac8b89e6"
+        "md5": "527d3842fab355ca8dc9398037b3e000"
     },
     {
         "path": "/amp/classroom.html",
         "type": "file",
-        "md5": "ab506258a5bf312b0e9b7317351b20d9"
+        "md5": "4e8ad6169fc6563cc36d707fef5bbdbf"
     },
     {
         "path": "/amp/courses.html",
         "type": "file",
-        "md5": "3e0b712e9d4c60808b853fa40b542f74"
+        "md5": "844f2a96d8f1f2df08fe0d130bbca011"
     },
     {
         "path": "/amp/foafx-released.html",
         "type": "file",
-        "md5": "07d6d56e104d71abba88b65f00518424"
+        "md5": "dc3fdd611e44d9c2eab4bb9a22993a59"
     },
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "c6d89a76cffa3fe7f4928313556924b7"
-    },
-    {
-        "path": "/amp/job-openings.html",
-        "type": "file",
-        "md5": "9a9d5f24ed5e7b19394e165c732030c0"
+        "md5": "0996854a87cf92748442d19a89ed6f3a"
     },
     {
         "path": "amp/news",
@@ -97,7 +92,7 @@
     {
         "path": "/amp/news/index.html",
         "type": "file",
-        "md5": "f6df68e79147c7a9a1d041d7a89fbfdf"
+        "md5": "b7de8d91299cb19bc1ae486654dd2bf8"
     },
     {
         "path": "amp/page",
@@ -112,22 +107,27 @@
     {
         "path": "/amp/page/2/index.html",
         "type": "file",
-        "md5": "1e9418ba2aafe836b11d5c7aec2b77eb"
+        "md5": "e4d867d8d0a57a7ff68d66affd44cfd8"
+    },
+    {
+        "path": "/amp/phill-niblock-katherine-liberovskaya.html",
+        "type": "file",
+        "md5": "eec6e3fcce9c808ecc7daf3da837456e"
     },
     {
         "path": "/amp/software.html",
         "type": "file",
-        "md5": "f1367db49465086d1167dd24539f5205"
+        "md5": "25a68dc7d6c3de92336804f130ac6adf"
     },
     {
         "path": "/amp/synthesizers.html",
         "type": "file",
-        "md5": "4d3478a0da485e6873d4dc016336843a"
+        "md5": "f5747dcf231ec1089bf4476261d2d0b3"
     },
     {
         "path": "array.html",
         "type": "file",
-        "md5": "b8248f6f8a08503bec5efc0782a5d2c6"
+        "md5": "d7dfd9a4c926d2a4ff0466a0bc8e2b0d"
     },
     {
         "path": "assets",
@@ -242,52 +242,47 @@
     {
         "path": "/authors/shawn-greenlee/index.html",
         "type": "file",
-        "md5": "b7b56713b6ec6cd14513fa4d81d3ceb2"
+        "md5": "f9740c6932d875a7b00025ba40f7d1cc"
     },
     {
         "path": "booking-and-use.html",
         "type": "file",
-        "md5": "c9ec10c8098663ca3c96585b2aa8c93d"
+        "md5": "6c80c635f2ff2b3fb45bde1e76c0609c"
     },
     {
         "path": "camille-norment-in-conversation.html",
         "type": "file",
-        "md5": "70c7ac109a4326334549e8c71b66ad49"
+        "md5": "fa24fbff645f0bf11c9f52caa38421a8"
     },
     {
         "path": "classroom.html",
         "type": "file",
-        "md5": "9960bd4d4ff1c4c19a082b785d424e1d"
+        "md5": "ad0d81fc23b059d5c2f2ae79c6a05596"
     },
     {
         "path": "courses.html",
         "type": "file",
-        "md5": "88b6f5d466da1014cb4ec71a72c9ab67"
+        "md5": "6a7dec37596fb977f8ff13f622a8b8c0"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "90097439bda5f3be43e13615539865d3"
+        "md5": "a5b2914df8f30d72b640e934f64af135"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "a0290623f06a259ef8c2fec0c86be92a"
+        "md5": "e95f3d58b534a58fca0b2617518f7192"
     },
     {
         "path": "foafx-released.html",
         "type": "file",
-        "md5": "2b3118bfe655342de3e0f5e717d523cc"
+        "md5": "0e89762939a92bc31592b4175ecce2f9"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "093ee627222607c6d64409d1110dc454"
-    },
-    {
-        "path": "job-openings.html",
-        "type": "file",
-        "md5": "a8e397c5e214b6662c95ac4209abf67a"
+        "md5": "980e0e6af5de0f1107f8b3f506fc4fa4"
     },
     {
         "path": "media",
@@ -540,6 +535,76 @@
         "md5": "a3db93a75700eae5c02942c73c01e813"
     },
     {
+        "path": "media/posts/24",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/24/SRST_03082023_Niblock_blue.jpg",
+        "type": "file",
+        "md5": "1b754564cb4403ff701ba1c3f396b396"
+    },
+    {
+        "path": "/media/posts/24/SRST_03082023_Niblock_bw.jpg",
+        "type": "file",
+        "md5": "6213888e6a266ad3a83b538759851807"
+    },
+    {
+        "path": "media/posts/24/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/24/responsive/SRST_03082023_Niblock_blue-lg.jpg",
+        "type": "file",
+        "md5": "cbb8d5ed062165f33e7321d99e760a25"
+    },
+    {
+        "path": "/media/posts/24/responsive/SRST_03082023_Niblock_blue-md.jpg",
+        "type": "file",
+        "md5": "4259bdce039dadfb86d30639815a0fbd"
+    },
+    {
+        "path": "/media/posts/24/responsive/SRST_03082023_Niblock_blue-sm.jpg",
+        "type": "file",
+        "md5": "7561b8e63ea5450b99f097aaffa53a19"
+    },
+    {
+        "path": "/media/posts/24/responsive/SRST_03082023_Niblock_blue-xl.jpg",
+        "type": "file",
+        "md5": "a91ba01c148b9e286360e65d81bac43f"
+    },
+    {
+        "path": "/media/posts/24/responsive/SRST_03082023_Niblock_blue-xs.jpg",
+        "type": "file",
+        "md5": "98febfc5e9e01a87c870c166942335cb"
+    },
+    {
+        "path": "/media/posts/24/responsive/SRST_03082023_Niblock_bw-lg.jpg",
+        "type": "file",
+        "md5": "292cb226c208168fa94e35ba1a95e19f"
+    },
+    {
+        "path": "/media/posts/24/responsive/SRST_03082023_Niblock_bw-md.jpg",
+        "type": "file",
+        "md5": "8a708a98b634898d47656528f42dcd86"
+    },
+    {
+        "path": "/media/posts/24/responsive/SRST_03082023_Niblock_bw-sm.jpg",
+        "type": "file",
+        "md5": "8bfa4ae91100d67997d7292248615ba6"
+    },
+    {
+        "path": "/media/posts/24/responsive/SRST_03082023_Niblock_bw-xl.jpg",
+        "type": "file",
+        "md5": "d4c559a53982970c6f380d5a23c60846"
+    },
+    {
+        "path": "/media/posts/24/responsive/SRST_03082023_Niblock_bw-xs.jpg",
+        "type": "file",
+        "md5": "84ced0854e68f08471c3e2b4747e87f5"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -587,7 +652,7 @@
     {
         "path": "/news/index.html",
         "type": "file",
-        "md5": "9523bee2d168c48b6c912ac6ef04836e"
+        "md5": "7de86ad7d927b746995b0c745532bd39"
     },
     {
         "path": "page",
@@ -602,7 +667,12 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "898e5d3b129dc3ecf748682a4b857d69"
+        "md5": "2a0a87769d681c1e94ff81bdafffb818"
+    },
+    {
+        "path": "phill-niblock-katherine-liberovskaya.html",
+        "type": "file",
+        "md5": "3d3f40acf429092b4752514523a65b63"
     },
     {
         "path": "robots.txt",
@@ -612,7 +682,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "3220ce0f0f7246237e12275ea109c9e4"
+        "md5": "7e7d637d41e33eeb45432a7300622786"
     },
     {
         "path": "sitemap.xsl",
@@ -622,11 +692,11 @@
     {
         "path": "software.html",
         "type": "file",
-        "md5": "991c8c0b4e24b249fba78f557fb27fea"
+        "md5": "83cd1676fcb4c4bf3ee192a3f7ea08f8"
     },
     {
         "path": "synthesizers.html",
         "type": "file",
-        "md5": "6763a5192051a343ec92b4fb732d7f17"
+        "md5": "7805ec9b61fb066ed31cdce30abbc001"
     }
 ]
